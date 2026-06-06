@@ -1,0 +1,4775 @@
+{
+  "league_id": "leaders_world",
+  "league_name": "Devletler & Liderler",
+  "category": "countries",
+  "teams": {
+    "BY": {
+      "id": "BY",
+      "name": "Belarus",
+      "logo": "https://flagcdn.com/w320/by.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q2866",
+          "name": "Alyaksandar Lukaşenka",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%9B%D1%83%D0%BA%D0%B0%D1%88%D0%B5%D0%BD%D0%BA%D0%BE%20%2813-04-2023%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BY",
+          "team_name": "Belarus",
+          "team_logo": "https://flagcdn.com/w320/by.png"
+        },
+        {
+          "id": "Q56235580",
+          "name": "Alyaksandar Turçın",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Aliaksandr%20Tur%C4%8Dyn.png?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BY",
+          "team_name": "Belarus",
+          "team_logo": "https://flagcdn.com/w320/by.png"
+        }
+      ]
+    },
+    "MC": {
+      "id": "MC",
+      "name": "Monako",
+      "logo": "https://flagcdn.com/w320/mc.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3910",
+          "name": "II. Albert",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prince%20Albert%20II%202016.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MC",
+          "team_name": "Monako",
+          "team_logo": "https://flagcdn.com/w320/mc.png"
+        }
+      ]
+    },
+    "RU": {
+      "id": "RU",
+      "name": "Rusya",
+      "logo": "https://flagcdn.com/w320/ru.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q7747",
+          "name": "Vladimir Vladimiroviç Putin",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%9F%D1%83%D1%82%D0%B8%D0%BD%20%282025-05-22%29%20cropped.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "RU",
+          "team_name": "Rusya",
+          "team_logo": "https://flagcdn.com/w320/ru.png"
+        },
+        {
+          "id": "Q4298520",
+          "name": "Mihail Mişustin",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Mishustin%20%282026-02-25%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "RU",
+          "team_name": "Rusya",
+          "team_logo": "https://flagcdn.com/w320/ru.png"
+        }
+      ]
+    },
+    "TL": {
+      "id": "TL",
+      "name": "Doğu Timor",
+      "logo": "https://flagcdn.com/w320/tl.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q11665",
+          "name": "José Ramos-Horta",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/2022-05-20%20Jos%C3%A9%20Ramos-Horta.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TL",
+          "team_name": "Doğu Timor",
+          "team_logo": "https://flagcdn.com/w320/tl.png"
+        },
+        {
+          "id": "Q11509",
+          "name": "Xanana Gusmão",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Xanana%202011.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TL",
+          "team_name": "Doğu Timor",
+          "team_logo": "https://flagcdn.com/w320/tl.png"
+        }
+      ]
+    },
+    "CN": {
+      "id": "CN",
+      "name": "Çin Halk Cumhuriyeti",
+      "logo": "https://flagcdn.com/w320/cn.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q15031",
+          "name": "Xi Jinping",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Xi%20Jinping%20meets%20Keir%20Starmer%20Jan%202026.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CN",
+          "team_name": "Çin Halk Cumhuriyeti",
+          "team_logo": "https://flagcdn.com/w320/cn.png"
+        },
+        {
+          "id": "Q4414390",
+          "name": "Li Çiang",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Qiang%2C%20Premier%20of%20the%20People%27s%20Republic%20of%20China%20on%20October%2027%2C%202025%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "CN",
+          "team_name": "Çin Halk Cumhuriyeti",
+          "team_logo": "https://flagcdn.com/w320/cn.png"
+        }
+      ]
+    },
+    "US": {
+      "id": "US",
+      "name": "Amerika Birleşik Devletleri",
+      "logo": "https://flagcdn.com/w320/us.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q22686",
+          "name": "Donald Trump",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20Presidential%20Portrait%20of%20President%20Donald%20J.%20Trump%20%282025%29%20%28cropped%29%282%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "US",
+          "team_name": "Amerika Birleşik Devletleri",
+          "team_logo": "https://flagcdn.com/w320/us.png"
+        },
+        {
+          "id": "Q91",
+          "name": "Abraham Lincoln",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Lincoln%20O-77%20matte%20collodion%20print.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "US",
+          "team_name": "Amerika Birleşik Devletleri",
+          "team_logo": "https://flagcdn.com/w320/us.png"
+        },
+        {
+          "id": "Q23",
+          "name": "George Washington",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20Stuart%20Williamstown%20Portrait%20of%20George%20Washington.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "US",
+          "team_name": "Amerika Birleşik Devletleri",
+          "team_logo": "https://flagcdn.com/w320/us.png"
+        },
+        {
+          "id": "Q9916",
+          "name": "Dwight Eisenhower",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwight%20D.%20Eisenhower%2C%20official%20photo%20portrait%2C%20May%2029%2C%201959.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "US",
+          "team_name": "Amerika Birleşik Devletleri",
+          "team_logo": "https://flagcdn.com/w320/us.png"
+        },
+        {
+          "id": "Q9696",
+          "name": "John F. Kennedy",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20F.%20Kennedy%2C%20White%20House%20color%20photo%20portrait.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "US",
+          "team_name": "Amerika Birleşik Devletleri",
+          "team_logo": "https://flagcdn.com/w320/us.png"
+        },
+        {
+          "id": "Q8007",
+          "name": "Franklin D. Roosevelt",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/FDR%201944%20Color%20Portrait.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "US",
+          "team_name": "Amerika Birleşik Devletleri",
+          "team_logo": "https://flagcdn.com/w320/us.png"
+        }
+      ]
+    },
+    "CH": {
+      "id": "CH",
+      "name": "İsviçre",
+      "logo": "https://flagcdn.com/w320/ch.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q30917",
+          "name": "Federal hükûmet",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gruppenbild%20Bundesrat%202026.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CH",
+          "team_name": "İsviçre",
+          "team_logo": "https://flagcdn.com/w320/ch.png"
+        }
+      ]
+    },
+    "BR": {
+      "id": "BR",
+      "name": "Brezilya",
+      "logo": "https://flagcdn.com/w320/br.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q37181",
+          "name": "Luiz Inácio Lula da Silva",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Foto%20oficial%20de%20Luiz%20In%C3%A1cio%20Lula%20da%20Silva%20%28estreita%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BR",
+          "team_name": "Brezilya",
+          "team_logo": "https://flagcdn.com/w320/br.png"
+        }
+      ]
+    },
+    "TR": {
+      "id": "TR",
+      "name": "Türkiye",
+      "logo": "https://flagcdn.com/w320/tr.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q39259",
+          "name": "Recep Tayyip Erdoğan",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Recep%20Tayyip%20Erdogan%20in%20Ukraine.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TR",
+          "team_name": "Türkiye",
+          "team_logo": "https://flagcdn.com/w320/tr.png"
+        },
+        {
+          "id": "Q5152",
+          "name": "Mustafa Kemal Atatürk",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ataturk1930s.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "TR",
+          "team_name": "Türkiye",
+          "team_logo": "https://flagcdn.com/w320/tr.png"
+        }
+      ]
+    },
+    "CA": {
+      "id": "CA",
+      "name": "Kanada",
+      "logo": "https://flagcdn.com/w320/ca.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CA",
+          "team_name": "Kanada",
+          "team_logo": "https://flagcdn.com/w320/ca.png"
+        },
+        {
+          "id": "Q192533",
+          "name": "Mark Carney",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/2025-11-14%20InaugurationREM%20Deux-Montagnes%20Mark%20Carney.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "CA",
+          "team_name": "Kanada",
+          "team_logo": "https://flagcdn.com/w320/ca.png"
+        }
+      ]
+    },
+    "GB": {
+      "id": "GB",
+      "name": "Birleşik Krallık",
+      "logo": "https://flagcdn.com/w320/gb.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GB",
+          "team_name": "Birleşik Krallık",
+          "team_logo": "https://flagcdn.com/w320/gb.png"
+        },
+        {
+          "id": "Q6383803",
+          "name": "Keir Starmer",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Keir%20Starmer%20Portrait%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "GB",
+          "team_name": "Birleşik Krallık",
+          "team_logo": "https://flagcdn.com/w320/gb.png"
+        },
+        {
+          "id": "Q8016",
+          "name": "Winston Churchill",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Winston%20Churchill%20-%2019086236948%20%28restored%29.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "GB",
+          "team_name": "Birleşik Krallık",
+          "team_logo": "https://flagcdn.com/w320/gb.png"
+        }
+      ]
+    },
+    "BZ": {
+      "id": "BZ",
+      "name": "Belize",
+      "logo": "https://flagcdn.com/w320/bz.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BZ",
+          "team_name": "Belize",
+          "team_logo": "https://flagcdn.com/w320/bz.png"
+        },
+        {
+          "id": "Q6266369",
+          "name": "Johnny Briceño",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Johnny%20Brice%C3%B1o%20%2852135383761%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BZ",
+          "team_name": "Belize",
+          "team_logo": "https://flagcdn.com/w320/bz.png"
+        }
+      ]
+    },
+    "AU": {
+      "id": "AU",
+      "name": "Avustralya",
+      "logo": "https://flagcdn.com/w320/au.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AU",
+          "team_name": "Avustralya",
+          "team_logo": "https://flagcdn.com/w320/au.png"
+        },
+        {
+          "id": "Q335697",
+          "name": "Anthony Albanese",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Albanese%20portrait%20%28re-crop%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "AU",
+          "team_name": "Avustralya",
+          "team_logo": "https://flagcdn.com/w320/au.png"
+        }
+      ]
+    },
+    "NZ": {
+      "id": "NZ",
+      "name": "Yeni Zelanda",
+      "logo": "https://flagcdn.com/w320/nz.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "NZ",
+          "team_name": "Yeni Zelanda",
+          "team_logo": "https://flagcdn.com/w320/nz.png"
+        },
+        {
+          "id": "Q74370310",
+          "name": "Christopher Luxon",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20Luxon%202025%20%28mid%20cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "NZ",
+          "team_name": "Yeni Zelanda",
+          "team_logo": "https://flagcdn.com/w320/nz.png"
+        }
+      ]
+    },
+    "TV": {
+      "id": "TV",
+      "name": "Tuvalu",
+      "logo": "https://flagcdn.com/w320/tv.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TV",
+          "team_name": "Tuvalu",
+          "team_logo": "https://flagcdn.com/w320/tv.png"
+        },
+        {
+          "id": "Q5441662",
+          "name": "Feleti Teo",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Feleti%20Teo%202024.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TV",
+          "team_name": "Tuvalu",
+          "team_logo": "https://flagcdn.com/w320/tv.png"
+        }
+      ]
+    },
+    "SB": {
+      "id": "SB",
+      "name": "Solomon Adaları",
+      "logo": "https://flagcdn.com/w320/sb.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SB",
+          "team_name": "Solomon Adaları",
+          "team_logo": "https://flagcdn.com/w320/sb.png"
+        },
+        {
+          "id": "Q6180897",
+          "name": "Jeremiah Manele",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeremiah%20Manele%20January%202026.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "SB",
+          "team_name": "Solomon Adaları",
+          "team_logo": "https://flagcdn.com/w320/sb.png"
+        }
+      ]
+    },
+    "PG": {
+      "id": "PG",
+      "name": "Papua Yeni Gine",
+      "logo": "https://flagcdn.com/w320/pg.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "PG",
+          "team_name": "Papua Yeni Gine",
+          "team_logo": "https://flagcdn.com/w320/pg.png"
+        },
+        {
+          "id": "Q6138903",
+          "name": "James Marape",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Papua%20New%20Guinea%20Prime%20Minister%20James%20Marape%20in%20Port%20Moresby%2C%20Papua%20New%20Guinea%20on%20July%2027%2C%202023%20-%20230727-D-TT977-0140%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "PG",
+          "team_name": "Papua Yeni Gine",
+          "team_logo": "https://flagcdn.com/w320/pg.png"
+        }
+      ]
+    },
+    "SE": {
+      "id": "SE",
+      "name": "İsveç",
+      "logo": "https://flagcdn.com/w320/se.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q45068",
+          "name": "XVI. Carl Gustaf",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/06.11.2025%20%E2%80%93%20Recep%C3%A7%C3%A3o%20Oficial%20dos%20Chefes%20de%20Delega%C3%A7%C3%A3o%20da%20C%C3%BApula%20do%20Clima%20%2854906269035%29%20%28Carlos%20XVI%20Gustavo%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SE",
+          "team_name": "İsveç",
+          "team_logo": "https://flagcdn.com/w320/se.png"
+        },
+        {
+          "id": "Q1780398",
+          "name": "Ulf Kristersson",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulf%20Kristersson%20on%2029%20June%202023.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "SE",
+          "team_name": "İsveç",
+          "team_logo": "https://flagcdn.com/w320/se.png"
+        }
+      ]
+    },
+    "GH": {
+      "id": "GH",
+      "name": "Gana",
+      "logo": "https://flagcdn.com/w320/gh.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q50678",
+          "name": "John Dramani Mahama",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Mahama%20in%20Yokohama%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GH",
+          "team_name": "Gana",
+          "team_logo": "https://flagcdn.com/w320/gh.png"
+        },
+        {
+          "id": "Q718601",
+          "name": "Nana Addo Dankwa Akufo-Addo",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nana%20Akufo%20Addo%2C%20Jan.%202020.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "GH",
+          "team_name": "Gana",
+          "team_logo": "https://flagcdn.com/w320/gh.png"
+        }
+      ]
+    },
+    "NO": {
+      "id": "NO",
+      "name": "Norveç",
+      "logo": "https://flagcdn.com/w320/no.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57287",
+          "name": "V. Harald",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/REUNI%C3%93N%20CON%20EL%20REY%20DE%20NORUEGA%20HARALD%20V%20Y%20HAAKON%20MAGNUS%2C%20PR%C3%8DNCIPE%20HEREDERO%20DE%20NORUEGA.%20OSLO%2C%2010%20DE%20DICIEMBRE%20DE%202025.%20%2854976285370%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "NO",
+          "team_name": "Norveç",
+          "team_logo": "https://flagcdn.com/w320/no.png"
+        },
+        {
+          "id": "Q467948",
+          "name": "Jonas Gahr Støre",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Gahr%20Store%20in%20April%202025.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "NO",
+          "team_name": "Norveç",
+          "team_logo": "https://flagcdn.com/w320/no.png"
+        }
+      ]
+    },
+    "KH": {
+      "id": "KH",
+      "name": "Kamboçya",
+      "logo": "https://flagcdn.com/w320/kh.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57319",
+          "name": "Norodom Sihamoni",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ceremonial%20Reception%20of%20the%20King%20of%20Cambodia%2C%20Norodom%20Sihamoni%20on%20May%2030%2C%202023%20%283x4%20cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "KH",
+          "team_name": "Kamboçya",
+          "team_logo": "https://flagcdn.com/w320/kh.png"
+        },
+        {
+          "id": "Q13024351",
+          "name": "Hun Manet",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hun%20Manet%20in%20Australia%20on%20March%205%2C%202024.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KH",
+          "team_name": "Kamboçya",
+          "team_logo": "https://flagcdn.com/w320/kh.png"
+        }
+      ]
+    },
+    "BH": {
+      "id": "BH",
+      "name": "Bahreyn",
+      "logo": "https://flagcdn.com/w320/bh.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57352",
+          "name": "Hamad Bin İsa El Halife",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamad%20bin%20Isa%20Al%20Khalifa%20May%202025.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BH",
+          "team_name": "Bahreyn",
+          "team_logo": "https://flagcdn.com/w320/bh.png"
+        },
+        {
+          "id": "Q58140",
+          "name": "Salman bin Hamad bin Isa Al Khalifa",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kingdom%20of%20Bahrain%20Crown%20Prince%20and%20Prime%20Minister%2C%20His%20Royal%20Highness%20Salman%20bin%20Hamad%20Al%20Khalifa%20%28Salman%20bin%20Hamad%20bin%20Isa%20Al%20Khalifa%29%20participates%20in%20a%20bilateral%20exchange%20at%20the%20Pentagon%20on%20September%2014%2C%202023%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BH",
+          "team_name": "Bahreyn",
+          "team_logo": "https://flagcdn.com/w320/bh.png"
+        }
+      ]
+    },
+    "AZ": {
+      "id": "AZ",
+      "name": "Azerbaycan",
+      "logo": "https://flagcdn.com/w320/az.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57371",
+          "name": "İlham Aliyev",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilham%20Aliyev%2C%20December%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AZ",
+          "team_name": "Azerbaycan",
+          "team_logo": "https://flagcdn.com/w320/az.png"
+        },
+        {
+          "id": "Q12850075",
+          "name": "Ali Esedov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D0%B8%20%D0%90%D1%81%D0%B0%D0%B4%D0%BE%D0%B2%20%2825-08-2022%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "AZ",
+          "team_name": "Azerbaycan",
+          "team_logo": "https://flagcdn.com/w320/az.png"
+        }
+      ]
+    },
+    "LI": {
+      "id": "LI",
+      "name": "Lihtenştayn",
+      "logo": "https://flagcdn.com/w320/li.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57454",
+          "name": "II. Hans-Adam",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans-Adam%20II%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LI",
+          "team_name": "Lihtenştayn",
+          "team_logo": "https://flagcdn.com/w320/li.png"
+        },
+        {
+          "id": "Q30882650",
+          "name": "Daniel Risch",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Risch-Daniel-Portrait-2021-03%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "LI",
+          "team_name": "Lihtenştayn",
+          "team_logo": "https://flagcdn.com/w320/li.png"
+        }
+      ]
+    },
+    "HR": {
+      "id": "HR",
+      "name": "Hırvatistan",
+      "logo": "https://flagcdn.com/w320/hr.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57687",
+          "name": "Zoran Milanović",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Zoran%20Milanovi%C4%87%20at%20Palazzo%20del%20Quirinale%202021%20%2811%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "HR",
+          "team_name": "Hırvatistan",
+          "team_logo": "https://flagcdn.com/w320/hr.png"
+        },
+        {
+          "id": "Q11685764",
+          "name": "Andrej Plenković",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrej%20Plenkovi%C4%87%20%282025-09-02%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "HR",
+          "team_name": "Hırvatistan",
+          "team_logo": "https://flagcdn.com/w320/hr.png"
+        }
+      ]
+    },
+    "UZ": {
+      "id": "UZ",
+      "name": "Özbekistan",
+      "logo": "https://flagcdn.com/w320/uz.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57808",
+          "name": "Şevket Mirziyoyev",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Shavkat%20Mirziyoyev%20official%20portrait%20%28cropped%202%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "UZ",
+          "team_name": "Özbekistan",
+          "team_logo": "https://flagcdn.com/w320/uz.png"
+        },
+        {
+          "id": "Q28002959",
+          "name": "Abdulla Aripov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdulla%20Aripov%20%282019-05-30%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "UZ",
+          "team_name": "Özbekistan",
+          "team_logo": "https://flagcdn.com/w320/uz.png"
+        }
+      ]
+    },
+    "NR": {
+      "id": "NR",
+      "name": "Nauru",
+      "logo": "https://flagcdn.com/w320/nr.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q58096",
+          "name": "David Adeang",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Adeang%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "NR",
+          "team_name": "Nauru",
+          "team_logo": "https://flagcdn.com/w320/nr.png"
+        }
+      ]
+    },
+    "DE": {
+      "id": "DE",
+      "name": "Almanya",
+      "logo": "https://flagcdn.com/w320/de.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q76658",
+          "name": "Frank-Walter Steinmeier",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank-Walter%20Steinmeier%20in%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DE",
+          "team_name": "Almanya",
+          "team_logo": "https://flagcdn.com/w320/de.png"
+        },
+        {
+          "id": "Q566257",
+          "name": "Friedrich Merz",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/2025-02-23%20Bundestagswahl%20%E2%80%93%20Wahlabend%20CDU%20by%20Sandro%20Halank%E2%80%93070.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "DE",
+          "team_name": "Almanya",
+          "team_logo": "https://flagcdn.com/w320/de.png"
+        },
+        {
+          "id": "Q2492",
+          "name": "Konrad Adenauer",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F078072-0004%2C%20Konrad%20Adenauer.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "DE",
+          "team_name": "Almanya",
+          "team_logo": "https://flagcdn.com/w320/de.png"
+        },
+        {
+          "id": "Q2514",
+          "name": "Willy Brandt",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F057884-0009%2C%20Willy%20Brandt.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "DE",
+          "team_name": "Almanya",
+          "team_logo": "https://flagcdn.com/w320/de.png"
+        }
+      ]
+    },
+    "AT": {
+      "id": "AT",
+      "name": "Avusturya",
+      "logo": "https://flagcdn.com/w320/at.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q78869",
+          "name": "Alexander Van der Bellen",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Van%20der%20Bellen%20%2813-07-2021%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AT",
+          "team_name": "Avusturya",
+          "team_logo": "https://flagcdn.com/w320/at.png"
+        },
+        {
+          "id": "Q64576653",
+          "name": "Christian Stocker",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Stocker%20EuCo%202026.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "AT",
+          "team_name": "Avusturya",
+          "team_logo": "https://flagcdn.com/w320/at.png"
+        }
+      ]
+    },
+    "BE": {
+      "id": "BE",
+      "name": "Belçika",
+      "logo": "https://flagcdn.com/w320/be.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q155004",
+          "name": "Philippe",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20King%20Philippe%20I%20of%20Belgium%20to%20Ghent%20European%20Youth%20Capital%20on%2025%20April%202024%20-%20EU2024BE%20240425%20Visit%20of%20His%20Majesty%20the%20King%20to%20Ghent%20European%20Youth%20Capital%20Ghent%20JNZT%200078%20%2853677952391%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BE",
+          "team_name": "Belçika",
+          "team_logo": "https://flagcdn.com/w320/be.png"
+        },
+        {
+          "id": "Q336599",
+          "name": "Bart De Wever",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgian%20Prime%20Minister%20Bart%20De%20Wever%20%28head%20%2B%20shoulders%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BE",
+          "team_name": "Belçika",
+          "team_logo": "https://flagcdn.com/w320/be.png"
+        }
+      ]
+    },
+    "LU": {
+      "id": "LU",
+      "name": "Lüksemburg",
+      "logo": "https://flagcdn.com/w320/lu.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q161319",
+          "name": "V. Guillaume",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Duke%20Guillaume%2C%20February%202026%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LU",
+          "team_name": "Lüksemburg",
+          "team_logo": "https://flagcdn.com/w320/lu.png"
+        },
+        {
+          "id": "Q592101",
+          "name": "Luc Frieden",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Luc%20Frieden%20EP%202025%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "LU",
+          "team_name": "Lüksemburg",
+          "team_logo": "https://flagcdn.com/w320/lu.png"
+        }
+      ]
+    },
+    "ES": {
+      "id": "ES",
+      "name": "İspanya",
+      "logo": "https://flagcdn.com/w320/es.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q191045",
+          "name": "VI. Felipe",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Daiga%20Mieri%C5%86a%20tiekas%20ar%20Sp%C4%81nijas%20karali%20-%2053814974005%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "ES",
+          "team_name": "İspanya",
+          "team_logo": "https://flagcdn.com/w320/es.png"
+        },
+        {
+          "id": "Q6070218",
+          "name": "Pedro Sánchez",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Obisk%20%C5%A1panskega%20predsednika%20vlade%20v%20Sloveniji%20%2853658605930%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "ES",
+          "team_name": "İspanya",
+          "team_logo": "https://flagcdn.com/w320/es.png"
+        }
+      ]
+    },
+    "KE": {
+      "id": "KE",
+      "name": "Kenya",
+      "logo": "https://flagcdn.com/w320/ke.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q195725",
+          "name": "William Ruto",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Ruto%202023%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "KE",
+          "team_name": "Kenya",
+          "team_logo": "https://flagcdn.com/w320/ke.png"
+        }
+      ]
+    },
+    "KZ": {
+      "id": "KZ",
+      "name": "Kazakistan",
+      "logo": "https://flagcdn.com/w320/kz.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q200881",
+          "name": "Kasım-Cömert Tokayev",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/2025%20Tokayev%20Address%20to%20the%20Nation%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "KZ",
+          "team_name": "Kazakistan",
+          "team_logo": "https://flagcdn.com/w320/kz.png"
+        },
+        {
+          "id": "Q56825894",
+          "name": "Alihan İsmailov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D0%B8%D1%85%D0%B0%D0%BD%20%D0%A1%D0%BC%D0%B0%D0%B8%D0%BB%D0%BE%D0%B2%20%2830-03-2022%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KZ",
+          "team_name": "Kazakistan",
+          "team_logo": "https://flagcdn.com/w320/kz.png"
+        }
+      ]
+    },
+    "TO": {
+      "id": "TO",
+      "name": "Tonga",
+      "logo": "https://flagcdn.com/w320/to.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q208497",
+          "name": "VI. Tupou",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tupou%20VI%202025.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TO",
+          "team_name": "Tonga",
+          "team_logo": "https://flagcdn.com/w320/to.png"
+        },
+        {
+          "id": "Q5437258",
+          "name": "Fatafehi Fakafānua",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fatafehi%20Fakaf%C4%81nua%20January%202026.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TO",
+          "team_name": "Tonga",
+          "team_logo": "https://flagcdn.com/w320/to.png"
+        }
+      ]
+    },
+    "JP": {
+      "id": "JP",
+      "name": "Japonya",
+      "logo": "https://flagcdn.com/w320/jp.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q217096",
+          "name": "Naruhito",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Naruhito%2020250611%20%2854582524056%2C%20cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "JP",
+          "team_name": "Japonya",
+          "team_logo": "https://flagcdn.com/w320/jp.png"
+        },
+        {
+          "id": "Q1705028",
+          "name": "Sanae Takaiçi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Sanae%20Takaichi%2C%20Prime%20Minister%20of%20Japan%20%28HD%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "JP",
+          "team_name": "Japonya",
+          "team_logo": "https://flagcdn.com/w320/jp.png"
+        }
+      ]
+    },
+    "RS": {
+      "id": "RS",
+      "name": "Sırbistan",
+      "logo": "https://flagcdn.com/w320/rs.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q222031",
+          "name": "Aleksandar Vuçiç",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksandar%20Vu%C4%8Di%C4%87%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "RS",
+          "team_name": "Sırbistan",
+          "team_logo": "https://flagcdn.com/w320/rs.png"
+        }
+      ]
+    },
+    "GE": {
+      "id": "GE",
+      "name": "Gürcistan",
+      "logo": "https://flagcdn.com/w320/ge.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q272416",
+          "name": "Salomé Zourabichvili",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20Georgia%20Salome%20Zourabichvili%20in%20Brussels%2C%202019%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GE",
+          "team_name": "Gürcistan",
+          "team_logo": "https://flagcdn.com/w320/ge.png"
+        },
+        {
+          "id": "Q27885302",
+          "name": "İrakli Kobahidze",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Irakli%20Kobakhidze%2C%20Georgian%20Prime%20Minister%2C%20at%20the%20European%20Commission.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "GE",
+          "team_name": "Gürcistan",
+          "team_logo": "https://flagcdn.com/w320/ge.png"
+        }
+      ]
+    },
+    "BA": {
+      "id": "BA",
+      "name": "Bosna Hersek",
+      "logo": "https://flagcdn.com/w320/ba.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q297825",
+          "name": "Željko Komšić",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%BDeljko%20Kom%C5%A1i%C4%87%20%282025-12-17%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BA",
+          "team_name": "Bosna Hersek",
+          "team_logo": "https://flagcdn.com/w320/ba.png"
+        },
+        {
+          "id": "Q5528031",
+          "name": "Jelyka Tsviyanoviç",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%BDeljka%20Cvijanovi%C4%87%20%282024-12-18%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BA",
+          "team_name": "Bosna Hersek",
+          "team_logo": "https://flagcdn.com/w320/ba.png"
+        },
+        {
+          "id": "Q13081568",
+          "name": "Deniz Beçiroviç",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Denis%20Be%C4%87irovi%C4%87%20-%20March%202026.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BA",
+          "team_name": "Bosna Hersek",
+          "team_logo": "https://flagcdn.com/w320/ba.png"
+        },
+        {
+          "id": "Q387491",
+          "name": "Boryana Krişto",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Borjana%20Kri%C5%A1to%20%282025-06-11%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BA",
+          "team_name": "Bosna Hersek",
+          "team_logo": "https://flagcdn.com/w320/ba.png"
+        }
+      ]
+    },
+    "EG": {
+      "id": "EG",
+      "name": "Mısır",
+      "logo": "https://flagcdn.com/w320/eg.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q307871",
+          "name": "Abdülfettah Sisi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/AbdelFattah%20Elsisi%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "EG",
+          "team_name": "Mısır",
+          "team_logo": "https://flagcdn.com/w320/eg.png"
+        },
+        {
+          "id": "Q54901515",
+          "name": "Mustafa Medbuli",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mostafa%20Madbouly%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "EG",
+          "team_name": "Mısır",
+          "team_logo": "https://flagcdn.com/w320/eg.png"
+        }
+      ]
+    },
+    "BG": {
+      "id": "BG",
+      "name": "Bulgaristan",
+      "logo": "https://flagcdn.com/w320/bg.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q433338",
+          "name": "Iliana Yotova",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Iliana%20Iotova%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BG",
+          "team_name": "Bulgaristan",
+          "team_logo": "https://flagcdn.com/w320/bg.png"
+        },
+        {
+          "id": "Q26257557",
+          "name": "Rumen Padev",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20Portrait%20of%20Rumen%20Radev%20v2%20%282026%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BG",
+          "team_name": "Bulgaristan",
+          "team_logo": "https://flagcdn.com/w320/bg.png"
+        }
+      ]
+    },
+    "SR": {
+      "id": "SR",
+      "name": "Surinam",
+      "logo": "https://flagcdn.com/w320/sr.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q440403",
+          "name": "Jennifer Geerlings-Simons",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Jennifer%20Geerlings-Simons%2C%20November%202025.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SR",
+          "team_name": "Surinam",
+          "team_logo": "https://flagcdn.com/w320/sr.png"
+        }
+      ]
+    },
+    "FI": {
+      "id": "FI",
+      "name": "Finlandiya",
+      "logo": "https://flagcdn.com/w320/fi.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q503143",
+          "name": "Alexander Stubb",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Stubb%20in%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "FI",
+          "team_name": "Finlandiya",
+          "team_logo": "https://flagcdn.com/w320/fi.png"
+        },
+        {
+          "id": "Q6029546",
+          "name": "Petteri Orpo",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Petteri-Orpo-01%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "FI",
+          "team_name": "Finlandiya",
+          "team_logo": "https://flagcdn.com/w320/fi.png"
+        }
+      ]
+    },
+    "CO": {
+      "id": "CO",
+      "name": "Kolombiya",
+      "logo": "https://flagcdn.com/w320/co.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q704022",
+          "name": "Gustavo Petro",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustavo%20Petro%202022.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CO",
+          "team_name": "Kolombiya",
+          "team_logo": "https://flagcdn.com/w320/co.png"
+        }
+      ]
+    },
+    "SG": {
+      "id": "SG",
+      "name": "Singapur",
+      "logo": "https://flagcdn.com/w320/sg.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q983752",
+          "name": "Tharman Shanmugaratnam",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tharman%20Shanmugaratnam%20Official%20photo%202023.tif?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SG",
+          "team_name": "Singapur",
+          "team_logo": "https://flagcdn.com/w320/sg.png"
+        },
+        {
+          "id": "Q6504758",
+          "name": "Lawrence Wong",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lawrence%20Wong%2020230526.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "SG",
+          "team_name": "Singapur",
+          "team_logo": "https://flagcdn.com/w320/sg.png"
+        }
+      ]
+    },
+    "ZA": {
+      "id": "ZA",
+      "name": "Güney Afrika",
+      "logo": "https://flagcdn.com/w320/za.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q1148669",
+          "name": "Cyril Ramaphosa",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/21.11.2025%20%E2%80%93%20Presidente%20da%20Rep%C3%BAblica%20da%20%C3%81frica%20do%20Sul%2C%20Cyril%20Ramaphosa%20%2854938010569%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "ZA",
+          "team_name": "Güney Afrika",
+          "team_logo": "https://flagcdn.com/w320/za.png"
+        },
+        {
+          "id": "Q8023",
+          "name": "Nelson Mandela",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20Mandela%201994.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "ZA",
+          "team_name": "Güney Afrika",
+          "team_logo": "https://flagcdn.com/w320/za.png"
+        }
+      ]
+    },
+    "PT": {
+      "id": "PT",
+      "name": "Portekiz",
+      "logo": "https://flagcdn.com/w320/pt.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q1580316",
+          "name": "António José Seguro",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ant%C3%B3nio%20Jos%C3%A9%20Seguro%202026-04-21.png?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "PT",
+          "team_name": "Portekiz",
+          "team_logo": "https://flagcdn.com/w320/pt.png"
+        },
+        {
+          "id": "Q11764394",
+          "name": "Luís Montenegro",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lu%C3%ADs%20Montenegro%2C%202025.06.26%20%2805%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "PT",
+          "team_name": "Portekiz",
+          "team_logo": "https://flagcdn.com/w320/pt.png"
+        }
+      ]
+    },
+    "MT": {
+      "id": "MT",
+      "name": "Malta",
+      "logo": "https://flagcdn.com/w320/mt.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q1647394",
+          "name": "Myriam Spiteri Debono",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Myriam%20Spiteri%20Debono%20on%20April%2020%2C%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MT",
+          "team_name": "Malta",
+          "team_logo": "https://flagcdn.com/w320/mt.png"
+        },
+        {
+          "id": "Q37860840",
+          "name": "Robert Abela",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Abela%2C%202025.06.26%20%2803%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MT",
+          "team_name": "Malta",
+          "team_logo": "https://flagcdn.com/w320/mt.png"
+        }
+      ]
+    },
+    "CU": {
+      "id": "CU",
+      "name": "Küba",
+      "logo": "https://flagcdn.com/w320/cu.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q1932603",
+          "name": "Miguel Díaz-Canel",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Diaz-Canel%20on%20July%207%2C%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CU",
+          "team_name": "Küba",
+          "team_logo": "https://flagcdn.com/w320/cu.png"
+        },
+        {
+          "id": "Q79358625",
+          "name": "Manuel Marrero Cruz",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Marrero%20Cruz%20before%20the%20funeral%20of%20Shinzo%20Abe.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "CU",
+          "team_name": "Küba",
+          "team_logo": "https://flagcdn.com/w320/cu.png"
+        }
+      ]
+    },
+    "CZ": {
+      "id": "CZ",
+      "name": "Çekya",
+      "logo": "https://flagcdn.com/w320/cz.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q2080040",
+          "name": "Petr Pavel",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Petr%20Pavel.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CZ",
+          "team_name": "Çekya",
+          "team_logo": "https://flagcdn.com/w320/cz.png"
+        },
+        {
+          "id": "Q10819807",
+          "name": "Andrej Babiš",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrej%20Babi%C5%A1%202025%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "CZ",
+          "team_name": "Çekya",
+          "team_logo": "https://flagcdn.com/w320/cz.png"
+        },
+        {
+          "id": "Q36233",
+          "name": "Václav Havel",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A1clav%20Havel%20cut%20out.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "CZ",
+          "team_name": "Çekya",
+          "team_logo": "https://flagcdn.com/w320/cz.png"
+        }
+      ]
+    },
+    "ID": {
+      "id": "ID",
+      "name": "Endonezya",
+      "logo": "https://flagcdn.com/w320/id.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q2107268",
+          "name": "Prabowo Subianto",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prabowo%20Subianto%202024%20official%20portrait.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "ID",
+          "team_name": "Endonezya",
+          "team_logo": "https://flagcdn.com/w320/id.png"
+        }
+      ]
+    },
+    "DZ": {
+      "id": "DZ",
+      "name": "Cezayir",
+      "logo": "https://flagcdn.com/w320/dz.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q2821166",
+          "name": "Abdülmecid Tebbun",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdelmadjid%20Tebboune%20%282023%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DZ",
+          "team_name": "Cezayir",
+          "team_logo": "https://flagcdn.com/w320/dz.png"
+        }
+      ]
+    },
+    "LV": {
+      "id": "LV",
+      "name": "Letonya",
+      "logo": "https://flagcdn.com/w320/lv.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3047551",
+          "name": "Edgars Rinkēvičs",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgars%20Rink%C4%93vi%C4%8Ds%20as%20president-elect%2C%202023-05-31%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LV",
+          "team_name": "Letonya",
+          "team_logo": "https://flagcdn.com/w320/lv.png"
+        },
+        {
+          "id": "Q61121565",
+          "name": "Evika Siliņa",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Evika%20Sili%C5%86a%20%282024%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "LV",
+          "team_name": "Letonya",
+          "team_logo": "https://flagcdn.com/w320/lv.png"
+        }
+      ]
+    },
+    "FR": {
+      "id": "FR",
+      "name": "Fransa",
+      "logo": "https://flagcdn.com/w320/fr.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3052772",
+          "name": "Emmanuel Macron",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel%20Macron%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "FR",
+          "team_name": "Fransa",
+          "team_logo": "https://flagcdn.com/w320/fr.png"
+        },
+        {
+          "id": "Q20089181",
+          "name": "Sébastien Lecornu",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9bastien%20Lecornu%202024%20%282x3%20crop%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "FR",
+          "team_name": "Fransa",
+          "team_logo": "https://flagcdn.com/w320/fr.png"
+        },
+        {
+          "id": "Q2042",
+          "name": "Charles de Gaulle",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Charles%20de%20Gaulle%20in%201945.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "FR",
+          "team_name": "Fransa",
+          "team_logo": "https://flagcdn.com/w320/fr.png"
+        }
+      ]
+    },
+    "AD": {
+      "id": "AD",
+      "name": "Andorra",
+      "logo": "https://flagcdn.com/w320/ad.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3052772",
+          "name": "Emmanuel Macron",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel%20Macron%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AD",
+          "team_name": "Andorra",
+          "team_logo": "https://flagcdn.com/w320/ad.png"
+        },
+        {
+          "id": "Q93244592",
+          "name": "Josep-Lluís Serrano Pentinat",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/JLSerranoP.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AD",
+          "team_name": "Andorra",
+          "team_logo": "https://flagcdn.com/w320/ad.png"
+        },
+        {
+          "id": "Q21001195",
+          "name": "Xavier Espot Zamora",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Xavier%20Espot%20Zamora%20in%202024%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "AD",
+          "team_name": "Andorra",
+          "team_logo": "https://flagcdn.com/w320/ad.png"
+        }
+      ]
+    },
+    "AM": {
+      "id": "AM",
+      "name": "Ermenistan",
+      "logo": "https://flagcdn.com/w320/am.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3553274",
+          "name": "Vahan Haçaduryan",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vahagn%20Khachaturyan%202022%20%28%D5%8E%D5%A1%D5%B0%D5%A1%D5%A3%D5%B6%20%D4%B3%D5%A1%D5%BC%D5%B6%D5%AB%D5%AF%D5%AB%20%D4%BD%D5%A1%D5%B9%D5%A1%D5%BF%D5%B8%D6%82%D6%80%D5%B5%D5%A1%D5%B6%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AM",
+          "team_name": "Ermenistan",
+          "team_logo": "https://flagcdn.com/w320/am.png"
+        },
+        {
+          "id": "Q7035479",
+          "name": "Nikol Paşinyan",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikol%20Pashinyan%202026-04-01.png?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "AM",
+          "team_name": "Ermenistan",
+          "team_logo": "https://flagcdn.com/w320/am.png"
+        }
+      ]
+    },
+    "UA": {
+      "id": "UA",
+      "name": "Ukrayna",
+      "logo": "https://flagcdn.com/w320/ua.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3874799",
+          "name": "Volodimir Zelenski",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Volodymyr%20Zelensky%20Official%20portrait.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "UA",
+          "team_name": "Ukrayna",
+          "team_logo": "https://flagcdn.com/w320/ua.png"
+        },
+        {
+          "id": "Q61112536",
+          "name": "Yulia Sviridenko",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%92%D0%98%D0%A0%D0%98%D0%94%D0%95%D0%9D%D0%9A%D0%9E%20%D0%AE%D0%BB%D1%96%D1%8F%20%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%96%D1%97%D0%B2%D0%BD%D0%B0%20%283x4%20cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "UA",
+          "team_name": "Ukrayna",
+          "team_logo": "https://flagcdn.com/w320/ua.png"
+        }
+      ]
+    },
+    "IT": {
+      "id": "IT",
+      "name": "İtalya",
+      "logo": "https://flagcdn.com/w320/it.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3956186",
+          "name": "Sergio Mattarella",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20Mattarella%20Presidente%20della%20Repubblica%20Italiana.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "IT",
+          "team_name": "İtalya",
+          "team_logo": "https://flagcdn.com/w320/it.png"
+        },
+        {
+          "id": "Q451791",
+          "name": "Giorgia Meloni",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgia%20Meloni%20Official%202024%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "IT",
+          "team_name": "İtalya",
+          "team_logo": "https://flagcdn.com/w320/it.png"
+        }
+      ]
+    },
+    "IE": {
+      "id": "IE",
+      "name": "İrlanda",
+      "logo": "https://flagcdn.com/w320/ie.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q5052598",
+          "name": "Catherine Connolly",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Inauguration%20of%20Catherine%20Connolly%2C%2011%20November%202025%2015%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "IE",
+          "team_name": "İrlanda",
+          "team_logo": "https://flagcdn.com/w320/ie.png"
+        },
+        {
+          "id": "Q920403",
+          "name": "Micheál Martin",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/2026%20Miche%C3%A1l%20Martin%20-%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "IE",
+          "team_name": "İrlanda",
+          "team_logo": "https://flagcdn.com/w320/ie.png"
+        }
+      ]
+    },
+    "CL": {
+      "id": "CL",
+      "name": "Şili",
+      "logo": "https://flagcdn.com/w320/cl.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q5937916",
+          "name": "José Antonio Kast",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Presidente%20Jos%C3%A9%20Antonio%20Kast%20en%20marzo%20de%202026.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CL",
+          "team_name": "Şili",
+          "team_logo": "https://flagcdn.com/w320/cl.png"
+        }
+      ]
+    },
+    "FM": {
+      "id": "FM",
+      "name": "Mikronezya",
+      "logo": "https://flagcdn.com/w320/fm.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q7984081",
+          "name": "Wesley Simina",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Wesley%20Simina%2C%20Federated%20States%20of%20Micronesia%20President%2C%20at%20the%20Department%20of%20State%20in%20Washington%2C%20D.C.%20on%20March%2018%2C%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "FM",
+          "team_name": "Mikronezya",
+          "team_logo": "https://flagcdn.com/w320/fm.png"
+        }
+      ]
+    },
+    "LT": {
+      "id": "LT",
+      "name": "Litvanya",
+      "logo": "https://flagcdn.com/w320/lt.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q9268379",
+          "name": "Gitanas Nausėda",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gitanas%20Naus%C4%97da%2C%202025.06.26%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LT",
+          "team_name": "Litvanya",
+          "team_logo": "https://flagcdn.com/w320/lt.png"
+        },
+        {
+          "id": "Q124516173",
+          "name": "Inga Ruginienė",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruginien%C4%97%20meeting%20Metsola%202026%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "LT",
+          "team_name": "Litvanya",
+          "team_logo": "https://flagcdn.com/w320/lt.png"
+        }
+      ]
+    },
+    "BB": {
+      "id": "BB",
+      "name": "Barbados",
+      "logo": "https://flagcdn.com/w320/bb.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q9333540",
+          "name": "Sandra Mason",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandra%20of%20Barbados.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BB",
+          "team_name": "Barbados",
+          "team_logo": "https://flagcdn.com/w320/bb.png"
+        },
+        {
+          "id": "Q6827147",
+          "name": "Mia Mottley",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/06.11.2025%20%E2%80%93%20Recep%C3%A7%C3%A3o%20Oficial%20dos%20Chefes%20de%20Delega%C3%A7%C3%A3o%20da%20C%C3%BApula%20do%20Clima%20%2854906293485%29%20%28Mia%20Mottley%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BB",
+          "team_name": "Barbados",
+          "team_logo": "https://flagcdn.com/w320/bb.png"
+        }
+      ]
+    },
+    "RO": {
+      "id": "RO",
+      "name": "Romanya",
+      "logo": "https://flagcdn.com/w320/ro.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q11163124",
+          "name": "Nicușor Dan",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicu%C8%99or%20Dan%20-%20Eastern%20Flank%20Summit%2016%20December%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "RO",
+          "team_name": "Romanya",
+          "team_logo": "https://flagcdn.com/w320/ro.png"
+        },
+        {
+          "id": "Q18538164",
+          "name": "Ilie Bolojan",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilie%20Bolojan%20-%206%20March%202025%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "RO",
+          "team_name": "Romanya",
+          "team_logo": "https://flagcdn.com/w320/ro.png"
+        }
+      ]
+    },
+    "MK": {
+      "id": "MK",
+      "name": "Kuzey Makedonya",
+      "logo": "https://flagcdn.com/w320/mk.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q12277168",
+          "name": "Gordana Siljanovska-Davkova",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gordana%20Siljanovska-Davkova%20%282025-05-15%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MK",
+          "team_name": "Kuzey Makedonya",
+          "team_logo": "https://flagcdn.com/w320/mk.png"
+        },
+        {
+          "id": "Q46675558",
+          "name": "Hristijan Mickoski",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hristijan%20Mickoski%202024%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MK",
+          "team_name": "Kuzey Makedonya",
+          "team_logo": "https://flagcdn.com/w320/mk.png"
+        }
+      ]
+    },
+    "EE": {
+      "id": "EE",
+      "name": "Estonya",
+      "logo": "https://flagcdn.com/w320/ee.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q12358575",
+          "name": "Alar Karis",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alar%20Karis%202024.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "EE",
+          "team_name": "Estonya",
+          "team_logo": "https://flagcdn.com/w320/ee.png"
+        },
+        {
+          "id": "Q1789192",
+          "name": "Kristen Michal",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristen%20Michal%20in%202024%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "EE",
+          "team_name": "Estonya",
+          "team_logo": "https://flagcdn.com/w320/ee.png"
+        }
+      ]
+    },
+    "SI": {
+      "id": "SI",
+      "name": "Slovenya",
+      "logo": "https://flagcdn.com/w320/si.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q12797332",
+          "name": "Nataša Pirc Musar",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nata%C5%A1a%20Pirc%20Musar%20%282023-05-19%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SI",
+          "team_name": "Slovenya",
+          "team_logo": "https://flagcdn.com/w320/si.png"
+        },
+        {
+          "id": "Q18645045",
+          "name": "Robert Golob",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Golob%20-%2055101223158.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "SI",
+          "team_name": "Slovenya",
+          "team_logo": "https://flagcdn.com/w320/si.png"
+        }
+      ]
+    },
+    "MD": {
+      "id": "MD",
+      "name": "Moldova",
+      "logo": "https://flagcdn.com/w320/md.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q15071069",
+          "name": "Maia Sandu",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Maia%20Sandu%2C%20September%202025.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MD",
+          "team_name": "Moldova",
+          "team_logo": "https://flagcdn.com/w320/md.png"
+        },
+        {
+          "id": "Q136489383",
+          "name": "Alexandru Munteanu",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandru%20Munteanu%20official%20portrait.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MD",
+          "team_name": "Moldova",
+          "team_logo": "https://flagcdn.com/w320/md.png"
+        }
+      ]
+    },
+    "VE": {
+      "id": "VE",
+      "name": "Venezuela",
+      "logo": "https://flagcdn.com/w320/ve.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q15081116",
+          "name": "Delcy Rodriguez",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Delcy%20Rodr%C3%ADguez%20-%2002%20%2819-01-2026%29%20%28cropped%202%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "VE",
+          "team_name": "Venezuela",
+          "team_logo": "https://flagcdn.com/w320/ve.png"
+        },
+        {
+          "id": "Q8605",
+          "name": "Simón Bolívar",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sim%C3%B3n%20Bol%C3%ADvar%20by%20Acevedo%20Bernal%2C%201922.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "VE",
+          "team_name": "Venezuela",
+          "team_logo": "https://flagcdn.com/w320/ve.png"
+        }
+      ]
+    },
+    "TD": {
+      "id": "TD",
+      "name": "Çad",
+      "logo": "https://flagcdn.com/w320/td.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q16206405",
+          "name": "Muhammed İdris Debi İtno",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahamat%20D%C3%A9by.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TD",
+          "team_name": "Çad",
+          "team_logo": "https://flagcdn.com/w320/td.png"
+        },
+        {
+          "id": "Q57350",
+          "name": "İdris Debi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Idriss%20D%C3%A9by%20at%20the%20White%20House%20in%202014.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TD",
+          "team_name": "Çad",
+          "team_logo": "https://flagcdn.com/w320/td.png"
+        },
+        {
+          "id": "Q4710950",
+          "name": "Albert Pahimi Padacké",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%20%D0%9F%D0%B0%D1%85%D0%B8%D0%BC%D0%B8%20%D0%9F%D0%B0%D0%B4%D0%B0%D0%BA%D0%B5%20%2816-11-2021%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TD",
+          "team_name": "Çad",
+          "team_logo": "https://flagcdn.com/w320/td.png"
+        }
+      ]
+    },
+    "SK": {
+      "id": "SK",
+      "name": "Slovakya",
+      "logo": "https://flagcdn.com/w320/sk.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q17330556",
+          "name": "Peter Pellegrini",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Pellegrini%2C%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SK",
+          "team_name": "Slovakya",
+          "team_logo": "https://flagcdn.com/w320/sk.png"
+        },
+        {
+          "id": "Q57606",
+          "name": "Robert Fico",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Fico%20%2854359433078%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "SK",
+          "team_name": "Slovakya",
+          "team_logo": "https://flagcdn.com/w320/sk.png"
+        }
+      ]
+    },
+    "PL": {
+      "id": "PL",
+      "name": "Polonya",
+      "logo": "https://flagcdn.com/w320/pl.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q17704749",
+          "name": "Karol Nawrocki",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Karol%20Nawrocki%20%282025%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "PL",
+          "team_name": "Polonya",
+          "team_logo": "https://flagcdn.com/w320/pl.png"
+        },
+        {
+          "id": "Q946",
+          "name": "Donald Tusk",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Premier%20Donald%20Tusk%20KPRM.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "PL",
+          "team_name": "Polonya",
+          "team_logo": "https://flagcdn.com/w320/pl.png"
+        },
+        {
+          "id": "Q444",
+          "name": "Lech Wałęsa",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Walesa%20-%202009.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "PL",
+          "team_name": "Polonya",
+          "team_logo": "https://flagcdn.com/w320/pl.png"
+        }
+      ]
+    },
+    "IN": {
+      "id": "IN",
+      "name": "Hindistan",
+      "logo": "https://flagcdn.com/w320/in.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q19901232",
+          "name": "Droupadi Murmu",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20India%20Droupadi%20Murmu%20official%20portrait%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "IN",
+          "team_name": "Hindistan",
+          "team_logo": "https://flagcdn.com/w320/in.png"
+        },
+        {
+          "id": "Q1058",
+          "name": "Narendra Modi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Of%20Bharat%20Shri%20Narendra%20Damodardas%20Modi.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "IN",
+          "team_name": "Hindistan",
+          "team_logo": "https://flagcdn.com/w320/in.png"
+        },
+        {
+          "id": "Q1001",
+          "name": "Mohandas Karamçand Gandi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahatma-Gandhi%2C%20studio%2C%201931.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "IN",
+          "team_name": "Hindistan",
+          "team_logo": "https://flagcdn.com/w320/in.png"
+        }
+      ]
+    },
+    "UY": {
+      "id": "UY",
+      "name": "Uruguay",
+      "logo": "https://flagcdn.com/w320/uy.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q19946921",
+          "name": "Yamandú Orsi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Yamand%C3%BA%20Orsi.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "UY",
+          "team_name": "Uruguay",
+          "team_logo": "https://flagcdn.com/w320/uy.png"
+        }
+      ]
+    },
+    "MH": {
+      "id": "MH",
+      "name": "Marshall Adaları",
+      "logo": "https://flagcdn.com/w320/mh.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q20090884",
+          "name": "Hilda Heine",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilda%20Heine%202022.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MH",
+          "team_name": "Marshall Adaları",
+          "team_logo": "https://flagcdn.com/w320/mh.png"
+        }
+      ]
+    },
+    "GR": {
+      "id": "GR",
+      "name": "Yunanistan",
+      "logo": "https://flagcdn.com/w320/gr.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q20995518",
+          "name": "Konstantinos Tasulas",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/KonstantinosTasoulas.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GR",
+          "team_name": "Yunanistan",
+          "team_logo": "https://flagcdn.com/w320/gr.png"
+        },
+        {
+          "id": "Q552751",
+          "name": "Kiriakos Miçotakis",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyriakos%20MITSOTAKIS%20at%20European%20Council%20-%20March%202025.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "GR",
+          "team_name": "Yunanistan",
+          "team_logo": "https://flagcdn.com/w320/gr.png"
+        }
+      ]
+    },
+    "PY": {
+      "id": "PY",
+      "name": "Paraguay",
+      "logo": "https://flagcdn.com/w320/py.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q22695687",
+          "name": "Santiago Peña",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Con%20Santiago%20Abascal%20recepci%C3%B3n%20Paraguay.%2012%C2%B706%C2%B72025%20-%2054593076338%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "PY",
+          "team_name": "Paraguay",
+          "team_logo": "https://flagcdn.com/w320/py.png"
+        }
+      ]
+    },
+    "KI": {
+      "id": "KI",
+      "name": "Kiribati",
+      "logo": "https://flagcdn.com/w320/ki.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q23034482",
+          "name": "Taneti Maamau",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Taneti%20Maamau%20Feb%202023.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "KI",
+          "team_name": "Kiribati",
+          "team_logo": "https://flagcdn.com/w320/ki.png"
+        }
+      ]
+    },
+    "IS": {
+      "id": "IS",
+      "name": "İzlanda",
+      "logo": "https://flagcdn.com/w320/is.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q24494577",
+          "name": "Halla Tómasdóttir",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Halla%20T%C3%B3masd%C3%B3ttir%20at%20Arctic%20Circle%202024%20cropped.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "IS",
+          "team_name": "İzlanda",
+          "team_logo": "https://flagcdn.com/w320/is.png"
+        },
+        {
+          "id": "Q108856371",
+          "name": "Kristrún Frostadóttir",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristr%C3%BAn%20Frostad%C3%B3ttir%202021.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "IS",
+          "team_name": "İzlanda",
+          "team_logo": "https://flagcdn.com/w320/is.png"
+        }
+      ]
+    },
+    "PW": {
+      "id": "PW",
+      "name": "Palau",
+      "logo": "https://flagcdn.com/w320/pw.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q26703072",
+          "name": "Surangel Whipps Jr.",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Surangel%20Whipps%20Jr%202026.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "PW",
+          "team_name": "Palau",
+          "team_logo": "https://flagcdn.com/w320/pw.png"
+        }
+      ]
+    },
+    "MN": {
+      "id": "MN",
+      "name": "Moğolistan",
+      "logo": "https://flagcdn.com/w320/mn.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q27058418",
+          "name": "Ukhnaagiin Khürelsükh",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ukhnaagiin%20Kh%C3%BCrels%C3%BCkh%20%28Kh%C3%BCrels%C3%BCkh%20Ukhnaa%29%20%28%D0%A3%D1%85%D0%BD%D0%B0%D0%B0%D0%B3%D0%B8%D0%B9%D0%BD%20%D0%A5%D2%AF%D1%80%D1%8D%D0%BB%D1%81%D2%AF%D1%85%29%2C%20President%20of%20Mongolia%20on%2026%20April%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MN",
+          "team_name": "Moğolistan",
+          "team_logo": "https://flagcdn.com/w320/mn.png"
+        },
+        {
+          "id": "Q110962738",
+          "name": "Nyam-Osoryn Uchral",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/ZAZ0697%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MN",
+          "team_name": "Moğolistan",
+          "team_logo": "https://flagcdn.com/w320/mn.png"
+        }
+      ]
+    },
+    "HU": {
+      "id": "HU",
+      "name": "Macaristan",
+      "logo": "https://flagcdn.com/w320/hu.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q28599854",
+          "name": "Tamás Sulyok",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sulyok%20Tam%C3%A1s%20hivatalos%20portr%C3%A9ja%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "HU",
+          "team_name": "Macaristan",
+          "team_logo": "https://flagcdn.com/w320/hu.png"
+        },
+        {
+          "id": "Q124488292",
+          "name": "Péter Magyar",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A9ter%20Magyar%20MEP%20%282024%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "HU",
+          "team_name": "Macaristan",
+          "team_logo": "https://flagcdn.com/w320/hu.png"
+        }
+      ]
+    },
+    "WS": {
+      "id": "WS",
+      "name": "Samoa",
+      "logo": "https://flagcdn.com/w320/ws.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q32014514",
+          "name": "II. Va'aletoa Sualauvi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Va%27aleto%27a%20Sualauvi%20II%20profile%20%28cropped%29.png?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "WS",
+          "team_name": "Samoa",
+          "team_logo": "https://flagcdn.com/w320/ws.png"
+        },
+        {
+          "id": "Q57723",
+          "name": "Tuila'epa Aiono Sailele Malielegaoi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuilaepa%20Aiono%20Sailele%20Malielegaoi%202014%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "WS",
+          "team_name": "Samoa",
+          "team_logo": "https://flagcdn.com/w320/ws.png"
+        },
+        {
+          "id": "Q5446290",
+          "name": "Naomi Mata'afa",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fiam%C4%93%20Naomi%20Mata%CA%BBafa%20in%202024%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "WS",
+          "team_name": "Samoa",
+          "team_logo": "https://flagcdn.com/w320/ws.png"
+        }
+      ]
+    },
+    "CY": {
+      "id": "CY",
+      "name": "Kıbrıs Rum Kesimi",
+      "logo": "https://flagcdn.com/w320/cy.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q48905549",
+          "name": "Nikos Hristodulidis",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikos%20CHRISTODOULIDES%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CY",
+          "team_name": "Kıbrıs Rum Kesimi",
+          "team_logo": "https://flagcdn.com/w320/cy.png"
+        }
+      ]
+    },
+    "AR": {
+      "id": "AR",
+      "name": "Arjantin",
+      "logo": "https://flagcdn.com/w320/ar.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q52395487",
+          "name": "Javier Milei",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mattarella%20Milei%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AR",
+          "team_name": "Arjantin",
+          "team_logo": "https://flagcdn.com/w320/ar.png"
+        }
+      ]
+    },
+    "GY": {
+      "id": "GY",
+      "name": "Guyana",
+      "logo": "https://flagcdn.com/w320/gy.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q64840184",
+          "name": "İrfan Ali",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/2025%20Irfaan%20Ali%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GY",
+          "team_name": "Guyana",
+          "team_logo": "https://flagcdn.com/w320/gy.png"
+        },
+        {
+          "id": "Q98053664",
+          "name": "Mark Phillips",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/PM%20Mark%20Phillips%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "GY",
+          "team_name": "Guyana",
+          "team_logo": "https://flagcdn.com/w320/gy.png"
+        }
+      ]
+    },
+    "ME": {
+      "id": "ME",
+      "name": "Karadağ",
+      "logo": "https://flagcdn.com/w320/me.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q104417661",
+          "name": "Yakov Milatoviç",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakov%20Milatovi%C4%87%20in%202024%20MGR2967%20%28%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "ME",
+          "team_name": "Karadağ",
+          "team_logo": "https://flagcdn.com/w320/me.png"
+        },
+        {
+          "id": "Q101225458",
+          "name": "Miloyko Spayiç",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Milojko%20Spaji%C4%87%20at%20EU-Montenegro%20Intergovernmental%20Conference%20European%20Council%20on%2026%20June%202024%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "ME",
+          "team_name": "Karadağ",
+          "team_logo": "https://flagcdn.com/w320/me.png"
+        }
+      ]
+    },
+    "AL": {
+      "id": "AL",
+      "name": "Arnavutluk",
+      "logo": "https://flagcdn.com/w320/al.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q107422711",
+          "name": "Bajram Begaj",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Keir%20Starmer%20meets%20Albania%20President%20Bajram%20Begaj%20%2854521430145%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AL",
+          "team_name": "Arnavutluk",
+          "team_logo": "https://flagcdn.com/w320/al.png"
+        },
+        {
+          "id": "Q316901",
+          "name": "Edi Rama",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Edi%20Rama%20%282024-02-29%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "AL",
+          "team_name": "Arnavutluk",
+          "team_logo": "https://flagcdn.com/w320/al.png"
+        }
+      ]
+    },
+    "PE": {
+      "id": "PE",
+      "name": "Peru",
+      "logo": "https://flagcdn.com/w320/pe.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q108414587",
+          "name": "José María Balcázar",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Balc%C3%A1zar.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "PE",
+          "team_name": "Peru",
+          "team_logo": "https://flagcdn.com/w320/pe.png"
+        }
+      ]
+    },
+    "VC": {
+      "id": "VC",
+      "name": "Saint Vincent ve Grenadinler",
+      "logo": "https://flagcdn.com/w320/vc.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "VC",
+          "team_name": "Saint Vincent ve Grenadinler",
+          "team_logo": "https://flagcdn.com/w320/vc.png"
+        },
+        {
+          "id": "Q28319076",
+          "name": "Godwin Friday",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Godwin%20Friday%202019.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "VC",
+          "team_name": "Saint Vincent ve Grenadinler",
+          "team_logo": "https://flagcdn.com/w320/vc.png"
+        }
+      ]
+    },
+    "LC": {
+      "id": "LC",
+      "name": "Saint Lucia",
+      "logo": "https://flagcdn.com/w320/lc.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LC",
+          "team_name": "Saint Lucia",
+          "team_logo": "https://flagcdn.com/w320/lc.png"
+        },
+        {
+          "id": "Q7184214",
+          "name": "Philip Pierre",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Philip%20Pierre%202025%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "LC",
+          "team_name": "Saint Lucia",
+          "team_logo": "https://flagcdn.com/w320/lc.png"
+        }
+      ]
+    },
+    "TT": {
+      "id": "TT",
+      "name": "Trinidad ve Tobago",
+      "logo": "https://flagcdn.com/w320/tt.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q97400315",
+          "name": "Christine Kangaloo",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Hon%20Christine%20Kangaloo.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TT",
+          "team_name": "Trinidad ve Tobago",
+          "team_logo": "https://flagcdn.com/w320/tt.png"
+        },
+        {
+          "id": "Q57712",
+          "name": "Kamla Persad-Bissessar",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/2025%20Kamla%20Persad-Bissessar%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TT",
+          "team_name": "Trinidad ve Tobago",
+          "team_logo": "https://flagcdn.com/w320/tt.png"
+        }
+      ]
+    },
+    "BO": {
+      "id": "BO",
+      "name": "Bolivya",
+      "logo": "https://flagcdn.com/w320/bo.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q110520817",
+          "name": "Rodrigo Paz Pereira",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo%20Paz%20enero%202026.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BO",
+          "team_name": "Bolivya",
+          "team_logo": "https://flagcdn.com/w320/bo.png"
+        }
+      ]
+    },
+    "FJ": {
+      "id": "FJ",
+      "name": "Fiji",
+      "logo": "https://flagcdn.com/w320/fj.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q109012733",
+          "name": "Wiliame Katonivere",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Wiliame%20Katonivere%202022.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "FJ",
+          "team_name": "Fiji",
+          "team_logo": "https://flagcdn.com/w320/fj.png"
+        },
+        {
+          "id": "Q981549",
+          "name": "Sitiveni Rabuka",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/2025%20Sitiveni%20Rabuka%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "FJ",
+          "team_name": "Fiji",
+          "team_logo": "https://flagcdn.com/w320/fj.png"
+        }
+      ]
+    },
+    "EC": {
+      "id": "EC",
+      "name": "Ekvador",
+      "logo": "https://flagcdn.com/w320/ec.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q112075625",
+          "name": "Daniel Noboa",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Noboa%20en%20marzo%20de%202025.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "EC",
+          "team_name": "Ekvador",
+          "team_logo": "https://flagcdn.com/w320/ec.png"
+        }
+      ]
+    },
+    "VU": {
+      "id": "VU",
+      "name": "Vanuatu",
+      "logo": "https://flagcdn.com/w320/vu.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q113239716",
+          "name": "Nikenike Vurobaravu",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vurobaravu%20ceremony%20%28cropped%29.png?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "VU",
+          "team_name": "Vanuatu",
+          "team_logo": "https://flagcdn.com/w320/vu.png"
+        },
+        {
+          "id": "Q16190741",
+          "name": "Bob Loughman",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Loughman%202022.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "VU",
+          "team_name": "Vanuatu",
+          "team_logo": "https://flagcdn.com/w320/vu.png"
+        }
+      ]
+    },
+    "ET": {
+      "id": "ET",
+      "name": "Etiyopya",
+      "logo": "https://flagcdn.com/w320/et.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q124831090",
+          "name": "Taye Atske Selassie",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Taye%20Atske%20Selassie%20MFA%20Portrait.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "ET",
+          "team_name": "Etiyopya",
+          "team_logo": "https://flagcdn.com/w320/et.png"
+        },
+        {
+          "id": "Q50365049",
+          "name": "Abiy Ahmed Ali",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Abiy%20Ahmed%202019.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "ET",
+          "team_name": "Etiyopya",
+          "team_logo": "https://flagcdn.com/w320/et.png"
+        }
+      ]
+    },
+    "DD": {
+      "id": "DD",
+      "name": "Doğu Almanya",
+      "logo": "https://flagcdn.com/w320/dd.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q65917",
+          "name": "Wilhelm Pieck",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fotothek%20df%20ps%200000064%20Bildnisse%20-%20Portr%C3%A4ts%20%5E%20Politiker.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        },
+        {
+          "id": "Q2601",
+          "name": "Manfred Gerlach",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-1986-0617-034%2C%20Prof.%20Dr.%20Manfred%20Gerlach.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        },
+        {
+          "id": "Q2602",
+          "name": "Egon Krenz",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-1984-0704-400%2C%20Egon%20Krenz.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        },
+        {
+          "id": "Q2607",
+          "name": "Erich Honecker",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-R1220-401%2C%20Erich%20Honecker.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        },
+        {
+          "id": "Q2610",
+          "name": "Willi Stoph",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-R0430-0305A%2C%20Willi%20Stoph.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        },
+        {
+          "id": "Q2628",
+          "name": "Walter Ulbricht",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-J1231-1002-002%20Walter%20Ulbricht%2C%20Neujahrsansprache.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        },
+        {
+          "id": "Q57232",
+          "name": "Sabine Bergmann-Pohl",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sabine%20Bergmann-Pohl.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        },
+        {
+          "id": "Q57241",
+          "name": "Hans Modrow",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/DIE%20LINKE%20Bundesparteitag%20Mai%202014%20Modrow%2C%20Hans.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        },
+        {
+          "id": "Q57412",
+          "name": "Lothar de Maizière",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lothar%20de%20Maizi%C3%A8re%202011.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        },
+        {
+          "id": "Q57896",
+          "name": "Horst Sindermann",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-1988-1108-035%2C%20Horst%20Sindermann.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        },
+        {
+          "id": "Q77210",
+          "name": "Otto Grotewohl",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-19204-3150%2C%20Otto%20Grotewohl.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "DD",
+          "team_name": "Doğu Almanya",
+          "team_logo": "https://flagcdn.com/w320/dd.png"
+        }
+      ]
+    },
+    "NL": {
+      "id": "NL",
+      "name": "Hollanda Krallığı",
+      "logo": "https://flagcdn.com/w320/nl.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q154952",
+          "name": "Willem-Alexander",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Luxembourg%2C%20Trounwiessel%202025%20chd.lu%20%28111%29%20-%20Willem%20Alexander%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "NL",
+          "team_name": "Hollanda Krallığı",
+          "team_logo": "https://flagcdn.com/w320/nl.png"
+        },
+        {
+          "id": "Q28860866",
+          "name": "Rob Jetten",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rob%20Jetten%2C%20March%202026%20-%2002.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "NL",
+          "team_name": "Hollanda Krallığı",
+          "team_logo": "https://flagcdn.com/w320/nl.png"
+        }
+      ]
+    },
+    "MU": {
+      "id": "MU",
+      "name": "Morityus",
+      "logo": "https://flagcdn.com/w320/mu.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q131403499",
+          "name": "Dharam Gokhool",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Dharam%20Gokhool%20on%20March%2011%2C%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MU",
+          "team_name": "Morityus",
+          "team_logo": "https://flagcdn.com/w320/mu.png"
+        },
+        {
+          "id": "Q3401447",
+          "name": "Pravind Jugnauth",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Prime%20Minister%2C%20Shri%20Narendra%20Modi%20meeting%20the%20Prime%20Minister%20of%20the%20Republic%20of%20Mauritius%2C%20Mr.%20Pravind%20Kumar%20Jugnauth%2C%20in%20New%20Delhi%20on%20December%2006%2C%202019%20%281%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MU",
+          "team_name": "Morityus",
+          "team_logo": "https://flagcdn.com/w320/mu.png"
+        }
+      ]
+    },
+    "MG": {
+      "id": "MG",
+      "name": "Madagaskar",
+      "logo": "https://flagcdn.com/w320/mg.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q136500275",
+          "name": "Michael Randrianirina",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Randrianirina%20in%20February%202026.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MG",
+          "team_name": "Madagaskar",
+          "team_logo": "https://flagcdn.com/w320/mg.png"
+        },
+        {
+          "id": "Q136448305",
+          "name": "Ruphin Zafisambo",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Zafisambo%20ruphin.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MG",
+          "team_name": "Madagaskar",
+          "team_logo": "https://flagcdn.com/w320/mg.png"
+        }
+      ]
+    },
+    "KN": {
+      "id": "KN",
+      "name": "Saint Kitts ve Nevis",
+      "logo": "https://flagcdn.com/w320/kn.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "KN",
+          "team_name": "Saint Kitts ve Nevis",
+          "team_logo": "https://flagcdn.com/w320/kn.png"
+        },
+        {
+          "id": "Q113443525",
+          "name": "Terrance Drew",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Terrance%20Drew%202022.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KN",
+          "team_name": "Saint Kitts ve Nevis",
+          "team_logo": "https://flagcdn.com/w320/kn.png"
+        }
+      ]
+    },
+    "JM": {
+      "id": "JM",
+      "name": "Jamaika",
+      "logo": "https://flagcdn.com/w320/jm.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "JM",
+          "team_name": "Jamaika",
+          "team_logo": "https://flagcdn.com/w320/jm.png"
+        },
+        {
+          "id": "Q505200",
+          "name": "Andrew Holness",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Holness%20Press%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "JM",
+          "team_name": "Jamaika",
+          "team_logo": "https://flagcdn.com/w320/jm.png"
+        }
+      ]
+    },
+    "GD": {
+      "id": "GD",
+      "name": "Grenada",
+      "logo": "https://flagcdn.com/w320/gd.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GD",
+          "team_name": "Grenada",
+          "team_logo": "https://flagcdn.com/w320/gd.png"
+        },
+        {
+          "id": "Q112679881",
+          "name": "Dickon Mitchell",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20of%20Grenada%20Mr.%20Dickon%20Mitchell.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "GD",
+          "team_name": "Grenada",
+          "team_logo": "https://flagcdn.com/w320/gd.png"
+        }
+      ]
+    },
+    "BS": {
+      "id": "BS",
+      "name": "Bahamalar",
+      "logo": "https://flagcdn.com/w320/bs.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BS",
+          "team_name": "Bahamalar",
+          "team_logo": "https://flagcdn.com/w320/bs.png"
+        },
+        {
+          "id": "Q7183082",
+          "name": "Philip Davis",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Philip%20Davis%20in%202022.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BS",
+          "team_name": "Bahamalar",
+          "team_logo": "https://flagcdn.com/w320/bs.png"
+        }
+      ]
+    },
+    "AG": {
+      "id": "AG",
+      "name": "Antigua ve Barbuda",
+      "logo": "https://flagcdn.com/w320/ag.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q43274",
+          "name": "III. Charles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20III%20%28July%202023%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AG",
+          "team_name": "Antigua ve Barbuda",
+          "team_logo": "https://flagcdn.com/w320/ag.png"
+        },
+        {
+          "id": "Q17177542",
+          "name": "Gaston Browne",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaston%20Browne%20Coronation%202023.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "AG",
+          "team_name": "Antigua ve Barbuda",
+          "team_logo": "https://flagcdn.com/w320/ag.png"
+        }
+      ]
+    },
+    "CM": {
+      "id": "CM",
+      "name": "Kamerun",
+      "logo": "https://flagcdn.com/w320/cm.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57272",
+          "name": "Paul Biya",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Biya%20in%20December%2014th%2C%202022.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CM",
+          "team_name": "Kamerun",
+          "team_logo": "https://flagcdn.com/w320/cm.png"
+        },
+        {
+          "id": "Q60441515",
+          "name": "Joseph Ngute",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/BOOK%20OF%20CONDOLENCE%20%2852364883717%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "CM",
+          "team_name": "Kamerun",
+          "team_logo": "https://flagcdn.com/w320/cm.png"
+        }
+      ]
+    },
+    "UG": {
+      "id": "UG",
+      "name": "Uganda",
+      "logo": "https://flagcdn.com/w320/ug.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57274",
+          "name": "Yoweri Museveni",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Yoweri%20Museveni%20September%202015.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "UG",
+          "team_name": "Uganda",
+          "team_logo": "https://flagcdn.com/w320/ug.png"
+        },
+        {
+          "id": "Q62481397",
+          "name": "Robinah Nabbanja",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Robinah%20Nabbanja.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "UG",
+          "team_name": "Uganda",
+          "team_logo": "https://flagcdn.com/w320/ug.png"
+        }
+      ]
+    },
+    "SS": {
+      "id": "SS",
+      "name": "Güney Sudan",
+      "logo": "https://flagcdn.com/w320/ss.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57315",
+          "name": "Salva Kiir Mayardit",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Salva%20Kiir%20Mayardit.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SS",
+          "team_name": "Güney Sudan",
+          "team_logo": "https://flagcdn.com/w320/ss.png"
+        }
+      ]
+    },
+    "BN": {
+      "id": "BN",
+      "name": "Bruney",
+      "logo": "https://flagcdn.com/w320/bn.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57327",
+          "name": "Hassanal Bolkiah",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sultan%20Hassanal%20Bolkiah%20-%2053857993945.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BN",
+          "team_name": "Bruney",
+          "team_logo": "https://flagcdn.com/w320/bn.png"
+        }
+      ]
+    },
+    "SZ": {
+      "id": "SZ",
+      "name": "Esvatini",
+      "logo": "https://flagcdn.com/w320/sz.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57340",
+          "name": "III. Mswati",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mswati%20III%20in%20Yokohama%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SZ",
+          "team_name": "Esvatini",
+          "team_logo": "https://flagcdn.com/w320/sz.png"
+        },
+        {
+          "id": "Q123342092",
+          "name": "Russell Dlamini",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Russell%20Dlamini%20official%20portrait.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "SZ",
+          "team_name": "Esvatini",
+          "team_logo": "https://flagcdn.com/w320/sz.png"
+        }
+      ]
+    },
+    "ER": {
+      "id": "ER",
+      "name": "Eritre",
+      "logo": "https://flagcdn.com/w320/er.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57348",
+          "name": "Isaias Afewerki",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Nura%20Abba%20Rimi%20%26%20President%20Isaias%20Afwerki%20of%20Eritrea%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "ER",
+          "team_name": "Eritre",
+          "team_logo": "https://flagcdn.com/w320/er.png"
+        }
+      ]
+    },
+    "TJ": {
+      "id": "TJ",
+      "name": "Tacikistan",
+      "logo": "https://flagcdn.com/w320/tj.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57366",
+          "name": "İmamali Rahman",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Emomali%20Rahmon%20on%20December%2022%2C%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TJ",
+          "team_name": "Tacikistan",
+          "team_logo": "https://flagcdn.com/w320/tj.png"
+        },
+        {
+          "id": "Q15222839",
+          "name": "Kahir Resulzade",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kokhir%20Rasulzoda.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TJ",
+          "team_name": "Tacikistan",
+          "team_logo": "https://flagcdn.com/w320/tj.png"
+        }
+      ]
+    },
+    "PK": {
+      "id": "PK",
+      "name": "Pakistan",
+      "logo": "https://flagcdn.com/w320/pk.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57373",
+          "name": "Asıf Ali Zerdari",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Asif%20Ali%20Zardari%20-%202024%20%28cropped%202%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "PK",
+          "team_name": "Pakistan",
+          "team_logo": "https://flagcdn.com/w320/pk.png"
+        },
+        {
+          "id": "Q2096387",
+          "name": "Şahbaz Şerif",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Shehbaz%20Sharif%20in%202024.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "PK",
+          "team_name": "Pakistan",
+          "team_logo": "https://flagcdn.com/w320/pk.png"
+        }
+      ]
+    },
+    "BT": {
+      "id": "BT",
+      "name": "Butan",
+      "logo": "https://flagcdn.com/w320/bt.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57376",
+          "name": "Jigme Khesar Namgyel Wangchuck",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20of%20Bharat%20Shri%20Narendra%20Damodardas%20Modi%20with%20Jigme%20Khesar%20Namgyel%20Wangchuck%20and%20Jetsun%20Pema%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BT",
+          "team_name": "Butan",
+          "team_logo": "https://flagcdn.com/w320/bt.png"
+        },
+        {
+          "id": "Q7849613",
+          "name": "Tshering Tobgay",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tshering%20Tobgay.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BT",
+          "team_name": "Butan",
+          "team_logo": "https://flagcdn.com/w320/bt.png"
+        }
+      ]
+    },
+    "GQ": {
+      "id": "GQ",
+      "name": "Ekvator Ginesi",
+      "logo": "https://flagcdn.com/w320/gq.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57385",
+          "name": "Teodoro Obiang Nguema Mbasogo",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/2026%20Teodoro%20Obiang%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GQ",
+          "team_name": "Ekvator Ginesi",
+          "team_logo": "https://flagcdn.com/w320/gq.png"
+        },
+        {
+          "id": "Q129263796",
+          "name": "Manuel Osa Nsue Nsua",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Osa%20Nsue%20Nsua%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "GQ",
+          "team_name": "Ekvator Ginesi",
+          "team_logo": "https://flagcdn.com/w320/gq.png"
+        }
+      ]
+    },
+    "DJ": {
+      "id": "DJ",
+      "name": "Cibuti",
+      "logo": "https://flagcdn.com/w320/dj.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57390",
+          "name": "Ismail Omar Guelleh",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ismail%20Omar%20Guelleh%202010.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DJ",
+          "team_name": "Cibuti",
+          "team_logo": "https://flagcdn.com/w320/dj.png"
+        },
+        {
+          "id": "Q57683",
+          "name": "Dileita Mohamed Dileita",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Dileita%20Mohamed%20Dileita%20detail%20090114-F-3682S-269.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "DJ",
+          "team_name": "Cibuti",
+          "team_logo": "https://flagcdn.com/w320/dj.png"
+        },
+        {
+          "id": "Q10522744",
+          "name": "Abdoulkader Kamil Mohamed",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Djiboutian%20PM%20Mohamed%20at%20the%20MOD%202019%20%281%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "DJ",
+          "team_name": "Cibuti",
+          "team_logo": "https://flagcdn.com/w320/dj.png"
+        }
+      ]
+    },
+    "NI": {
+      "id": "NI",
+      "name": "Nikaragua",
+      "logo": "https://flagcdn.com/w320/ni.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57402",
+          "name": "Daniel Ortega",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Ortega%20on%20July%2020%2C%202024.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "NI",
+          "team_name": "Nikaragua",
+          "team_logo": "https://flagcdn.com/w320/ni.png"
+        }
+      ]
+    },
+    "CI": {
+      "id": "CI",
+      "name": "Fildişi Sahili",
+      "logo": "https://flagcdn.com/w320/ci.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57413",
+          "name": "Alassane Ouattara",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alassane%20Ouattara%20-%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CI",
+          "team_name": "Fildişi Sahili",
+          "team_logo": "https://flagcdn.com/w320/ci.png"
+        },
+        {
+          "id": "Q3434569",
+          "name": "Robert Beugré Mambé",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Beugr%C3%A9%20Mamb%C3%A9%202.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "CI",
+          "team_name": "Fildişi Sahili",
+          "team_logo": "https://flagcdn.com/w320/ci.png"
+        }
+      ]
+    },
+    "CG": {
+      "id": "CG",
+      "name": "Kongo",
+      "logo": "https://flagcdn.com/w320/cg.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57418",
+          "name": "Denis Sassou Nguesso",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Denis%20Sassou%20Nguesso%202014.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CG",
+          "team_name": "Kongo",
+          "team_logo": "https://flagcdn.com/w320/cg.png"
+        },
+        {
+          "id": "Q4752077",
+          "name": "Anatole Collinet Makosso",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Anatole%20Collinet%20Makosso%202022%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "CG",
+          "team_name": "Kongo",
+          "team_logo": "https://flagcdn.com/w320/cg.png"
+        }
+      ]
+    },
+    "GW": {
+      "id": "GW",
+      "name": "Gine-Bissau",
+      "logo": "https://flagcdn.com/w320/gw.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57424",
+          "name": "Manuel Serifo Nhamadjo",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Serifo%20Nhamadjo.JPG?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GW",
+          "team_name": "Gine-Bissau",
+          "team_logo": "https://flagcdn.com/w320/gw.png"
+        },
+        {
+          "id": "Q16855164",
+          "name": "Umaro Sissoco Embaló",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Umaro%20Sissoco%20Embal%C3%B3%20on%20February%2011%2C%202025.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GW",
+          "team_name": "Gine-Bissau",
+          "team_logo": "https://flagcdn.com/w320/gw.png"
+        },
+        {
+          "id": "Q16908893",
+          "name": "José Mário Vaz",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20M%C3%A1rio%20Vaz%20on%20March%2025%2C%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GW",
+          "team_name": "Gine-Bissau",
+          "team_logo": "https://flagcdn.com/w320/gw.png"
+        }
+      ]
+    },
+    "JO": {
+      "id": "JO",
+      "name": "Ürdün",
+      "logo": "https://flagcdn.com/w320/jo.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57464",
+          "name": "II. Abdullah",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdullah%20II%20portrait%20at%2010%20Downing%20Street%20February%202026%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "JO",
+          "team_name": "Ürdün",
+          "team_logo": "https://flagcdn.com/w320/jo.png"
+        },
+        {
+          "id": "Q97011032",
+          "name": "Cafer Hasan",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/HE%20Jafar%20Hassan%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "JO",
+          "team_name": "Ürdün",
+          "team_logo": "https://flagcdn.com/w320/jo.png"
+        }
+      ]
+    },
+    "LS": {
+      "id": "LS",
+      "name": "Lesotho",
+      "logo": "https://flagcdn.com/w320/ls.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57537",
+          "name": "III. Letsie",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Letsie%20III.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LS",
+          "team_name": "Lesotho",
+          "team_logo": "https://flagcdn.com/w320/ls.png"
+        },
+        {
+          "id": "Q114588964",
+          "name": "Sam Matekane",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sam%20Matekane%20candidate%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "LS",
+          "team_name": "Lesotho",
+          "team_logo": "https://flagcdn.com/w320/ls.png"
+        }
+      ]
+    },
+    "MA": {
+      "id": "MA",
+      "name": "Fas",
+      "logo": "https://flagcdn.com/w320/ma.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57553",
+          "name": "VI. Muhammed",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Mohammed%20VI%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MA",
+          "team_name": "Fas",
+          "team_logo": "https://flagcdn.com/w320/ma.png"
+        },
+        {
+          "id": "Q1638114",
+          "name": "Aziz Ahnuş",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fumio%20Kishida%20and%20Aziz%20Akhannouch%20before%20the%20funeral%20of%20Shinzo%20Abe%20%281%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MA",
+          "team_name": "Fas",
+          "team_logo": "https://flagcdn.com/w320/ma.png"
+        }
+      ]
+    },
+    "CV": {
+      "id": "CV",
+      "name": "Cabo Verde",
+      "logo": "https://flagcdn.com/w320/cv.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57649",
+          "name": "José Maria Neves",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Maria%20Neves%2C%202023.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CV",
+          "team_name": "Cabo Verde",
+          "team_logo": "https://flagcdn.com/w320/cv.png"
+        },
+        {
+          "id": "Q23899522",
+          "name": "Ulisses Correia e Silva",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Ulisses%20Correia%20e%20Silva%202024.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "CV",
+          "team_name": "Cabo Verde",
+          "team_logo": "https://flagcdn.com/w320/cv.png"
+        }
+      ]
+    },
+    "CF": {
+      "id": "CF",
+      "name": "Orta Afrika Cumhuriyeti",
+      "logo": "https://flagcdn.com/w320/cf.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q57758",
+          "name": "Faustin-Archange Touadéra",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Faustin-Archange%20Touad%C3%A9ra%2C%20President%20of%20the%20Central%20African%20Republic%2C%20to%20the%20European%20Commission%20%28P067074-430913%2C%20cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CF",
+          "team_name": "Orta Afrika Cumhuriyeti",
+          "team_logo": "https://flagcdn.com/w320/cf.png"
+        },
+        {
+          "id": "Q88310768",
+          "name": "Félix Moloua",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Felix%20Moloua.png?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "CF",
+          "team_name": "Orta Afrika Cumhuriyeti",
+          "team_logo": "https://flagcdn.com/w320/cf.png"
+        }
+      ]
+    },
+    "LA": {
+      "id": "LA",
+      "name": "Laos",
+      "logo": "https://flagcdn.com/w320/la.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q58323",
+          "name": "Thongloun Sisoulith",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Thongloun%20Sisoulith%20in%20Kazan%20-%202024%20%28cropped%202%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LA",
+          "team_name": "Laos",
+          "team_logo": "https://flagcdn.com/w320/la.png"
+        },
+        {
+          "id": "Q104914585",
+          "name": "Sonexay Siphandone",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sonexay%20Siphandone%20on%20January%2021%2C%202025.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "LA",
+          "team_name": "Laos",
+          "team_logo": "https://flagcdn.com/w320/la.png"
+        }
+      ]
+    },
+    "SL": {
+      "id": "SL",
+      "name": "Sierra Leone",
+      "logo": "https://flagcdn.com/w320/sl.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q283829",
+          "name": "Julius Maada Bio",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Julius%20Maada%20Bio%20-%202023%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SL",
+          "team_name": "Sierra Leone",
+          "team_logo": "https://flagcdn.com/w320/sl.png"
+        },
+        {
+          "id": "Q23728768",
+          "name": "David Sengeh",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Moinina%20Sengeh%20in%20Boston%20in%202013%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "SL",
+          "team_name": "Sierra Leone",
+          "team_logo": "https://flagcdn.com/w320/sl.png"
+        }
+      ]
+    },
+    "SO": {
+      "id": "SO",
+      "name": "Somali",
+      "logo": "https://flagcdn.com/w320/so.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q319153",
+          "name": "Hasan Şeyh Mahmud",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hassan%20Sheikh%20Mohamud--StateDept%20Portrait--%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SO",
+          "team_name": "Somali",
+          "team_logo": "https://flagcdn.com/w320/so.png"
+        },
+        {
+          "id": "Q99605101",
+          "name": "Muhammed Hüseyin Roble",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Hussein%20Roble.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "SO",
+          "team_name": "Somali",
+          "team_logo": "https://flagcdn.com/w320/so.png"
+        }
+      ]
+    },
+    "SA": {
+      "id": "SA",
+      "name": "Suudi Arabistan",
+      "logo": "https://flagcdn.com/w320/sa.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q367825",
+          "name": "Salman bin Abdülaziz el Suud",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%20%D9%84%D8%AE%D8%A7%D8%AF%D9%85%20%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D9%8A%D9%86%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81%D9%8A%D9%86%20%D8%A7%D9%84%D9%85%D9%84%D9%83%20%D8%B3%D9%84%D9%85%D8%A7%D9%86%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A2%D9%84%20%D8%B3%D8%B9%D9%88%D8%AF.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SA",
+          "team_name": "Suudi Arabistan",
+          "team_logo": "https://flagcdn.com/w320/sa.png"
+        }
+      ]
+    },
+    "ZW": {
+      "id": "ZW",
+      "name": "Zimbabve",
+      "logo": "https://flagcdn.com/w320/zw.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q510523",
+          "name": "Emmerson Mnangagwa",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Emmerson%20Mnangagwa%20Official%20Portrait%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "ZW",
+          "team_name": "Zimbabve",
+          "team_logo": "https://flagcdn.com/w320/zw.png"
+        }
+      ]
+    },
+    "KM": {
+      "id": "KM",
+      "name": "Komorlar",
+      "logo": "https://flagcdn.com/w320/km.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q515602",
+          "name": "Azali Assoumani",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Azali%20Assoumani%20in%20New%20York%20City%20on%20September%2019%2C%202023%20-%2053199606411%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "KM",
+          "team_name": "Komorlar",
+          "team_logo": "https://flagcdn.com/w320/km.png"
+        }
+      ]
+    },
+    "NA": {
+      "id": "NA",
+      "name": "Namibya",
+      "logo": "https://flagcdn.com/w320/na.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q527020",
+          "name": "Netumbo Nandi-Ndaitwah",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Netumbo%20Nandi-Ndaitwah%202025.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "NA",
+          "team_name": "Namibya",
+          "team_logo": "https://flagcdn.com/w320/na.png"
+        },
+        {
+          "id": "Q5360975",
+          "name": "Elijah Ngurare",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Elijah%20T.%20Ngurare%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "NA",
+          "team_name": "Namibya",
+          "team_logo": "https://flagcdn.com/w320/na.png"
+        }
+      ]
+    },
+    "TH": {
+      "id": "TH",
+      "name": "Tayland",
+      "logo": "https://flagcdn.com/w320/th.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q548733",
+          "name": "Vajiralongkorn",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Rama%20X%20official%20%28crop%29.png?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TH",
+          "team_name": "Tayland",
+          "team_logo": "https://flagcdn.com/w320/th.png"
+        },
+        {
+          "id": "Q13026319",
+          "name": "Paetongtarn Şinavatra",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/PM%20Paetongtarn%20of%20Thailand%20%282024%29%20%28cropped-4%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TH",
+          "team_name": "Tayland",
+          "team_logo": "https://flagcdn.com/w320/th.png"
+        }
+      ]
+    },
+    "ZM": {
+      "id": "ZM",
+      "name": "Zambiya",
+      "logo": "https://flagcdn.com/w320/zm.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q717185",
+          "name": "Hakainde Hichilema",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hakainde%20Hichilema%20in%20Japan%20on%20February%206%2C%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "ZM",
+          "team_name": "Zambiya",
+          "team_logo": "https://flagcdn.com/w320/zm.png"
+        },
+        {
+          "id": "Q18352991",
+          "name": "Edgar Lungu",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Lungu%20in%20TICAD%20VII%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "ZM",
+          "team_name": "Zambiya",
+          "team_logo": "https://flagcdn.com/w320/zm.png"
+        }
+      ]
+    },
+    "IL": {
+      "id": "IL",
+      "name": "İsrail",
+      "logo": "https://flagcdn.com/w320/il.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q983258",
+          "name": "İzak Hertzog",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Israeli%20President%20Isaac%20Herzog%20in%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "IL",
+          "team_name": "İsrail",
+          "team_logo": "https://flagcdn.com/w320/il.png"
+        },
+        {
+          "id": "Q43723",
+          "name": "Bünyamin Netanyahu",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Netanyahu%2C%20February%202023.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "IL",
+          "team_name": "İsrail",
+          "team_logo": "https://flagcdn.com/w320/il.png"
+        }
+      ]
+    },
+    "PH": {
+      "id": "PH",
+      "name": "Filipinler",
+      "logo": "https://flagcdn.com/w320/ph.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q983324",
+          "name": "Bongbong Marcos",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20President%20Ferdinand%20R.%20Marcos%2C%20Jr%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "PH",
+          "team_name": "Filipinler",
+          "team_logo": "https://flagcdn.com/w320/ph.png"
+        }
+      ]
+    },
+    "RW": {
+      "id": "RW",
+      "name": "Ruanda",
+      "logo": "https://flagcdn.com/w320/rw.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q1231345",
+          "name": "Paul Kagame",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Kagame%20MSC%202017.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "RW",
+          "team_name": "Ruanda",
+          "team_logo": "https://flagcdn.com/w320/rw.png"
+        }
+      ]
+    },
+    "QA": {
+      "id": "QA",
+      "name": "Katar",
+      "logo": "https://flagcdn.com/w320/qa.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q1855372",
+          "name": "Temim bin Hamed es-Sani",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Emir%20of%20Qatar%20on%20February%2019%2C%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "QA",
+          "team_name": "Katar",
+          "team_logo": "https://flagcdn.com/w320/qa.png"
+        },
+        {
+          "id": "Q23020336",
+          "name": "Muhammed bin Abdurrahman es-Sani",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammed%20bin%20Abdulrahman%20Al-Thani%20of%20Qatar%20on%2025%20January%202024%20-%202%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "QA",
+          "team_name": "Katar",
+          "team_logo": "https://flagcdn.com/w320/qa.png"
+        }
+      ]
+    },
+    "AE": {
+      "id": "AE",
+      "name": "Birleşik Arap Emirlikleri",
+      "logo": "https://flagcdn.com/w320/ae.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q1951896",
+          "name": "Muhammed bin Zayed El Nahyan",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20bin%20Zayed%20Al%20Nahyan%20-%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AE",
+          "team_name": "Birleşik Arap Emirlikleri",
+          "team_logo": "https://flagcdn.com/w320/ae.png"
+        },
+        {
+          "id": "Q57655",
+          "name": "Muhammed bin Raşid El Maktum",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammed%20bin%20Rashid%20Al%20Maktoum%20%2815-02-2021%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "AE",
+          "team_name": "Birleşik Arap Emirlikleri",
+          "team_logo": "https://flagcdn.com/w320/ae.png"
+        }
+      ]
+    },
+    "LR": {
+      "id": "LR",
+      "name": "Liberya",
+      "logo": "https://flagcdn.com/w320/lr.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q2630483",
+          "name": "Joseph Boakai",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Boakai%20in%20Yokohama%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LR",
+          "team_name": "Liberya",
+          "team_logo": "https://flagcdn.com/w320/lr.png"
+        }
+      ]
+    },
+    "MY": {
+      "id": "MY",
+      "name": "Malezya",
+      "logo": "https://flagcdn.com/w320/my.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q2657043",
+          "name": "İbrahim İskender",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Ibrahim%20of%20Malaysia%20August%202025.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MY",
+          "team_name": "Malezya",
+          "team_logo": "https://flagcdn.com/w320/my.png"
+        },
+        {
+          "id": "Q299574",
+          "name": "Enver İbrahim",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/PM%20of%20Malaysia%20Anwar%20Ibrahim%20meeting%20with%20PM%20of%20Japan%20Fumio%20Kishida%20%282024%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MY",
+          "team_name": "Malezya",
+          "team_logo": "https://flagcdn.com/w320/my.png"
+        }
+      ]
+    },
+    "IR": {
+      "id": "IR",
+      "name": "İran",
+      "logo": "https://flagcdn.com/w320/ir.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q2919350",
+          "name": "Mücteba Hamaney",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayatollah%20Sayyid%20Mojtaba%20Khamenei%2C%2010%20April%202026%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "IR",
+          "team_name": "İran",
+          "team_logo": "https://flagcdn.com/w320/ir.png"
+        },
+        {
+          "id": "Q5933752",
+          "name": "Mesud Pezeşkiyan",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Masoud%20Pezeshkian%2014040616%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "IR",
+          "team_name": "İran",
+          "team_logo": "https://flagcdn.com/w320/ir.png"
+        }
+      ]
+    },
+    "NP": {
+      "id": "NP",
+      "name": "Nepal",
+      "logo": "https://flagcdn.com/w320/np.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3183124",
+          "name": "Ram Chandra Poudel",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Ram%20Chandra%20Poudel%2C%20Official%20portrait%20%28January%202024%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "NP",
+          "team_name": "Nepal",
+          "team_logo": "https://flagcdn.com/w320/np.png"
+        },
+        {
+          "id": "Q315500",
+          "name": "Praçanda",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Pushpa%20Kamal%20Dahal%202016.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "NP",
+          "team_name": "Nepal",
+          "team_logo": "https://flagcdn.com/w320/np.png"
+        }
+      ]
+    },
+    "MM": {
+      "id": "MM",
+      "name": "Myanmar",
+      "logo": "https://flagcdn.com/w320/mm.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3331362",
+          "name": "Myint Swe",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Myint%20Swe%20%282018-12-13%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MM",
+          "team_name": "Myanmar",
+          "team_logo": "https://flagcdn.com/w320/mm.png"
+        },
+        {
+          "id": "Q3462649",
+          "name": "Min Aung Hlaing",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Min%20Aung%20Hlaing%202026%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MM",
+          "team_name": "Myanmar",
+          "team_logo": "https://flagcdn.com/w320/mm.png"
+        }
+      ]
+    },
+    "NG": {
+      "id": "NG",
+      "name": "Nijerya",
+      "logo": "https://flagcdn.com/w320/ng.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3510872",
+          "name": "Bola Tinubu",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bola%20Tinubu%20portrait.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "NG",
+          "team_name": "Nijerya",
+          "team_logo": "https://flagcdn.com/w320/ng.png"
+        }
+      ]
+    },
+    "TW": {
+      "id": "TW",
+      "name": "Tayvan",
+      "logo": "https://flagcdn.com/w320/tw.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q3847080",
+          "name": "Lai Ching‑te",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%B8%BD%E7%B5%B1%201.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TW",
+          "team_name": "Tayvan",
+          "team_logo": "https://flagcdn.com/w320/tw.png"
+        },
+        {
+          "id": "Q5116472",
+          "name": "Cho Jung-tai",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%A1%8C%E6%94%BF%E9%99%A2%E9%95%B7%20%E5%8D%93%E6%A6%AE%E6%B3%B0.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TW",
+          "team_name": "Tayvan",
+          "team_logo": "https://flagcdn.com/w320/tw.png"
+        }
+      ]
+    },
+    "LK": {
+      "id": "LK",
+      "name": "Sri Lanka",
+      "logo": "https://flagcdn.com/w320/lk.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q4777855",
+          "name": "Anura Kumara Dissanayake",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20Sri%20Lanka%20Mr.%20Anura%20Kumara%20Dissanayake%20in%20India.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LK",
+          "team_name": "Sri Lanka",
+          "team_logo": "https://flagcdn.com/w320/lk.png"
+        },
+        {
+          "id": "Q98298397",
+          "name": "Harini Amarasuriya",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/PM%20Harini%20%28profile%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "LK",
+          "team_name": "Sri Lanka",
+          "team_logo": "https://flagcdn.com/w320/lk.png"
+        }
+      ]
+    },
+    "IQ": {
+      "id": "IQ",
+      "name": "Irak",
+      "logo": "https://flagcdn.com/w320/iq.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q6496078",
+          "name": "Abdüllatif Reşid",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdul%20Latif%20Rashid%202023%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "IQ",
+          "team_name": "Irak",
+          "team_logo": "https://flagcdn.com/w320/iq.png"
+        },
+        {
+          "id": "Q3700793",
+          "name": "Muhammed Şii Sudani",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammed%20Shia%27%20Al%20Sudani%2C%20Prime%20Minister%20of%20Iraq%2C%20at%20the%20Pentagon%2C%20Virginia%20on%2015%20April%202024%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "IQ",
+          "team_name": "Irak",
+          "team_logo": "https://flagcdn.com/w320/iq.png"
+        }
+      ]
+    },
+    "MW": {
+      "id": "MW",
+      "name": "Malavi",
+      "logo": "https://flagcdn.com/w320/mw.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q7176020",
+          "name": "Peter Mutharika",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Peter%20Mutharika%202014%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MW",
+          "team_name": "Malavi",
+          "team_logo": "https://flagcdn.com/w320/mw.png"
+        },
+        {
+          "id": "Q16202782",
+          "name": "Lazarus Chakwera",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lazarus%20Chakwera%202017.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MW",
+          "team_name": "Malavi",
+          "team_logo": "https://flagcdn.com/w320/mw.png"
+        }
+      ]
+    },
+    "SY": {
+      "id": "SY",
+      "name": "Suriye",
+      "logo": "https://flagcdn.com/w320/sy.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q7934206",
+          "name": "Ahmed Şara",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20al-Sharaa%2C%20President%20of%20Syria%2C%20in%20March%202026.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SY",
+          "team_name": "Suriye",
+          "team_logo": "https://flagcdn.com/w320/sy.png"
+        }
+      ]
+    },
+    "VN": {
+      "id": "VN",
+      "name": "Vietnam",
+      "logo": "https://flagcdn.com/w320/vn.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q10831196",
+          "name": "Tô Lâm",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/To%20Lam%20May%202025.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "VN",
+          "team_name": "Vietnam",
+          "team_logo": "https://flagcdn.com/w320/vn.png"
+        },
+        {
+          "id": "Q10806940",
+          "name": "Phạm Minh Chính",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Pham%20Minh%20Chinh%202021.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "VN",
+          "team_name": "Vietnam",
+          "team_logo": "https://flagcdn.com/w320/vn.png"
+        }
+      ]
+    },
+    "YE": {
+      "id": "YE",
+      "name": "Yemen",
+      "logo": "https://flagcdn.com/w320/ye.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q12213376",
+          "name": "Reşad Uleymi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rashad%20al-Alimi%20-%202022.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "YE",
+          "team_name": "Yemen",
+          "team_logo": "https://flagcdn.com/w320/ye.png"
+        }
+      ]
+    },
+    "MR": {
+      "id": "MR",
+      "name": "Moritanya",
+      "logo": "https://flagcdn.com/w320/mr.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q12241106",
+          "name": "Muhammed Veled Gazvani",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Mohamed%20Ould%20Ghazouani%20%282026-03-26%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MR",
+          "team_name": "Moritanya",
+          "team_logo": "https://flagcdn.com/w320/mr.png"
+        },
+        {
+          "id": "Q66793577",
+          "name": "Muhtar Veled Ejey",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Moctar%20Ould%20Diay%2C%20Ouagadougou%2C%204%20Feb%202019%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "MR",
+          "team_name": "Moritanya",
+          "team_logo": "https://flagcdn.com/w320/mr.png"
+        }
+      ]
+    },
+    "KW": {
+      "id": "KW",
+      "name": "Kuveyt",
+      "logo": "https://flagcdn.com/w320/kw.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q12243161",
+          "name": "Mişel el-Ahmed el-Cabir es-Sabah",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Emir%20of%20Kuwait%20Sheikh%20Mishal%20Al-Ahmad%20Al-Jaber%20Al-Sabah%20in%202024.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "KW",
+          "team_name": "Kuveyt",
+          "team_logo": "https://flagcdn.com/w320/kw.png"
+        },
+        {
+          "id": "Q12219691",
+          "name": "Sabah el-Halid el-Sabah",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Evangelos%20Venizelos%20and%20Sabah%20Al-Khalid%20Al-Sabah%202014.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KW",
+          "team_name": "Kuveyt",
+          "team_logo": "https://flagcdn.com/w320/kw.png"
+        }
+      ]
+    },
+    "OM": {
+      "id": "OM",
+      "name": "Umman",
+      "logo": "https://flagcdn.com/w320/om.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q12250314",
+          "name": "Heysem bin Tarık El Said",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Haitham%20bin%20Tariq%20Al%20Said.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "OM",
+          "team_name": "Umman",
+          "team_logo": "https://flagcdn.com/w320/om.png"
+        }
+      ]
+    },
+    "KR": {
+      "id": "KR",
+      "name": "Güney Kore",
+      "logo": "https://flagcdn.com/w320/kr.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q12612463",
+          "name": "Lee Jae-myung",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Lee%20Jae-myung%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "KR",
+          "team_name": "Güney Kore",
+          "team_logo": "https://flagcdn.com/w320/kr.png"
+        }
+      ]
+    },
+    "TN": {
+      "id": "TN",
+      "name": "Tunus",
+      "logo": "https://flagcdn.com/w320/tn.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q16120878",
+          "name": "Kays Said",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kais%20Saied%202023.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TN",
+          "team_name": "Tunus",
+          "team_logo": "https://flagcdn.com/w320/tn.png"
+        },
+        {
+          "id": "Q108892374",
+          "name": "Sara Zafarani",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sara%20Zaafarani%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TN",
+          "team_name": "Tunus",
+          "team_logo": "https://flagcdn.com/w320/tn.png"
+        }
+      ]
+    },
+    "SC": {
+      "id": "SC",
+      "name": "Seyşeller",
+      "logo": "https://flagcdn.com/w320/sc.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q16190544",
+          "name": "Patrick Herminie",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20Herminie%20-%20President%20of%20Seychelles%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SC",
+          "team_name": "Seyşeller",
+          "team_logo": "https://flagcdn.com/w320/sc.png"
+        }
+      ]
+    },
+    "TZ": {
+      "id": "TZ",
+      "name": "Tanzanya",
+      "logo": "https://flagcdn.com/w320/tz.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q16193885",
+          "name": "Samia Suluhu",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/International%20leaders%20sign%20joint%20statement%20at%20COP26%20%2851649202102%29%20%28Suluhu%20crop%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TZ",
+          "team_name": "Tanzanya",
+          "team_logo": "https://flagcdn.com/w320/tz.png"
+        }
+      ]
+    },
+    "DO": {
+      "id": "DO",
+      "name": "Dominik Cumhuriyeti",
+      "logo": "https://flagcdn.com/w320/do.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q16594097",
+          "name": "Luis Abinader",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Luis%20Abinader%20at%20the%20National%20Palace%20of%20the%20Dominican%20Republic%20in%20Santo%20Domingo%20on%20April%2025%2C%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DO",
+          "team_name": "Dominik Cumhuriyeti",
+          "team_logo": "https://flagcdn.com/w320/do.png"
+        }
+      ]
+    },
+    "SV": {
+      "id": "SV",
+      "name": "El Salvador",
+      "logo": "https://flagcdn.com/w320/sv.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q17712353",
+          "name": "Nayib Bukele",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nayib%20Bukele%20in%20the%20White%20House%2C%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SV",
+          "team_name": "El Salvador",
+          "team_logo": "https://flagcdn.com/w320/sv.png"
+        }
+      ]
+    },
+    "BW": {
+      "id": "BW",
+      "name": "Botsvana",
+      "logo": "https://flagcdn.com/w320/bw.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q18618881",
+          "name": "Duma Boko",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Duma%20Boko%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BW",
+          "team_name": "Botsvana",
+          "team_logo": "https://flagcdn.com/w320/bw.png"
+        }
+      ]
+    },
+    "BJ": {
+      "id": "BJ",
+      "name": "Benin",
+      "logo": "https://flagcdn.com/w320/bj.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q24951128",
+          "name": "Romuald Wadagni",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Romuald%20Wadagni%20March%202026.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BJ",
+          "team_name": "Benin",
+          "team_logo": "https://flagcdn.com/w320/bj.png"
+        },
+        {
+          "id": "Q16669148",
+          "name": "Patrice Talon",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Patrice%20Talon%20at%20USAID%20HQ%20%284%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BJ",
+          "team_name": "Benin",
+          "team_logo": "https://flagcdn.com/w320/bj.png"
+        }
+      ]
+    },
+    "KG": {
+      "id": "KG",
+      "name": "Kırgızistan",
+      "logo": "https://flagcdn.com/w320/kg.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q25597826",
+          "name": "Sadır Caparov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20Photo%20of%20the%20President%20of%20the%20Kyrgyz%20Republic%20H.E.%20Mr.%20Sadyr%20Zhaparov.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "KG",
+          "team_name": "Kırgızistan",
+          "team_logo": "https://flagcdn.com/w320/kg.png"
+        },
+        {
+          "id": "Q4060344",
+          "name": "Akılbek Caparov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BA%D1%8B%D0%BB%D0%B1%D0%B5%D0%BA%20%D0%96%D0%B0%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%20%2819-11-2021%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KG",
+          "team_name": "Kırgızistan",
+          "team_logo": "https://flagcdn.com/w320/kg.png"
+        },
+        {
+          "id": "Q23810819",
+          "name": "Sooronbay Ceenbekov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%20%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B0%20%D0%A1%D0%BE%D0%BE%D1%80%D0%BE%D0%BD%D0%B1%D0%B0%D0%B9%20%D0%96%D1%8D%D1%8D%D0%BD%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KG",
+          "team_name": "Kırgızistan",
+          "team_logo": "https://flagcdn.com/w320/kg.png"
+        },
+        {
+          "id": "Q29865128",
+          "name": "Sapar Isakov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sapar%20Isakov%20%282017-10-11%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KG",
+          "team_name": "Kırgızistan",
+          "team_logo": "https://flagcdn.com/w320/kg.png"
+        },
+        {
+          "id": "Q37777535",
+          "name": "Muhammetkaliy Abulgaziyev",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mukhammedkalyi%20Abylgaziev%20in%20January%202019.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KG",
+          "team_name": "Kırgızistan",
+          "team_logo": "https://flagcdn.com/w320/kg.png"
+        },
+        {
+          "id": "Q96338578",
+          "name": "Kubatbek Boronov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kubatbek%20Boronov%20%282017-08-24%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KG",
+          "team_name": "Kırgızistan",
+          "team_logo": "https://flagcdn.com/w320/kg.png"
+        },
+        {
+          "id": "Q101751482",
+          "name": "Artyom Novikov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vice%20Prime%20Minister%20of%20Kyrgyzstan%20Artyom%20Novikov.png?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KG",
+          "team_name": "Kırgızistan",
+          "team_logo": "https://flagcdn.com/w320/kg.png"
+        },
+        {
+          "id": "Q105277058",
+          "name": "Ulukbek Maripov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20of%20Kyrgyzstan%20Ulukbek%20Maripov.png?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KG",
+          "team_name": "Kırgızistan",
+          "team_logo": "https://flagcdn.com/w320/kg.png"
+        },
+        {
+          "id": "Q112703041",
+          "name": "Adılbek Kasımaliyev",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Adylbek%20Kasymaliev%20%282024-14-05%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "KG",
+          "team_name": "Kırgızistan",
+          "team_logo": "https://flagcdn.com/w320/kg.png"
+        }
+      ]
+    },
+    "BI": {
+      "id": "BI",
+      "name": "Burundi",
+      "logo": "https://flagcdn.com/w320/bi.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q27329764",
+          "name": "Evariste Ndayishimiye",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AD%D0%B2%D0%B0%D1%80%D0%B8%D1%81%D1%82%20%D0%9D%D0%B4%D0%B0%D0%B9%D0%B8%D1%88%D0%B8%D0%BC%D0%B8%D0%B5%20%2818-02-2022%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BI",
+          "team_name": "Burundi",
+          "team_logo": "https://flagcdn.com/w320/bi.png"
+        }
+      ]
+    },
+    "GM": {
+      "id": "GM",
+      "name": "Gambiya",
+      "logo": "https://flagcdn.com/w320/gm.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q27917049",
+          "name": "Adama Barrow",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Adama%20Barrow%20at%20the%2015th%20OIC%20Summit.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GM",
+          "team_name": "Gambiya",
+          "team_logo": "https://flagcdn.com/w320/gm.png"
+        }
+      ]
+    },
+    "ST": {
+      "id": "ST",
+      "name": "São Tomé ve Príncipe",
+      "logo": "https://flagcdn.com/w320/st.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q27982047",
+          "name": "Carlos Vila Nova",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/WSIS%20FORUM%202015%20Day%202%20-%20Carlos%20Vila%20Nova%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "ST",
+          "team_name": "São Tomé ve Príncipe",
+          "team_logo": "https://flagcdn.com/w320/st.png"
+        },
+        {
+          "id": "Q131749390",
+          "name": "Américo Ramos",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Am%C3%A9rico%20Ramos%20%2814-01-2025%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "ST",
+          "team_name": "São Tomé ve Príncipe",
+          "team_logo": "https://flagcdn.com/w320/st.png"
+        }
+      ]
+    },
+    "AO": {
+      "id": "AO",
+      "name": "Angola",
+      "logo": "https://flagcdn.com/w320/ao.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q28650390",
+          "name": "João Lourenço",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20Angola%20Jo%C3%A3o%20Louren%C3%A7o%20during%20a%20bilateral%20exchange%20at%20the%20Angola%20presidential%20palace%20in%20Luanda%2C%20Angola%2C%20September%2027%2C%202023%20-%20230927-D-PM193-1914%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "AO",
+          "team_name": "Angola",
+          "team_logo": "https://flagcdn.com/w320/ao.png"
+        }
+      ]
+    },
+    "CD": {
+      "id": "CD",
+      "name": "Kongo Demokratik Cumhuriyeti",
+      "logo": "https://flagcdn.com/w320/cd.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q29032770",
+          "name": "Félix Tshisekedi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Felix%20Tshisekedi%2C%20President%20of%20the%20Democratic%20Republic%20of%20the%20Congo%20%2855078564106%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CD",
+          "team_name": "Kongo Demokratik Cumhuriyeti",
+          "team_logo": "https://flagcdn.com/w320/cd.png"
+        },
+        {
+          "id": "Q63967715",
+          "name": "Sylvestre Ilunga",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sylvestre%20Ilunga%20Ilunkamba%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "CD",
+          "team_name": "Kongo Demokratik Cumhuriyeti",
+          "team_logo": "https://flagcdn.com/w320/cd.png"
+        }
+      ]
+    },
+    "LB": {
+      "id": "LB",
+      "name": "Lübnan",
+      "logo": "https://flagcdn.com/w320/lb.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q29033962",
+          "name": "Yusuf Avn",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikos%20Christodoulides%20meets%20with%20Joseph%20Aoun%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LB",
+          "team_name": "Lübnan",
+          "team_logo": "https://flagcdn.com/w320/lb.png"
+        },
+        {
+          "id": "Q638463",
+          "name": "Nevvaf Selam",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nawaf%20Salam.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "LB",
+          "team_name": "Lübnan",
+          "team_logo": "https://flagcdn.com/w320/lb.png"
+        }
+      ]
+    },
+    "TM": {
+      "id": "TM",
+      "name": "Türkmenistan",
+      "logo": "https://flagcdn.com/w320/tm.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q51874548",
+          "name": "Serdar Berdimuhammedov",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Serdar%20Berdimuhamedov%20on%20December%2020%2C%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "TM",
+          "team_name": "Türkmenistan",
+          "team_logo": "https://flagcdn.com/w320/tm.png"
+        }
+      ]
+    },
+    "SD": {
+      "id": "SD",
+      "name": "Sudan",
+      "logo": "https://flagcdn.com/w320/sd.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q63111184",
+          "name": "Abdülfettah Burhan",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdel%20Fattah%20al-Burhan%20in%20April%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SD",
+          "team_name": "Sudan",
+          "team_logo": "https://flagcdn.com/w320/sd.png"
+        },
+        {
+          "id": "Q27654948",
+          "name": "Abdullah Hamduk",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Green%20and%20Abdalla%20Hamdok%20at%20USAID%20HQ%20%282%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "SD",
+          "team_name": "Sudan",
+          "team_logo": "https://flagcdn.com/w320/sd.png"
+        }
+      ]
+    },
+    "MZ": {
+      "id": "MZ",
+      "name": "Mozambik",
+      "logo": "https://flagcdn.com/w320/mz.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q97058466",
+          "name": "Daniel Chapo",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Chapo%20on%20November%2024%2C%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MZ",
+          "team_name": "Mozambik",
+          "team_logo": "https://flagcdn.com/w320/mz.png"
+        }
+      ]
+    },
+    "CR": {
+      "id": "CR",
+      "name": "Kosta Rika",
+      "logo": "https://flagcdn.com/w320/cr.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q98017689",
+          "name": "Rodrigo Chaves Robles",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo%20Chaves%202022-5-16%20Foto%20by%20Julieth%20Mendez%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "CR",
+          "team_name": "Kosta Rika",
+          "team_logo": "https://flagcdn.com/w320/cr.png"
+        }
+      ]
+    },
+    "ML": {
+      "id": "ML",
+      "name": "Mali",
+      "logo": "https://flagcdn.com/w320/ml.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q98497406",
+          "name": "Assimi Goita",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Assimi%20Go%C3%AFta%20in%20July%202023.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "ML",
+          "team_name": "Mali",
+          "team_logo": "https://flagcdn.com/w320/ml.png"
+        }
+      ]
+    },
+    "LY": {
+      "id": "LY",
+      "name": "Libya",
+      "logo": "https://flagcdn.com/w320/ly.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q105319610",
+          "name": "Muhammed Menfi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20al-Menfi%20%282023-07-23%29%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "LY",
+          "team_name": "Libya",
+          "team_logo": "https://flagcdn.com/w320/ly.png"
+        },
+        {
+          "id": "Q105319569",
+          "name": "Abdülhamid Dibeybe",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Abdul%20Hamid%20Dbeibah%2C%20Prime%20Minister%20of%20the%20Government%20of%20National%20Unity%20of%20Libya%2C%20to%20the%20European%20Commission%2004%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "LY",
+          "team_name": "Libya",
+          "team_logo": "https://flagcdn.com/w320/ly.png"
+        }
+      ]
+    },
+    "GT": {
+      "id": "GT",
+      "name": "Guatemala",
+      "logo": "https://flagcdn.com/w320/gt.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q107254030",
+          "name": "Bernardo Arévalo de León",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo%20Ar%C3%A9valo%20de%20Le%C3%B3n.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GT",
+          "team_name": "Guatemala",
+          "team_logo": "https://flagcdn.com/w320/gt.png"
+        }
+      ]
+    },
+    "GN": {
+      "id": "GN",
+      "name": "Gine",
+      "logo": "https://flagcdn.com/w320/gn.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q108418519",
+          "name": "Mamady Doumbouya",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mamadi%20Doumbouya%202022.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GN",
+          "team_name": "Gine",
+          "team_logo": "https://flagcdn.com/w320/gn.png"
+        },
+        {
+          "id": "Q22209348",
+          "name": "Bah Oury",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bah%20Oury.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "GN",
+          "team_name": "Gine",
+          "team_logo": "https://flagcdn.com/w320/gn.png"
+        }
+      ]
+    },
+    "PA": {
+      "id": "PA",
+      "name": "Panama",
+      "logo": "https://flagcdn.com/w320/pa.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q108454869",
+          "name": "José Raúl Mulino",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Ra%C3%BAl%20Mulino%202025.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "PA",
+          "team_name": "Panama",
+          "team_logo": "https://flagcdn.com/w320/pa.png"
+        }
+      ]
+    },
+    "BF": {
+      "id": "BF",
+      "name": "Burkina Faso",
+      "logo": "https://flagcdn.com/w320/bf.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q114341246",
+          "name": "Ibrahim Traore",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Capitaine%20Ibrahim%20Traor%C3%A9.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BF",
+          "team_name": "Burkina Faso",
+          "team_logo": "https://flagcdn.com/w320/bf.png"
+        },
+        {
+          "id": "Q114835874",
+          "name": "Apollinaire Joachim Kyélem de Tambèla",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Apollinaire%20Kyelem%20de%20Tamb%C3%A8la%20%28cropped%29.png?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BF",
+          "team_name": "Burkina Faso",
+          "team_logo": "https://flagcdn.com/w320/bf.png"
+        }
+      ]
+    },
+    "MV": {
+      "id": "MV",
+      "name": "Maldivler",
+      "logo": "https://flagcdn.com/w320/mv.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q116293030",
+          "name": "Muhammed Muizzu",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Muizzu%20in%20December%202023.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "MV",
+          "team_name": "Maldivler",
+          "team_logo": "https://flagcdn.com/w320/mv.png"
+        }
+      ]
+    },
+    "BD": {
+      "id": "BD",
+      "name": "Bangladeş",
+      "logo": "https://flagcdn.com/w320/bd.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q116763154",
+          "name": "Muhammed Şahabuddin",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammed%20Shahabuddin%20official%20portrait.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "BD",
+          "team_name": "Bangladeş",
+          "team_logo": "https://flagcdn.com/w320/bd.png"
+        },
+        {
+          "id": "Q43969",
+          "name": "Muhammed Yunus",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Yunus%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "BD",
+          "team_name": "Bangladeş",
+          "team_logo": "https://flagcdn.com/w320/bd.png"
+        }
+      ]
+    },
+    "NE": {
+      "id": "NE",
+      "name": "Nijer",
+      "logo": "https://flagcdn.com/w320/ne.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q120965176",
+          "name": "Abdourahamane Tchiani",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdourahamane%20Tchiani%20in%202025%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "NE",
+          "team_name": "Nijer",
+          "team_logo": "https://flagcdn.com/w320/ne.png"
+        },
+        {
+          "id": "Q2646711",
+          "name": "Ali Lamine Zeine",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Lamine%20Zeine%20%282024%29%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "NE",
+          "team_name": "Nijer",
+          "team_logo": "https://flagcdn.com/w320/ne.png"
+        }
+      ]
+    },
+    "GA": {
+      "id": "GA",
+      "name": "Gabon",
+      "logo": "https://flagcdn.com/w320/ga.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q122067521",
+          "name": "Brice Clotaire Oligui Nguema",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Brice%20Oligui%20Nguema%20on%20November%2026%2C%202024%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "GA",
+          "team_name": "Gabon",
+          "team_logo": "https://flagcdn.com/w320/ga.png"
+        },
+        {
+          "id": "Q57856",
+          "name": "Raymond Ndong Sima",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Raymond%20Ndong%20Sima%202024.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "GA",
+          "team_name": "Gabon",
+          "team_logo": "https://flagcdn.com/w320/ga.png"
+        }
+      ]
+    },
+    "DM": {
+      "id": "DM",
+      "name": "Dominika",
+      "logo": "https://flagcdn.com/w320/dm.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q122208779",
+          "name": "Sylvanie Burton",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sylvanie%20Burton%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "DM",
+          "team_name": "Dominika",
+          "team_logo": "https://flagcdn.com/w320/dm.png"
+        },
+        {
+          "id": "Q57823",
+          "name": "Roosevelt Skerrit",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/RooseveltSkerrit.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "DM",
+          "team_name": "Dominika",
+          "team_logo": "https://flagcdn.com/w320/dm.png"
+        }
+      ]
+    },
+    "SN": {
+      "id": "SN",
+      "name": "Senegal",
+      "logo": "https://flagcdn.com/w320/sn.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q124382437",
+          "name": "Bassirou Diomaye Faye",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bassirou%20Diomaye%20Faye%20in%20Yokohama%20%28cropped%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "SN",
+          "team_name": "Senegal",
+          "team_logo": "https://flagcdn.com/w320/sn.png"
+        }
+      ]
+    },
+    "HT": {
+      "id": "HT",
+      "name": "Haiti",
+      "logo": "https://flagcdn.com/w320/ht.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q124846311",
+          "name": "Başkanlık Geçiş Konseyi",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Transitional%20Presidential%20Council%20installation%20%2825%20April%202024%29.jpg?width=320",
+          "position": "Devlet Başkanı",
+          "team_id": "HT",
+          "team_name": "Haiti",
+          "team_logo": "https://flagcdn.com/w320/ht.png"
+        },
+        {
+          "id": "Q131140314",
+          "name": "Alix Didier Fils-Aimé",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alix%20Didier%20Fils-Aim%C3%A9%20-%20Premier%20ministre.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "HT",
+          "team_name": "Haiti",
+          "team_logo": "https://flagcdn.com/w320/ht.png"
+        }
+      ]
+    },
+    "TG": {
+      "id": "TG",
+      "name": "Togo",
+      "logo": "https://flagcdn.com/w320/tg.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q4414",
+          "name": "Faure Gnassingbé",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20Togo%20Faure%20Gnassingb%C3%A9%20on%20November%2013%2C%202024%20%28cropped%29.jpg?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "TG",
+          "team_name": "Togo",
+          "team_logo": "https://flagcdn.com/w320/tg.png"
+        }
+      ]
+    },
+    "AF": {
+      "id": "AF",
+      "name": "Afganistan",
+      "logo": "https://flagcdn.com/w320/af.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q108444479",
+          "name": "Muhammed Hasan Ahund",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasan%20Akhund.png?width=320",
+          "position": "Hükümet Başkanı",
+          "team_id": "AF",
+          "team_name": "Afganistan",
+          "team_logo": "https://flagcdn.com/w320/af.png"
+        }
+      ]
+    },
+    "XN": {
+      "id": "XN",
+      "name": "Kuzey Kıbrıs Türk Cumhuriyeti",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Northern_Cyprus.svg/320px-Flag_of_Northern_Cyprus.svg.png",
+      "country": "",
+      "players": [
+        {
+          "id": "Q6057339",
+          "name": "Ersin Tatar",
+          "photo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ersin%20Tatar%20in%20April%202025%20%28cropped%29.jpg?width=320",
+          "position": "Tarihi Lider",
+          "team_id": "XN",
+          "team_name": "Kuzey Kıbrıs Türk Cumhuriyeti",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Northern_Cyprus.svg/320px-Flag_of_Northern_Cyprus.svg.png"
+        }
+      ]
+    }
+  }
+}

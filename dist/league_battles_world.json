@@ -1,0 +1,177 @@
+{
+  "league_id": "battles_world",
+  "league_name": "Tarihi Savaşlar",
+  "category": "battles",
+  "teams": {
+    "istanbul_fethis": {
+      "id": "istanbul_fethis",
+      "name": "İstanbul'un Fethi (1453)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mural_by_USMC_combat_artist_Sgt._John_Dyer_depicting_the_Fall_of_Constantinople_1453.jpg/320px-Mural_by_USMC_combat_artist_Sgt._John_Dyer_depicting_the_Fall_of_Constantinople_1453.jpg",
+      "country": "1453",
+      "players": [
+        {
+          "id": "istanbul_fethis_taraflar",
+          "name": "Osmanlı İmparatorluğu — Bizans İmparatorluğu",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Coat_of_Arms_of_the_Ottoman_Empire.svg/240px-Coat_of_Arms_of_the_Ottoman_Empire.svg.png",
+          "position": "Kuşatmacı — Savunucu",
+          "team_id": "istanbul_fethis",
+          "team_name": "İstanbul'un Fethi (1453)",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mural_by_USMC_combat_artist_Sgt._John_Dyer_depicting_the_Fall_of_Constantinople_1453.jpg/320px-Mural_by_USMC_combat_artist_Sgt._John_Dyer_depicting_the_Fall_of_Constantinople_1453.jpg"
+        }
+      ]
+    },
+    "wwi": {
+      "id": "wwi",
+      "name": "I. Dünya Savaşı (1914–1918)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/WWImontage.jpg/320px-WWImontage.jpg",
+      "country": "1914",
+      "players": [
+        {
+          "id": "wwi_taraflar",
+          "name": "İtilaf Devletleri — İttifak Devletleri",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_the_Triple_Entente.svg/240px-Flag_of_the_Triple_Entente.svg.png",
+          "position": "İngiltere, Fransa, Rusya — Almanya, Avusturya-Macaristan, Osmanlı",
+          "team_id": "wwi",
+          "team_name": "I. Dünya Savaşı (1914–1918)",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/WWImontage.jpg/320px-WWImontage.jpg"
+        }
+      ]
+    },
+    "wwii": {
+      "id": "wwii",
+      "name": "II. Dünya Savaşı (1939–1945)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/WW2Montage.jpg/320px-WW2Montage.jpg",
+      "country": "1939",
+      "players": [
+        {
+          "id": "wwii_taraflar",
+          "name": "Müttefik Devletler — Mihver Devletleri",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_Allies.svg/240px-Flag_of_the_Allies.svg.png",
+          "position": "ABD, İngiltere, Sovyetler — Almanya, İtalya, Japonya",
+          "team_id": "wwii",
+          "team_name": "II. Dünya Savaşı (1939–1945)",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/WW2Montage.jpg/320px-WW2Montage.jpg"
+        }
+      ]
+    },
+    "kurtulus_savasi": {
+      "id": "kurtulus_savasi",
+      "name": "Türk Kurtuluş Savaşı (1919–1923)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/240px-Flag_of_Turkey.svg.png",
+      "country": "1919",
+      "players": [
+        {
+          "id": "kurtulus_taraflar",
+          "name": "Anadolu Hareketi (TBMM) — İşgal Güçleri",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/240px-Flag_of_Turkey.svg.png",
+          "position": "Mustafa Kemal önderliğinde — Yunanistan, İngiltere, Fransa, İtalya",
+          "team_id": "kurtulus_savasi",
+          "team_name": "Türk Kurtuluş Savaşı (1919–1923)",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/240px-Flag_of_Turkey.svg.png"
+        }
+      ]
+    },
+    "canakkale": {
+      "id": "canakkale",
+      "name": "Çanakkale Savaşı (1915–1916)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/240px-Flag_of_Turkey.svg.png",
+      "country": "1915",
+      "players": [
+        {
+          "id": "canakkale_taraflar",
+          "name": "Osmanlı İmparatorluğu — İtilaf Devletleri",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Coat_of_Arms_of_the_Ottoman_Empire.svg/240px-Coat_of_Arms_of_the_Ottoman_Empire.svg.png",
+          "position": "Savunucu — İngiltere, Fransa, ANZAC",
+          "team_id": "canakkale",
+          "team_name": "Çanakkale Savaşı (1915–1916)",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/240px-Flag_of_Turkey.svg.png"
+        }
+      ]
+    },
+    "waterloo": {
+      "id": "waterloo",
+      "name": "Waterloo Muharebesi (1815)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/240px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png",
+      "country": "1815",
+      "players": [
+        {
+          "id": "waterloo_taraflar",
+          "name": "Napolyon Fransa — 7. Koalisyon",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/240px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png",
+          "position": "Napolyon Bonaparte — Wellington ve Blücher",
+          "team_id": "waterloo",
+          "team_name": "Waterloo Muharebesi (1815)",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/240px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png"
+        }
+      ]
+    },
+    "mogol_istilasi": {
+      "id": "mogol_istilasi",
+      "name": "Moğol İstilası (1219–1260)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_the_Mongol_Empire.svg/240px-Flag_of_the_Mongol_Empire.svg.png",
+      "country": "1219",
+      "players": [
+        {
+          "id": "mogol_taraflar",
+          "name": "Moğol İmparatorluğu — Abbasi Halifeliği",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_the_Mongol_Empire.svg/240px-Flag_of_the_Mongol_Empire.svg.png",
+          "position": "Cengiz Han soyu — Bağdat merkezi",
+          "team_id": "mogol_istilasi",
+          "team_name": "Moğol İstilası (1219–1260)",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_the_Mongol_Empire.svg/240px-Flag_of_the_Mongol_Empire.svg.png"
+        }
+      ]
+    },
+    "manzikert": {
+      "id": "manzikert",
+      "name": "Malazgirt Muharebesi (1071)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_the_Seljuk_dynasty.svg/240px-Flag_of_the_Seljuk_dynasty.svg.png",
+      "country": "1071",
+      "players": [
+        {
+          "id": "manzikert_taraflar",
+          "name": "Büyük Selçuklu İmparatorluğu — Bizans İmparatorluğu",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_the_Seljuk_dynasty.svg/240px-Flag_of_the_Seljuk_dynasty.svg.png",
+          "position": "Alp Arslan — IV. Romanos Diogenes",
+          "team_id": "manzikert",
+          "team_name": "Malazgirt Muharebesi (1071)",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_the_Seljuk_dynasty.svg/240px-Flag_of_the_Seljuk_dynasty.svg.png"
+        }
+      ]
+    },
+    "trafalgar": {
+      "id": "trafalgar",
+      "name": "Trafalgar Muharebesi (1805)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/240px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+      "country": "1805",
+      "players": [
+        {
+          "id": "trafalgar_taraflar",
+          "name": "Britanya Krallığı — Fransa-İspanya İttifakı",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/240px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+          "position": "Amiral Nelson — Amiral Villeneuve",
+          "team_id": "trafalgar",
+          "team_name": "Trafalgar Muharebesi (1805)",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/240px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"
+        }
+      ]
+    },
+    "amerikan_bagimsizlik": {
+      "id": "amerikan_bagimsizlik",
+      "name": "Amerikan Bağımsızlık Savaşı (1775–1783)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/240px-Flag_of_the_United_States.svg.png",
+      "country": "1775",
+      "players": [
+        {
+          "id": "amerikan_bag_taraflar",
+          "name": "Amerikan Kolonileri — Britanya Krallığı",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/240px-Flag_of_the_United_States.svg.png",
+          "position": "Washington önderliğinde — III. George döneminde",
+          "team_id": "amerikan_bagimsizlik",
+          "team_name": "Amerikan Bağımsızlık Savaşı (1775–1783)",
+          "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/240px-Flag_of_the_United_States.svg.png"
+        }
+      ]
+    }
+  }
+}
