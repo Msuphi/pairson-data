@@ -1,0 +1,119 @@
+{
+  "league_id": "retro_2000",
+  "league_name": "2000'ler",
+  "category": "retro",
+  "teams": {
+    "t_barca": {
+      "id": "t_barca",
+      "name": "Barcelona",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r00_1",
+          "name": "Lionel Messi",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_barca",
+          "team_name": "Barcelona",
+          "team_logo": ""
+        },
+        {
+          "id": "r00_4",
+          "name": "Xavi Hernandez",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_barca",
+          "team_name": "Barcelona",
+          "team_logo": ""
+        },
+        {
+          "id": "r00_5",
+          "name": "Andrés Iniesta",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_barca",
+          "team_name": "Barcelona",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_mufc": {
+      "id": "t_mufc",
+      "name": "Manchester Utd",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r00_2",
+          "name": "Cristiano Ronaldo",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_mufc",
+          "team_name": "Manchester Utd",
+          "team_logo": ""
+        },
+        {
+          "id": "r00_8",
+          "name": "Wayne Rooney",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_mufc",
+          "team_name": "Manchester Utd",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_acmilan": {
+      "id": "t_acmilan",
+      "name": "AC Milan",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r00_3",
+          "name": "Kaká",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_acmilan",
+          "team_name": "AC Milan",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_chelsea": {
+      "id": "t_chelsea",
+      "name": "Chelsea",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r00_6",
+          "name": "Frank Lampard",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_chelsea",
+          "team_name": "Chelsea",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_liver": {
+      "id": "t_liver",
+      "name": "Liverpool",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r00_7",
+          "name": "Steven Gerrard",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_liver",
+          "team_name": "Liverpool",
+          "team_logo": ""
+        }
+      ]
+    }
+  }
+}
