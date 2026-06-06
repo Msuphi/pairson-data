@@ -1,35 +1,89 @@
 {
-    "name": "kit_match",
-    "short_name": "kit_match",
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
-    "icons": [
-        {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-maskable-192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
-        },
-        {
-            "src": "icons/Icon-maskable-512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
-        }
-    ]
+  "manifest_version": 1,
+  "leagues": [
+    {
+      "id": "135",
+      "file": "league_135.json",
+      "name": "Serie A",
+      "category": "football",
+      "version": 1
+    },
+    {
+      "id": "140",
+      "file": "league_140.json",
+      "name": "La Liga",
+      "category": "football",
+      "version": 1
+    },
+    {
+      "id": "203",
+      "file": "league_203.json",
+      "name": "Süper Lig",
+      "category": "football",
+      "version": 1
+    },
+    {
+      "id": "39",
+      "file": "league_39.json",
+      "name": "Premier League",
+      "category": "football",
+      "version": 1
+    },
+    {
+      "id": "61",
+      "file": "league_61.json",
+      "name": "Ligue 1",
+      "category": "football",
+      "version": 1
+    },
+    {
+      "id": "78",
+      "file": "league_78.json",
+      "name": "Bundesliga",
+      "category": "football",
+      "version": 1
+    },
+    {
+      "id": "battles_world",
+      "file": "league_battles_world.json",
+      "name": "Tarihi Savaşlar",
+      "category": "battles",
+      "version": 1
+    },
+    {
+      "id": "leaders_world",
+      "file": "league_leaders_world.json",
+      "name": "Devletler & Liderler",
+      "category": "countries",
+      "version": 1
+    },
+    {
+      "id": "movies_global",
+      "file": "league_movies_global.json",
+      "name": "Sinema — Dünya",
+      "category": "movies",
+      "version": 1
+    },
+    {
+      "id": "movies_turkish",
+      "file": "league_movies_turkish.json",
+      "name": "Sinema — Türk",
+      "category": "movies",
+      "version": 1
+    },
+    {
+      "id": "series_global",
+      "file": "league_series_global.json",
+      "name": "Diziler — Dünya",
+      "category": "series",
+      "version": 1
+    },
+    {
+      "id": "series_turkish",
+      "file": "league_series_turkish.json",
+      "name": "Diziler — Türk",
+      "category": "series",
+      "version": 1
+    }
+  ]
 }
