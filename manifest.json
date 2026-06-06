@@ -267,7 +267,7 @@
             "en": "World Leaders"
           },
           "file": "league_leaders_world.json",
-          "version": 1
+          "version": 2
         }
       ]
     },
@@ -329,11 +329,11 @@
         "en": "Retro Football"
       },
       "subtitle": {
-        "tr": "Yakında",
-        "en": "Coming Soon"
+        "tr": "4 dönem",
+        "en": "4 eras"
       },
       "access": "trial",
-      "comingSoon": true,
+      "comingSoon": false,
       "theme": {
         "primaryColor": "FFE0A23B",
         "backgroundColor": "FF14100A",
@@ -358,7 +358,48 @@
         "timeBonusSeconds": 0,
         "gridColumns": 0
       },
-      "packs": []
+      "packs": [
+        {
+          "id": "retro_1970",
+          "emoji": "📼",
+          "name": {
+            "tr": "70'ler",
+            "en": "70s"
+          },
+          "file": "league_retro_1970.json",
+          "version": 1
+        },
+        {
+          "id": "retro_1980",
+          "emoji": "🎞️",
+          "name": {
+            "tr": "80'ler",
+            "en": "80s"
+          },
+          "file": "league_retro_1980.json",
+          "version": 1
+        },
+        {
+          "id": "retro_1990",
+          "emoji": "💿",
+          "name": {
+            "tr": "90'lar",
+            "en": "90s"
+          },
+          "file": "league_retro_1990.json",
+          "version": 1
+        },
+        {
+          "id": "retro_2000",
+          "emoji": "📀",
+          "name": {
+            "tr": "2000'ler",
+            "en": "2000s"
+          },
+          "file": "league_retro_2000.json",
+          "version": 1
+        }
+      ]
     },
     {
       "id": "basketball",
@@ -392,6 +433,45 @@
           "en": "Team"
         },
         "motif": "court"
+      },
+      "rules": {
+        "timeBonusSeconds": 0,
+        "gridColumns": 0
+      },
+      "packs": []
+    },
+    {
+      "id": "national",
+      "emoji": "🌍",
+      "title": {
+        "tr": "Milli Takımlar",
+        "en": "National Teams"
+      },
+      "subtitle": {
+        "tr": "Yakında",
+        "en": "Coming Soon"
+      },
+      "access": "trial",
+      "comingSoon": true,
+      "theme": {
+        "primaryColor": "FF2E86DE",
+        "backgroundColor": "FF06080C",
+        "surfaceColor": "FF0E141C",
+        "cardFrontColor": "FF131C28",
+        "cardBackColor": "FF0E141C",
+        "cardBackEmoji": "🌍",
+        "cardBackLabel": "Pairson",
+        "entityEmoji": "👤",
+        "groupEmoji": "🏳️",
+        "entityLabel": {
+          "tr": "Oyuncu",
+          "en": "Player"
+        },
+        "groupLabel": {
+          "tr": "Ülke",
+          "en": "Country"
+        },
+        "motif": "globe"
       },
       "rules": {
         "timeBonusSeconds": 0,
