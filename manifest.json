@@ -1,89 +1,403 @@
 {
-  "manifest_version": 1,
-  "leagues": [
+  "manifest_version": 2,
+  "categories": [
     {
-      "id": "135",
-      "file": "league_135.json",
-      "name": "Serie A",
-      "category": "football",
-      "version": 1
+      "id": "football",
+      "emoji": "🇪🇺",
+      "title": {
+        "tr": "Avrupa Ligleri",
+        "en": "European Leagues"
+      },
+      "subtitle": {
+        "tr": "6 lig",
+        "en": "6 leagues"
+      },
+      "access": "free",
+      "comingSoon": false,
+      "theme": {
+        "primaryColor": "FF1DB954",
+        "backgroundColor": "FF0A0A0A",
+        "surfaceColor": "FF161616",
+        "cardFrontColor": "FF242424",
+        "cardBackColor": "FF1E1E1E",
+        "cardBackEmoji": "⚽",
+        "cardBackLabel": "Pairson",
+        "entityEmoji": "👤",
+        "groupEmoji": "🛡️",
+        "entityLabel": {
+          "tr": "Futbolcu",
+          "en": "Player"
+        },
+        "groupLabel": {
+          "tr": "Takım",
+          "en": "Team"
+        },
+        "motif": "pitch"
+      },
+      "rules": {
+        "timeBonusSeconds": 0,
+        "gridColumns": 0
+      },
+      "packs": [
+        {
+          "id": "39",
+          "emoji": "🏴",
+          "name": {
+            "tr": "Premier League",
+            "en": "England — Premier League"
+          },
+          "file": "league_39.json",
+          "version": 1
+        },
+        {
+          "id": "140",
+          "emoji": "🇪🇸",
+          "name": {
+            "tr": "La Liga",
+            "en": "Spain — La Liga"
+          },
+          "file": "league_140.json",
+          "version": 1
+        },
+        {
+          "id": "78",
+          "emoji": "🇩🇪",
+          "name": {
+            "tr": "Bundesliga",
+            "en": "Germany — Bundesliga"
+          },
+          "file": "league_78.json",
+          "version": 1
+        },
+        {
+          "id": "135",
+          "emoji": "🇮🇹",
+          "name": {
+            "tr": "Serie A",
+            "en": "Italy — Serie A"
+          },
+          "file": "league_135.json",
+          "version": 1
+        },
+        {
+          "id": "61",
+          "emoji": "🇫🇷",
+          "name": {
+            "tr": "Ligue 1",
+            "en": "France — Ligue 1"
+          },
+          "file": "league_61.json",
+          "version": 1
+        },
+        {
+          "id": "203",
+          "emoji": "🇹🇷",
+          "name": {
+            "tr": "Süper Lig",
+            "en": "Türkiye — Süper Lig"
+          },
+          "file": "league_203.json",
+          "version": 1
+        }
+      ]
     },
     {
-      "id": "140",
-      "file": "league_140.json",
-      "name": "La Liga",
-      "category": "football",
-      "version": 1
+      "id": "movies",
+      "emoji": "🎬",
+      "title": {
+        "tr": "Sinema",
+        "en": "Cinema"
+      },
+      "subtitle": {
+        "tr": "Dünya + Türk",
+        "en": "World + Turkish"
+      },
+      "access": "trial",
+      "comingSoon": false,
+      "theme": {
+        "primaryColor": "FFD4AF37",
+        "backgroundColor": "FF0A0608",
+        "surfaceColor": "FF160E12",
+        "cardFrontColor": "FF20141A",
+        "cardBackColor": "FF160E12",
+        "cardBackEmoji": "🎬",
+        "cardBackLabel": "Pairson",
+        "entityEmoji": "🎭",
+        "groupEmoji": "🎬",
+        "entityLabel": {
+          "tr": "Oyuncu",
+          "en": "Actor"
+        },
+        "groupLabel": {
+          "tr": "Film",
+          "en": "Movie"
+        },
+        "motif": "film"
+      },
+      "rules": {
+        "timeBonusSeconds": 0,
+        "gridColumns": 0
+      },
+      "packs": [
+        {
+          "id": "movies_global",
+          "emoji": "🌍",
+          "name": {
+            "tr": "Sinema — Dünya",
+            "en": "Cinema — World"
+          },
+          "file": "league_movies_global.json",
+          "version": 1
+        },
+        {
+          "id": "movies_turkish",
+          "emoji": "🇹🇷",
+          "name": {
+            "tr": "Sinema — Türk",
+            "en": "Cinema — Turkish"
+          },
+          "file": "league_movies_turkish.json",
+          "version": 1
+        }
+      ]
     },
     {
-      "id": "203",
-      "file": "league_203.json",
-      "name": "Süper Lig",
-      "category": "football",
-      "version": 1
+      "id": "series",
+      "emoji": "📺",
+      "title": {
+        "tr": "Diziler",
+        "en": "TV Series"
+      },
+      "subtitle": {
+        "tr": "Dünya + Türk",
+        "en": "World + Turkish"
+      },
+      "access": "trial",
+      "comingSoon": false,
+      "theme": {
+        "primaryColor": "FF9B5DE5",
+        "backgroundColor": "FF09060D",
+        "surfaceColor": "FF140C1E",
+        "cardFrontColor": "FF1D1329",
+        "cardBackColor": "FF140C1E",
+        "cardBackEmoji": "📺",
+        "cardBackLabel": "Pairson",
+        "entityEmoji": "🎭",
+        "groupEmoji": "📺",
+        "entityLabel": {
+          "tr": "Oyuncu",
+          "en": "Actor"
+        },
+        "groupLabel": {
+          "tr": "Dizi",
+          "en": "Series"
+        },
+        "motif": "tv"
+      },
+      "rules": {
+        "timeBonusSeconds": 0,
+        "gridColumns": 0
+      },
+      "packs": [
+        {
+          "id": "series_global",
+          "emoji": "🌍",
+          "name": {
+            "tr": "Diziler — Dünya",
+            "en": "TV Series — World"
+          },
+          "file": "league_series_global.json",
+          "version": 1
+        },
+        {
+          "id": "series_turkish",
+          "emoji": "🇹🇷",
+          "name": {
+            "tr": "Diziler — Türk",
+            "en": "TV Series — Turkish"
+          },
+          "file": "league_series_turkish.json",
+          "version": 1
+        }
+      ]
     },
     {
-      "id": "39",
-      "file": "league_39.json",
-      "name": "Premier League",
-      "category": "football",
-      "version": 1
+      "id": "countries",
+      "emoji": "🏛️",
+      "title": {
+        "tr": "Devletler",
+        "en": "Nations"
+      },
+      "subtitle": {
+        "tr": "Liderler",
+        "en": "Leaders"
+      },
+      "access": "trial",
+      "comingSoon": false,
+      "theme": {
+        "primaryColor": "FFC0392B",
+        "backgroundColor": "FF0A0707",
+        "surfaceColor": "FF18100F",
+        "cardFrontColor": "FF231614",
+        "cardBackColor": "FF18100F",
+        "cardBackEmoji": "🏛️",
+        "cardBackLabel": "Pairson",
+        "entityEmoji": "👤",
+        "groupEmoji": "🏴",
+        "entityLabel": {
+          "tr": "Kişi",
+          "en": "Person"
+        },
+        "groupLabel": {
+          "tr": "Ülke",
+          "en": "Country"
+        },
+        "motif": "globe"
+      },
+      "rules": {
+        "timeBonusSeconds": 0,
+        "gridColumns": 0
+      },
+      "packs": [
+        {
+          "id": "leaders_world",
+          "emoji": "🌍",
+          "name": {
+            "tr": "Dünya Liderleri",
+            "en": "World Leaders"
+          },
+          "file": "league_leaders_world.json",
+          "version": 1
+        }
+      ]
     },
     {
-      "id": "61",
-      "file": "league_61.json",
-      "name": "Ligue 1",
-      "category": "football",
-      "version": 1
+      "id": "battles",
+      "emoji": "⚔️",
+      "title": {
+        "tr": "Tarihi Savaşlar",
+        "en": "Historic Battles"
+      },
+      "subtitle": {
+        "tr": "10 savaş",
+        "en": "10 battles"
+      },
+      "access": "trial",
+      "comingSoon": false,
+      "theme": {
+        "primaryColor": "FFB22222",
+        "backgroundColor": "FF0D0A08",
+        "surfaceColor": "FF1A1410",
+        "cardFrontColor": "FF231B16",
+        "cardBackColor": "FF1A1410",
+        "cardBackEmoji": "⚔️",
+        "cardBackLabel": "Pairson",
+        "entityEmoji": "🛡️",
+        "groupEmoji": "⚔️",
+        "entityLabel": {
+          "tr": "Taraf",
+          "en": "Side"
+        },
+        "groupLabel": {
+          "tr": "Savaş",
+          "en": "Battle"
+        },
+        "motif": "battle"
+      },
+      "rules": {
+        "timeBonusSeconds": 60,
+        "gridColumns": 3
+      },
+      "packs": [
+        {
+          "id": "battles_world",
+          "emoji": "⚔️",
+          "name": {
+            "tr": "Tarihi Savaşlar",
+            "en": "Historic Battles"
+          },
+          "file": "league_battles_world.json",
+          "version": 3
+        }
+      ]
     },
     {
-      "id": "78",
-      "file": "league_78.json",
-      "name": "Bundesliga",
-      "category": "football",
-      "version": 1
+      "id": "retro",
+      "emoji": "📼",
+      "title": {
+        "tr": "Futbol Retro",
+        "en": "Retro Football"
+      },
+      "subtitle": {
+        "tr": "Yakında",
+        "en": "Coming Soon"
+      },
+      "access": "trial",
+      "comingSoon": true,
+      "theme": {
+        "primaryColor": "FFE0A23B",
+        "backgroundColor": "FF14100A",
+        "surfaceColor": "FF1E1810",
+        "cardFrontColor": "FF2A2114",
+        "cardBackColor": "FF231B10",
+        "cardBackEmoji": "📼",
+        "cardBackLabel": "Retro",
+        "entityEmoji": "👤",
+        "groupEmoji": "🛡️",
+        "entityLabel": {
+          "tr": "Efsane",
+          "en": "Legend"
+        },
+        "groupLabel": {
+          "tr": "Takım",
+          "en": "Team"
+        },
+        "motif": "grain"
+      },
+      "rules": {
+        "timeBonusSeconds": 0,
+        "gridColumns": 0
+      },
+      "packs": []
     },
     {
-      "id": "battles_world",
-      "file": "league_battles_world.json",
-      "name": "Tarihi Savaşlar",
-      "category": "battles",
-      "version": 2
-    },
-    {
-      "id": "leaders_world",
-      "file": "league_leaders_world.json",
-      "name": "Devletler & Liderler",
-      "category": "countries",
-      "version": 1
-    },
-    {
-      "id": "movies_global",
-      "file": "league_movies_global.json",
-      "name": "Sinema — Dünya",
-      "category": "movies",
-      "version": 1
-    },
-    {
-      "id": "movies_turkish",
-      "file": "league_movies_turkish.json",
-      "name": "Sinema — Türk",
-      "category": "movies",
-      "version": 1
-    },
-    {
-      "id": "series_global",
-      "file": "league_series_global.json",
-      "name": "Diziler — Dünya",
-      "category": "series",
-      "version": 1
-    },
-    {
-      "id": "series_turkish",
-      "file": "league_series_turkish.json",
-      "name": "Diziler — Türk",
-      "category": "series",
-      "version": 1
+      "id": "basketball",
+      "emoji": "🏀",
+      "title": {
+        "tr": "Basketbol",
+        "en": "Basketball"
+      },
+      "subtitle": {
+        "tr": "Yakında",
+        "en": "Coming Soon"
+      },
+      "access": "trial",
+      "comingSoon": true,
+      "theme": {
+        "primaryColor": "FFE8742C",
+        "backgroundColor": "FF0C0805",
+        "surfaceColor": "FF1A130C",
+        "cardFrontColor": "FF241A10",
+        "cardBackColor": "FF1E1610",
+        "cardBackEmoji": "🏀",
+        "cardBackLabel": "Pairson",
+        "entityEmoji": "👤",
+        "groupEmoji": "🏀",
+        "entityLabel": {
+          "tr": "Oyuncu",
+          "en": "Player"
+        },
+        "groupLabel": {
+          "tr": "Takım",
+          "en": "Team"
+        },
+        "motif": "court"
+      },
+      "rules": {
+        "timeBonusSeconds": 0,
+        "gridColumns": 0
+      },
+      "packs": []
     }
   ]
 }
