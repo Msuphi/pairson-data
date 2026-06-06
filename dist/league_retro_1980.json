@@ -1,0 +1,119 @@
+{
+  "league_id": "retro_1980",
+  "league_name": "80'ler",
+  "category": "retro",
+  "teams": {
+    "t_napoli": {
+      "id": "t_napoli",
+      "name": "Napoli",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r80_1",
+          "name": "Diego Maradona",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_napoli",
+          "team_name": "Napoli",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_juve": {
+      "id": "t_juve",
+      "name": "Juventus",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r80_2",
+          "name": "Michel Platini",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_juve",
+          "team_name": "Juventus",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_fcb": {
+      "id": "t_fcb",
+      "name": "Bayern Münih",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r80_3",
+          "name": "Karl-Heinz Rummenigge",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_fcb",
+          "team_name": "Bayern Münih",
+          "team_logo": ""
+        },
+        {
+          "id": "r80_8",
+          "name": "Lothar Matthäus",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_fcb",
+          "team_name": "Bayern Münih",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_acmilan": {
+      "id": "t_acmilan",
+      "name": "AC Milan",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r80_4",
+          "name": "Ruud Gullit",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_acmilan",
+          "team_name": "AC Milan",
+          "team_logo": ""
+        },
+        {
+          "id": "r80_5",
+          "name": "Marco van Basten",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_acmilan",
+          "team_name": "AC Milan",
+          "team_logo": ""
+        },
+        {
+          "id": "r80_7",
+          "name": "Paolo Maldini",
+          "photo": "",
+          "position": "Defender",
+          "team_id": "t_acmilan",
+          "team_name": "AC Milan",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_barca": {
+      "id": "t_barca",
+      "name": "Barcelona",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r80_6",
+          "name": "Gary Lineker",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_barca",
+          "team_name": "Barcelona",
+          "team_logo": ""
+        }
+      ]
+    }
+  }
+}
