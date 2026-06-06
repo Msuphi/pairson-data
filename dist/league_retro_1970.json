@@ -1,0 +1,135 @@
+{
+  "league_id": "retro_1970",
+  "league_name": "70'ler",
+  "category": "retro",
+  "teams": {
+    "t_ajax": {
+      "id": "t_ajax",
+      "name": "Ajax",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r70_1",
+          "name": "Johan Cruyff",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_ajax",
+          "team_name": "Ajax",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_fcb": {
+      "id": "t_fcb",
+      "name": "Bayern Münih",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r70_2",
+          "name": "Franz Beckenbauer",
+          "photo": "",
+          "position": "Defender",
+          "team_id": "t_fcb",
+          "team_name": "Bayern Münih",
+          "team_logo": ""
+        },
+        {
+          "id": "r70_4",
+          "name": "Gerd Müller",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_fcb",
+          "team_name": "Bayern Münih",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_santos": {
+      "id": "t_santos",
+      "name": "Santos",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r70_3",
+          "name": "Pelé",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_santos",
+          "team_name": "Santos",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_benfica": {
+      "id": "t_benfica",
+      "name": "Benfica",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r70_5",
+          "name": "Eusébio",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_benfica",
+          "team_name": "Benfica",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_mufc": {
+      "id": "t_mufc",
+      "name": "Manchester Utd",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r70_6",
+          "name": "George Best",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_mufc",
+          "team_name": "Manchester Utd",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_liver": {
+      "id": "t_liver",
+      "name": "Liverpool",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r70_7",
+          "name": "Kevin Keegan",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_liver",
+          "team_name": "Liverpool",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_flam": {
+      "id": "t_flam",
+      "name": "Flamengo",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r70_8",
+          "name": "Zico",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_flam",
+          "team_name": "Flamengo",
+          "team_logo": ""
+        }
+      ]
+    }
+  }
+}
