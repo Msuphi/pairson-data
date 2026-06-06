@@ -35,7 +35,10 @@
         "motif": "pitch"
       },
       "rules": {
-        "timeBonusSeconds": 0,
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3,
         "gridColumns": 0
       },
       "packs": [
@@ -99,7 +102,8 @@
           "file": "league_203.json",
           "version": 1
         }
-      ]
+      ],
+      "enabled": true
     },
     {
       "id": "movies",
@@ -135,7 +139,10 @@
         "motif": "film"
       },
       "rules": {
-        "timeBonusSeconds": 0,
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3,
         "gridColumns": 0
       },
       "packs": [
@@ -158,8 +165,19 @@
           },
           "file": "league_movies_turkish.json",
           "version": 1
+        },
+        {
+          "id": "movies_top100",
+          "emoji": "🏆",
+          "name": {
+            "tr": "En İyi 100 Film",
+            "en": "Top 100 Films"
+          },
+          "file": "league_movies_top100.json",
+          "version": 1
         }
-      ]
+      ],
+      "enabled": true
     },
     {
       "id": "series",
@@ -195,7 +213,10 @@
         "motif": "tv"
       },
       "rules": {
-        "timeBonusSeconds": 0,
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3,
         "gridColumns": 0
       },
       "packs": [
@@ -219,7 +240,8 @@
           "file": "league_series_turkish.json",
           "version": 1
         }
-      ]
+      ],
+      "enabled": true
     },
     {
       "id": "countries",
@@ -255,7 +277,10 @@
         "motif": "globe"
       },
       "rules": {
-        "timeBonusSeconds": 0,
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3,
         "gridColumns": 0
       },
       "packs": [
@@ -267,9 +292,10 @@
             "en": "World Leaders"
           },
           "file": "league_leaders_world.json",
-          "version": 2
+          "version": 3
         }
-      ]
+      ],
+      "enabled": true
     },
     {
       "id": "battles",
@@ -305,7 +331,10 @@
         "motif": "battle"
       },
       "rules": {
-        "timeBonusSeconds": 60,
+        "easySeconds": 300,
+        "mediumSeconds": 240,
+        "hardSeconds": 180,
+        "wrongPenaltySeconds": 3,
         "gridColumns": 3
       },
       "packs": [
@@ -319,7 +348,8 @@
           "file": "league_battles_world.json",
           "version": 3
         }
-      ]
+      ],
+      "enabled": true
     },
     {
       "id": "retro",
@@ -355,7 +385,10 @@
         "motif": "grain"
       },
       "rules": {
-        "timeBonusSeconds": 0,
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3,
         "gridColumns": 0
       },
       "packs": [
@@ -399,7 +432,8 @@
           "file": "league_retro_2000.json",
           "version": 1
         }
-      ]
+      ],
+      "enabled": true
     },
     {
       "id": "basketball",
@@ -435,10 +469,14 @@
         "motif": "court"
       },
       "rules": {
-        "timeBonusSeconds": 0,
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3,
         "gridColumns": 0
       },
-      "packs": []
+      "packs": [],
+      "enabled": true
     },
     {
       "id": "national",
@@ -474,10 +512,14 @@
         "motif": "globe"
       },
       "rules": {
-        "timeBonusSeconds": 0,
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3,
         "gridColumns": 0
       },
-      "packs": []
+      "packs": [],
+      "enabled": true
     }
   ]
 }
