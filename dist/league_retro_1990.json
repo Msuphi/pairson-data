@@ -1,0 +1,118 @@
+{
+  "league_id": "retro_1990",
+  "league_name": "90'lar",
+  "category": "retro",
+  "teams": {
+    "t_juve": {
+      "id": "t_juve",
+      "name": "Juventus",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r90_2",
+          "name": "Zinedine Zidane",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_juve",
+          "team_name": "Juventus",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_psg": {
+      "id": "t_psg",
+      "name": "PSG",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r90_3",
+          "name": "Ronaldinho",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_psg",
+          "team_name": "PSG",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_rmadrid": {
+      "id": "t_rmadrid",
+      "name": "Real Madrid",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r90_4",
+          "name": "Roberto Carlos",
+          "photo": "",
+          "position": "Defender",
+          "team_id": "t_rmadrid",
+          "team_name": "Real Madrid",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_barca": {
+      "id": "t_barca",
+      "name": "Barcelona",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r90_5",
+          "name": "Rivaldo",
+          "photo": "",
+          "position": "Midfielder",
+          "team_id": "t_barca",
+          "team_name": "Barcelona",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_arsenal": {
+      "id": "t_arsenal",
+      "name": "Arsenal",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r90_6",
+          "name": "Dennis Bergkamp",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_arsenal",
+          "team_name": "Arsenal",
+          "team_logo": ""
+        },
+        {
+          "id": "r90_8",
+          "name": "Thierry Henry",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_arsenal",
+          "team_name": "Arsenal",
+          "team_logo": ""
+        }
+      ]
+    },
+    "t_acmilan": {
+      "id": "t_acmilan",
+      "name": "AC Milan",
+      "logo": "",
+      "country": "",
+      "players": [
+        {
+          "id": "r90_7",
+          "name": "Andriy Shevchenko",
+          "photo": "",
+          "position": "Forward",
+          "team_id": "t_acmilan",
+          "team_name": "AC Milan",
+          "team_logo": ""
+        }
+      ]
+    }
+  }
+}
