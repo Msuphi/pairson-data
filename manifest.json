@@ -167,13 +167,13 @@
           "version": 1
         },
         {
-          "id": "movies_top100",
+          "id": "movies_top250",
           "emoji": "🏆",
           "name": {
-            "tr": "En İyi 100 Film",
-            "en": "Top 100 Films"
+            "tr": "En İyi 250 Film",
+            "en": "Top 250 Films"
           },
-          "file": "league_movies_top100.json",
+          "file": "league_movies_top250.json",
           "version": 1
         }
       ],
@@ -238,6 +238,16 @@
             "en": "TV Series — Turkish"
           },
           "file": "league_series_turkish.json",
+          "version": 1
+        },
+        {
+          "id": "series_top250",
+          "emoji": "🏆",
+          "name": {
+            "tr": "En İyi 250 Dizi",
+            "en": "Top 250 Series"
+          },
+          "file": "league_series_top250.json",
           "version": 1
         }
       ],
