@@ -530,6 +530,48 @@
       },
       "packs": [],
       "enabled": true
+    },
+    {
+      "id": "picture_maker",
+      "emoji": "🎨",
+      "access": "trial",
+      "title": {
+        "tr": "Sanat",
+        "en": "Art"
+      },
+      "subtitle": {
+        "tr": "Resim-Ressam",
+        "en": "Pictures - Artists "
+      },
+      "comingSoon": true,
+      "rules": {
+        "gridColumns": 2,
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3
+      },
+      "theme": {
+        "primaryColor": "00FF145",
+        "backgroundColor": "FF0A0A0A",
+        "surfaceColor": "FF161616",
+        "cardFrontColor": "FF242424",
+        "cardBackColor": "EAEBE7",
+        "cardBackEmoji": "🎴",
+        "cardBackLabel": "Pairson",
+        "motif": "film",
+        "entityEmoji": "👤",
+        "groupEmoji": "🏷️",
+        "entityLabel": {
+          "tr": "Kişi",
+          "en": "Person"
+        },
+        "groupLabel": {
+          "tr": "Grup",
+          "en": "Group"
+        }
+      },
+      "packs": []
     }
   ]
 }
