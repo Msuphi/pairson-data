@@ -1,0 +1,3425 @@
+{
+  "league_id": "nba_90s",
+  "league_name": "NBA 90'lar",
+  "category": "basketball",
+  "teams": {
+    "1610612737": {
+      "id": 1610612737,
+      "name": "Atlanta Hawks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+      "country": "",
+      "players": [
+        {
+          "id": 695,
+          "name": "Eldridge Recasner",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/695.png",
+          "position": "G",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 120,
+          "name": "Steven Smith",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/120.png",
+          "position": "G",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 302,
+          "name": "Mookie Blaylock",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/302.png",
+          "position": "G",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 968,
+          "name": "Priest Lauderdale",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/968.png",
+          "position": "C",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 468,
+          "name": "Jon Barry",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/468.png",
+          "position": "G",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 1096,
+          "name": "Ivano Newbill",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1096.png",
+          "position": "F",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 363,
+          "name": "Christian Laettner",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/363.png",
+          "position": "F",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 895,
+          "name": "Tyrone Corbin",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/895.png",
+          "position": "F",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 241,
+          "name": "Darrin Hancock",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/241.png",
+          "position": "F",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 1080,
+          "name": "Henry James",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1080.png",
+          "position": "F",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 673,
+          "name": "Alan Henderson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/673.png",
+          "position": "F",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        },
+        {
+          "id": 87,
+          "name": "Dikembe Mutombo",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/87.png",
+          "position": "C",
+          "team_id": 1610612737,
+          "team_name": "Atlanta Hawks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+        }
+      ]
+    },
+    "1610612738": {
+      "id": 1610612738,
+      "name": "Boston Celtics",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+      "country": "",
+      "players": [
+        {
+          "id": 133,
+          "name": "David Wesley",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/133.png",
+          "position": "G",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 1138,
+          "name": "Michael Hawkins",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1138.png",
+          "position": "G",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 244,
+          "name": "Dee Brown",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/244.png",
+          "position": "G",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 952,
+          "name": "Antoine Walker",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/952.png",
+          "position": "F",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 103,
+          "name": "Todd Day",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/103.png",
+          "position": "G-F",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 1041,
+          "name": "Nate Driggers",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1041.png",
+          "position": "G-F",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 55,
+          "name": "Marty Conlon",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/55.png",
+          "position": "F",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 984,
+          "name": "Steve Hamer",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/984.png",
+          "position": "C",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 1136,
+          "name": "Brett Szabo",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1136.png",
+          "position": "C",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 296,
+          "name": "Rick Fox",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/296.png",
+          "position": "F-G",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 175,
+          "name": "Alton Lister",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/175.png",
+          "position": "C-F",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        },
+        {
+          "id": 677,
+          "name": "Eric Williams",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/677.png",
+          "position": "F",
+          "team_id": 1610612738,
+          "team_name": "Boston Celtics",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+        }
+      ]
+    },
+    "1610612739": {
+      "id": 1610612739,
+      "name": "Cleveland Cavaliers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+      "country": "",
+      "players": [
+        {
+          "id": 210,
+          "name": "Terrell Brandon",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/210.png",
+          "position": "G",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 1002,
+          "name": "Reggie Geary",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1002.png",
+          "position": "G",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 682,
+          "name": "Bob Sura",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/682.png",
+          "position": "G",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 184,
+          "name": "Bobby Phills",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/184.png",
+          "position": "G",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 226,
+          "name": "Antonio Lang",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/226.png",
+          "position": "F",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 168,
+          "name": "Chris Mills",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/168.png",
+          "position": "F",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 238,
+          "name": "Tyrone Hill",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/238.png",
+          "position": "F-C",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 681,
+          "name": "Donny Marshall",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/681.png",
+          "position": "F",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 198,
+          "name": "Danny Ferry",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/198.png",
+          "position": "F",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 770,
+          "name": "Mark West",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/770.png",
+          "position": "C-F",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 1035,
+          "name": "Shawnelle Scott",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1035.png",
+          "position": "C",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 958,
+          "name": "Vitaly Potapenko",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/958.png",
+          "position": "C",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        },
+        {
+          "id": 36,
+          "name": "Sarunas Marciulionis",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/36.png",
+          "position": "G",
+          "team_id": 1610612739,
+          "team_name": "Cleveland Cavaliers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+        }
+      ]
+    },
+    "1610612741": {
+      "id": 1610612741,
+      "name": "Chicago Bulls",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+      "country": "",
+      "players": [
+        {
+          "id": 305,
+          "name": "Robert Parish",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/305.png",
+          "position": "C",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 753,
+          "name": "Randy Brown",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/753.png",
+          "position": "G",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 389,
+          "name": "Toni Kukoc",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/389.png",
+          "position": "G-F",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 166,
+          "name": "Ron Harper",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/166.png",
+          "position": "G",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 26,
+          "name": "Luc Longley",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/26.png",
+          "position": "C",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 183,
+          "name": "Bison Dele",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/183.png",
+          "position": "C",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 893,
+          "name": "Michael Jordan",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/893.png",
+          "position": "G",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 70,
+          "name": "Steve Kerr",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/70.png",
+          "position": "G",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 146,
+          "name": "Jud Buechler",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/146.png",
+          "position": "F",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 937,
+          "name": "Scottie Pippen",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/937.png",
+          "position": "F-G",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 679,
+          "name": "Jason Caffey",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/679.png",
+          "position": "F",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        },
+        {
+          "id": 23,
+          "name": "Dennis Rodman",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/23.png",
+          "position": "F",
+          "team_id": 1610612741,
+          "team_name": "Chicago Bulls",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+        }
+      ]
+    },
+    "1610612742": {
+      "id": 1610612742,
+      "name": "Dallas Mavericks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+      "country": "",
+      "players": [
+        {
+          "id": 1478,
+          "name": "Stevin Smith",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1478.png",
+          "position": "G",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 714,
+          "name": "Michael Finley",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/714.png",
+          "position": "F-G",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 390,
+          "name": "Sasha Danilovic",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/390.png",
+          "position": "G",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 234,
+          "name": "Khalid Reeves",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/234.png",
+          "position": "G",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 157,
+          "name": "Derek Harper",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/157.png",
+          "position": "G",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 982,
+          "name": "Martin Muursepp",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/982.png",
+          "position": "F",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 123,
+          "name": "Robert Pack",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/123.png",
+          "position": "G",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 1065,
+          "name": "Erick Strickland",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1065.png",
+          "position": "G",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 351,
+          "name": "Stacey King",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/351.png",
+          "position": "F-C",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 762,
+          "name": "Shawn Bradley",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/762.png",
+          "position": "C",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 920,
+          "name": "A.C. Green",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/920.png",
+          "position": "F",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        },
+        {
+          "id": 1068,
+          "name": "Greg Dreiling",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1068.png",
+          "position": "C",
+          "team_id": 1610612742,
+          "team_name": "Dallas Mavericks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+        }
+      ]
+    },
+    "1610612743": {
+      "id": 1610612743,
+      "name": "Denver Nuggets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+      "country": "",
+      "players": [
+        {
+          "id": 107,
+          "name": "Dale Ellis",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/107.png",
+          "position": "F-G",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 924,
+          "name": "Anthony Goldwire",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/924.png",
+          "position": "G",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 240,
+          "name": "Brooks Thompson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/240.png",
+          "position": "G",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 728,
+          "name": "Jimmy King",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/728.png",
+          "position": "G",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 67,
+          "name": "Tom Hammonds",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/67.png",
+          "position": "F",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 355,
+          "name": "Vincent Askew",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/355.png",
+          "position": "F",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 179,
+          "name": "Bryant Stith",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/179.png",
+          "position": "G",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 686,
+          "name": "Antonio McDyess",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/686.png",
+          "position": "F-C",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 678,
+          "name": "George Zidek",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/678.png",
+          "position": "C",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 181,
+          "name": "Kenny Smith",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/181.png",
+          "position": "G",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 911,
+          "name": "Ervin Johnson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/911.png",
+          "position": "C",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        },
+        {
+          "id": 706,
+          "name": "Jerome Allen",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/706.png",
+          "position": "G",
+          "team_id": 1610612743,
+          "team_name": "Denver Nuggets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+        }
+      ]
+    },
+    "1610612744": {
+      "id": 1610612744,
+      "name": "Golden State Warriors",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png",
+      "country": "",
+      "players": [
+        {
+          "id": 923,
+          "name": "Donyell Marshall",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/923.png",
+          "position": "F",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 511,
+          "name": "Melvin Booker",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/511.png",
+          "position": "G",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 84,
+          "name": "Latrell Sprewell",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/84.png",
+          "position": "G",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 904,
+          "name": "Chris Mullin",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/904.png",
+          "position": "F-G",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 691,
+          "name": "Lou Roe",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/691.png",
+          "position": "F",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 197,
+          "name": "Scott Burrell",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/197.png",
+          "position": "F-G",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 899,
+          "name": "Mark Price",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/899.png",
+          "position": "G",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 693,
+          "name": "Joe Smith",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/693.png",
+          "position": "F",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 986,
+          "name": "Marcus Mann",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/986.png",
+          "position": "F",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 1077,
+          "name": "Ray Owes",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1077.png",
+          "position": "F",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 280,
+          "name": "Felton Spencer",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/280.png",
+          "position": "C",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 957,
+          "name": "Todd Fuller",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/957.png",
+          "position": "C",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        },
+        {
+          "id": 692,
+          "name": "Andrew DeClercq",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/692.png",
+          "position": "F-C",
+          "team_id": 1610612744,
+          "team_name": "Golden State Warriors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/gsw.png"
+        }
+      ]
+    },
+    "1610612745": {
+      "id": 1610612745,
+      "name": "Houston Rockets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+      "country": "",
+      "players": [
+        {
+          "id": 9,
+          "name": "Sedale Threatt",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/9.png",
+          "position": "G",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 988,
+          "name": "Randy Livingston",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/988.png",
+          "position": "G",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 787,
+          "name": "Charles Barkley",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/787.png",
+          "position": "F",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 698,
+          "name": "Eddie Johnson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/698.png",
+          "position": "F",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 1074,
+          "name": "Matt Maloney",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1074.png",
+          "position": "G",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 53,
+          "name": "Mario Elie",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/53.png",
+          "position": "F-G",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 17,
+          "name": "Clyde Drexler",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/17.png",
+          "position": "G-F",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 279,
+          "name": "Charles Jones",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/279.png",
+          "position": "F-C",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 970,
+          "name": "Othella Harrington",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/970.png",
+          "position": "F",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 165,
+          "name": "Hakeem Olajuwon",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/165.png",
+          "position": "C",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 788,
+          "name": "Kevin Willis",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/788.png",
+          "position": "F-C",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        },
+        {
+          "id": 672,
+          "name": "Matt Bullard",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/672.png",
+          "position": "F",
+          "team_id": 1610612745,
+          "team_name": "Houston Rockets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+        }
+      ]
+    },
+    "1610612746": {
+      "id": 1610612746,
+      "name": "Los Angeles Clippers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+      "country": "",
+      "players": [
+        {
+          "id": 404,
+          "name": "Kevin Duckworth",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/404.png",
+          "position": "C",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 71,
+          "name": "Pooh Richardson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/71.png",
+          "position": "G",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 441,
+          "name": "Lamond Murray",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/441.png",
+          "position": "F-G",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 239,
+          "name": "Darrick Martin",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/239.png",
+          "position": "G",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 907,
+          "name": "Malik Sealy",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/907.png",
+          "position": "G-F",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 143,
+          "name": "Terry Dehere",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/143.png",
+          "position": "G",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 699,
+          "name": "Brent Barry",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/699.png",
+          "position": "G",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 919,
+          "name": "Loy Vaught",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/919.png",
+          "position": "F-C",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 448,
+          "name": "Bo Outlaw",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/448.png",
+          "position": "F",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 316,
+          "name": "Richard Manning",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/316.png",
+          "position": "C",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 15,
+          "name": "Eric Piatkowski",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/15.png",
+          "position": "G",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 915,
+          "name": "Rodney Rogers",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/915.png",
+          "position": "F",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        },
+        {
+          "id": 953,
+          "name": "Lorenzen Wright",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/953.png",
+          "position": "C",
+          "team_id": 1610612746,
+          "team_name": "Los Angeles Clippers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+        }
+      ]
+    },
+    "1610612747": {
+      "id": 1610612747,
+      "name": "Los Angeles Lakers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+      "country": "",
+      "players": [
+        {
+          "id": 965,
+          "name": "Derek Fisher",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/965.png",
+          "position": "G",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 2,
+          "name": "Byron Scott",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/2.png",
+          "position": "G",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 109,
+          "name": "Robert Horry",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/109.png",
+          "position": "F",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 224,
+          "name": "Eddie Jones",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/224.png",
+          "position": "G-F",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 977,
+          "name": "Kobe Bryant",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/977.png",
+          "position": "G",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 89,
+          "name": "Nick Van Exel",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/89.png",
+          "position": "G",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 760,
+          "name": "Jerome Kersey",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/760.png",
+          "position": "F",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 406,
+          "name": "Shaquille O'Neal",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/406.png",
+          "position": "C",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 969,
+          "name": "Travis Knight",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/969.png",
+          "position": "F-C",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 922,
+          "name": "Elden Campbell",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/922.png",
+          "position": "F-C",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 916,
+          "name": "Corie Blount",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/916.png",
+          "position": "F",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        {
+          "id": 399,
+          "name": "Sean Rooks",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/399.png",
+          "position": "C",
+          "team_id": 1610612747,
+          "team_name": "Los Angeles Lakers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        }
+      ]
+    },
+    "1610612748": {
+      "id": 1610612748,
+      "name": "Miami Heat",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+      "country": "",
+      "players": [
+        {
+          "id": 173,
+          "name": "Keith Askins",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/173.png",
+          "position": "F-G",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 1134,
+          "name": "Ike Austin",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1134.png",
+          "position": "C",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 105,
+          "name": "Dan Majerle",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/105.png",
+          "position": "F-G",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 896,
+          "name": "Tim Hardaway",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/896.png",
+          "position": "G",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 180,
+          "name": "John Crotty",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/180.png",
+          "position": "G",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 702,
+          "name": "Voshon Lenard",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/702.png",
+          "position": "G",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 469,
+          "name": "Jamal Mashburn",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/469.png",
+          "position": "F",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 1110,
+          "name": "Mark Strickland",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1110.png",
+          "position": "F",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 1109,
+          "name": "James Scott",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1109.png",
+          "position": "F",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 297,
+          "name": "Alonzo Mourning",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/297.png",
+          "position": "C",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 335,
+          "name": "Willie Anderson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/335.png",
+          "position": "G-F",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 136,
+          "name": "P.J. Brown",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/136.png",
+          "position": "F",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        },
+        {
+          "id": 291,
+          "name": "Ed Pinckney",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/291.png",
+          "position": "F",
+          "team_id": 1610612748,
+          "team_name": "Miami Heat",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+        }
+      ]
+    },
+    "1610612749": {
+      "id": 1610612749,
+      "name": "Milwaukee Bucks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+      "country": "",
+      "players": [
+        {
+          "id": 386,
+          "name": "Elliot Perry",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/386.png",
+          "position": "G",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 116,
+          "name": "David Wood",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/116.png",
+          "position": "F",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 288,
+          "name": "Armen Gilliam",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/288.png",
+          "position": "C-F",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 299,
+          "name": "Glenn Robinson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/299.png",
+          "position": "F",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 428,
+          "name": "Sherman Douglas",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/428.png",
+          "position": "G",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 271,
+          "name": "Johnny Newman",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/271.png",
+          "position": "G-F",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 341,
+          "name": "Joe Wolf",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/341.png",
+          "position": "C-F",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 457,
+          "name": "Andrew Lang",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/457.png",
+          "position": "C-F",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 951,
+          "name": "Ray Allen",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/951.png",
+          "position": "G",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 452,
+          "name": "Vin Baker",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/452.png",
+          "position": "F",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 359,
+          "name": "Chucky Brown",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/359.png",
+          "position": "F",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        },
+        {
+          "id": 768,
+          "name": "Acie Earl",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/768.png",
+          "position": "F-C",
+          "team_id": 1610612749,
+          "team_name": "Milwaukee Bucks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+        }
+      ]
+    },
+    "1610612750": {
+      "id": 1610612750,
+      "name": "Minnesota Timberwolves",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+      "country": "",
+      "players": [
+        {
+          "id": 950,
+          "name": "Stephon Marbury",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/950.png",
+          "position": "G",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 28,
+          "name": "Doug West",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/28.png",
+          "position": "G",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 1049,
+          "name": "Shane Heal",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1049.png",
+          "position": "G",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 1037,
+          "name": "Stojko Vrankovic",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1037.png",
+          "position": "C",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 708,
+          "name": "Kevin Garnett",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/708.png",
+          "position": "F",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 1051,
+          "name": "Dean Garrett",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1051.png",
+          "position": "C",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 339,
+          "name": "Tom Gugliotta",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/339.png",
+          "position": "F",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 381,
+          "name": "James Robinson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/381.png",
+          "position": "G",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 345,
+          "name": "Terry Porter",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/345.png",
+          "position": "G",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 417,
+          "name": "Sam Mitchell",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/417.png",
+          "position": "F",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 713,
+          "name": "Chris Carr",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/713.png",
+          "position": "G-F",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        },
+        {
+          "id": 685,
+          "name": "Cherokee Parks",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/685.png",
+          "position": "F",
+          "team_id": 1610612750,
+          "team_name": "Minnesota Timberwolves",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+        }
+      ]
+    },
+    "1610612751": {
+      "id": 1610612751,
+      "name": "Brooklyn Nets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+      "country": "",
+      "players": [
+        {
+          "id": 376,
+          "name": "Eric Montross",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/376.png",
+          "position": "C",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 208,
+          "name": "Sam Cassell",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/208.png",
+          "position": "G",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 383,
+          "name": "Kendall Gill",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/383.png",
+          "position": "F-G",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 423,
+          "name": "Chris Gatling",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/423.png",
+          "position": "C",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 236,
+          "name": "Kevin Edwards",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/236.png",
+          "position": "G",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 754,
+          "name": "Jim Jackson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/754.png",
+          "position": "G",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 954,
+          "name": "Kerry Kittles",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/954.png",
+          "position": "G",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 212,
+          "name": "Yinka Dare",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/212.png",
+          "position": "C-F",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 1365,
+          "name": "Xavier McDaniel",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1365.png",
+          "position": "F",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 170,
+          "name": "Joe Kleine",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/170.png",
+          "position": "C",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 438,
+          "name": "Robert Werdann",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/438.png",
+          "position": "C",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 763,
+          "name": "Tony Massenburg",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/763.png",
+          "position": "F",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        {
+          "id": 917,
+          "name": "Jack Haley",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/917.png",
+          "position": "C",
+          "team_id": 1610612751,
+          "team_name": "Brooklyn Nets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        }
+      ]
+    },
+    "1610612752": {
+      "id": 1610612752,
+      "name": "New York Knicks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png",
+      "country": "",
+      "players": [
+        {
+          "id": 164,
+          "name": "Chris Childs",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/164.png",
+          "position": "G",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 913,
+          "name": "Larry Johnson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/913.png",
+          "position": "F",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 317,
+          "name": "John Starks",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/317.png",
+          "position": "G",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 418,
+          "name": "Scott Brooks",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/418.png",
+          "position": "G",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 275,
+          "name": "Allan Houston",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/275.png",
+          "position": "G",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 369,
+          "name": "Charlie Ward",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/369.png",
+          "position": "G",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 1006,
+          "name": "Herb Williams",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1006.png",
+          "position": "C-F",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 121,
+          "name": "Patrick Ewing",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/121.png",
+          "position": "C",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 891,
+          "name": "Charles Oakley",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/891.png",
+          "position": "F-C",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 962,
+          "name": "Walter McCarty",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/962.png",
+          "position": "F",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 961,
+          "name": "John Wallace",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/961.png",
+          "position": "F",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        },
+        {
+          "id": 433,
+          "name": "Buck Williams",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/433.png",
+          "position": "F",
+          "team_id": 1610612752,
+          "team_name": "New York Knicks",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/nyk.png"
+        }
+      ]
+    },
+    "1610612753": {
+      "id": 1610612753,
+      "name": "Orlando Magic",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+      "country": "",
+      "players": [
+        {
+          "id": 1043,
+          "name": "Amal McCaskill",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1043.png",
+          "position": "C",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 358,
+          "name": "Anfernee Hardaway",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/358.png",
+          "position": "G",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 192,
+          "name": "Dennis Scott",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/192.png",
+          "position": "F",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 938,
+          "name": "Rony Seikaly",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/938.png",
+          "position": "C",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 353,
+          "name": "Darrell Armstrong",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/353.png",
+          "position": "G",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 216,
+          "name": "Brian Shaw",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/216.png",
+          "position": "G",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 786,
+          "name": "Gerald Wilkins",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/786.png",
+          "position": "G-F",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 7,
+          "name": "Dan Schayes",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/7.png",
+          "position": "C-F",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 98,
+          "name": "Nick Anderson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/98.png",
+          "position": "G-F",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 400,
+          "name": "Derek Strong",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/400.png",
+          "position": "F",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 967,
+          "name": "Brian Evans",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/967.png",
+          "position": "F",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        },
+        {
+          "id": 270,
+          "name": "Horace Grant",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/270.png",
+          "position": "F-C",
+          "team_id": 1610612753,
+          "team_name": "Orlando Magic",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+        }
+      ]
+    },
+    "1610612754": {
+      "id": 1610612754,
+      "name": "Indiana Pacers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+      "country": "",
+      "players": [
+        {
+          "id": 696,
+          "name": "Travis Best",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/696.png",
+          "position": "G",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 147,
+          "name": "Jalen Rose",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/147.png",
+          "position": "G",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 349,
+          "name": "Mark Jackson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/349.png",
+          "position": "G",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 697,
+          "name": "Fred Hoiberg",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/697.png",
+          "position": "G",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 956,
+          "name": "Erick Dampier",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/956.png",
+          "position": "C",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 273,
+          "name": "Duane Ferrell",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/273.png",
+          "position": "F",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 397,
+          "name": "Reggie Miller",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/397.png",
+          "position": "G",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 905,
+          "name": "Dale Davis",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/905.png",
+          "position": "F",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 213,
+          "name": "Antonio Davis",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/213.png",
+          "position": "F-C",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 1032,
+          "name": "Darvin Ham",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1032.png",
+          "position": "F",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 22,
+          "name": "Rik Smits",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/22.png",
+          "position": "C",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        },
+        {
+          "id": 1064,
+          "name": "Brent Scott",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1064.png",
+          "position": "F-C",
+          "team_id": 1610612754,
+          "team_name": "Indiana Pacers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+        }
+      ]
+    },
+    "1610612755": {
+      "id": 1610612755,
+      "name": "Philadelphia 76ers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+      "country": "",
+      "players": [
+        {
+          "id": 947,
+          "name": "Allen Iverson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/947.png",
+          "position": "G",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 262,
+          "name": "Michael Cage",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/262.png",
+          "position": "C-F",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 707,
+          "name": "Mark Davis",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/707.png",
+          "position": "F",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 77,
+          "name": "Doug Overton",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/77.png",
+          "position": "G",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 971,
+          "name": "Mark Hendrickson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/971.png",
+          "position": "F",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 701,
+          "name": "Frankie King",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/701.png",
+          "position": "G",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 221,
+          "name": "Clar. Weatherspoon",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/221.png",
+          "position": "F",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 711,
+          "name": "Jerry Stackhouse",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/711.png",
+          "position": "G-F",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 934,
+          "name": "Derrick Coleman",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/934.png",
+          "position": "F",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 154,
+          "name": "Adrian Caldwell",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/154.png",
+          "position": "F",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 1361,
+          "name": "Mark Bradtke",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1361.png",
+          "position": "C",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        },
+        {
+          "id": 281,
+          "name": "Scott Williams",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/281.png",
+          "position": "C",
+          "team_id": 1610612755,
+          "team_name": "Philadelphia 76ers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+        }
+      ]
+    },
+    "1610612756": {
+      "id": 1610612756,
+      "name": "Phoenix Suns",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+      "country": "",
+      "players": [
+        {
+          "id": 76,
+          "name": "Cedric Ceballos",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/76.png",
+          "position": "F",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 95,
+          "name": "Mark Bryant",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/95.png",
+          "position": "F",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 364,
+          "name": "Rex Chapman",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/364.png",
+          "position": "G",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 134,
+          "name": "Kevin Johnson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/134.png",
+          "position": "G",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 445,
+          "name": "Wesley Person",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/445.png",
+          "position": "G-F",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 959,
+          "name": "Steve Nash",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/959.png",
+          "position": "G",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 330,
+          "name": "Danny Manning",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/330.png",
+          "position": "F",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 73,
+          "name": "Hot Rod Williams",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/73.png",
+          "position": "C-F",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 47,
+          "name": "Wayman Tisdale",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/47.png",
+          "position": "F",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 467,
+          "name": "Jason Kidd",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/467.png",
+          "position": "G",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 684,
+          "name": "Loren Meyer",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/684.png",
+          "position": "F",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        {
+          "id": 1479,
+          "name": "Mike Brown",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1479.png",
+          "position": "C-F",
+          "team_id": 1610612756,
+          "team_name": "Phoenix Suns",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        }
+      ]
+    },
+    "1610612757": {
+      "id": 1610612757,
+      "name": "Portland Trail Blazers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+      "country": "",
+      "players": [
+        {
+          "id": 278,
+          "name": "Stacey Augmon",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/278.png",
+          "position": "G-F",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 361,
+          "name": "Clifford Robinson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/361.png",
+          "position": "F",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 979,
+          "name": "Jermaine O'Neal",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/979.png",
+          "position": "C",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 348,
+          "name": "Mitchell Butler",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/348.png",
+          "position": "G",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 72,
+          "name": "Kenny Anderson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/72.png",
+          "position": "G",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 112,
+          "name": "Dontonio Wingfield",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/112.png",
+          "position": "F",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 717,
+          "name": "Arvydas Sabonis",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/717.png",
+          "position": "C",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 716,
+          "name": "Rumeal Robinson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/716.png",
+          "position": "G",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 201,
+          "name": "Chris Dudley",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/201.png",
+          "position": "C",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 739,
+          "name": "Rasheed Wallace",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/739.png",
+          "position": "F",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 718,
+          "name": "Gary Trent",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/718.png",
+          "position": "F",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        {
+          "id": 375,
+          "name": "Isaiah Rider",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/375.png",
+          "position": "G",
+          "team_id": 1610612757,
+          "team_name": "Portland Trail Blazers",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        }
+      ]
+    },
+    "1610612758": {
+      "id": 1610612758,
+      "name": "Sacramento Kings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+      "country": "",
+      "players": [
+        {
+          "id": 178,
+          "name": "Olden Polynice",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/178.png",
+          "position": "C-F",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 782,
+          "name": "Mitch Richmond",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/782.png",
+          "position": "G",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 51,
+          "name": "Mahmoud Abdul-Rauf",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/51.png",
+          "position": "G",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 722,
+          "name": "Corliss Williamson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/722.png",
+          "position": "F",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 721,
+          "name": "Tyus Edney",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/721.png",
+          "position": "G",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 310,
+          "name": "Bobby Hurley",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/310.png",
+          "position": "G",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 81,
+          "name": "Jeff Grayer",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/81.png",
+          "position": "G",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 1489,
+          "name": "Lionel Simmons",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1489.png",
+          "position": "F",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 182,
+          "name": "Billy Owens",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/182.png",
+          "position": "F",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 1089,
+          "name": "Kevin Salvadori",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1089.png",
+          "position": "C",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 258,
+          "name": "Brian Grant",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/258.png",
+          "position": "F",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        {
+          "id": 63,
+          "name": "Michael Smith",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/63.png",
+          "position": "F",
+          "team_id": 1610612758,
+          "team_name": "Sacramento Kings",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        }
+      ]
+    },
+    "1610612759": {
+      "id": 1610612759,
+      "name": "San Antonio Spurs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png",
+      "country": "",
+      "players": [
+        {
+          "id": 724,
+          "name": "Cory Alexander",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/724.png",
+          "position": "G",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 42,
+          "name": "Monty Williams",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/42.png",
+          "position": "F",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 422,
+          "name": "Avery Johnson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/422.png",
+          "position": "G",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 61,
+          "name": "Carl Herrera",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/61.png",
+          "position": "F",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 137,
+          "name": "Vernon Maxwell",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/137.png",
+          "position": "G",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 219,
+          "name": "Vinny Del Negro",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/219.png",
+          "position": "G",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 1122,
+          "name": "Dominique Wilkins",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1122.png",
+          "position": "F",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 251,
+          "name": "Sean Elliott",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/251.png",
+          "position": "F",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 246,
+          "name": "Greg Anderson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/246.png",
+          "position": "C-F",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 781,
+          "name": "Will Perdue",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/781.png",
+          "position": "C",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 994,
+          "name": "Jamie Feick",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/994.png",
+          "position": "C-F",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        },
+        {
+          "id": 293,
+          "name": "Charles Smith",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/293.png",
+          "position": "F",
+          "team_id": 1610612759,
+          "team_name": "San Antonio Spurs",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sas.png"
+        }
+      ]
+    },
+    "1610612760": {
+      "id": 1610612760,
+      "name": "Oklahoma City Thunder",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+      "country": "",
+      "players": [
+        {
+          "id": 203,
+          "name": "Nate McMillan",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/203.png",
+          "position": "G",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 96,
+          "name": "Detlef Schrempf",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/96.png",
+          "position": "F",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 727,
+          "name": "Eric Snow",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/727.png",
+          "position": "G",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 64,
+          "name": "Sam Perkins",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/64.png",
+          "position": "F-C",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 56,
+          "name": "Gary Payton",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/56.png",
+          "position": "G",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 37,
+          "name": "Greg Graham",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/37.png",
+          "position": "G",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 29,
+          "name": "Jim McIlvaine",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/29.png",
+          "position": "C",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 1125,
+          "name": "Larry Stewart",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1125.png",
+          "position": "F",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 766,
+          "name": "David Wingate",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/766.png",
+          "position": "G",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 765,
+          "name": "Hersey Hawkins",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/765.png",
+          "position": "G",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 187,
+          "name": "Terry Cummings",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/187.png",
+          "position": "F",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        },
+        {
+          "id": 431,
+          "name": "Shawn Kemp",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/431.png",
+          "position": "F",
+          "team_id": 1610612760,
+          "team_name": "Oklahoma City Thunder",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+        }
+      ]
+    },
+    "1610612761": {
+      "id": 1610612761,
+      "name": "Toronto Raptors",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+      "country": "",
+      "players": [
+        {
+          "id": 412,
+          "name": "Sharone Wright",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/412.png",
+          "position": "C",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 32,
+          "name": "Clifford Rozier",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/32.png",
+          "position": "C-F",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 57,
+          "name": "Doug Christie",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/57.png",
+          "position": "G-F",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 757,
+          "name": "Damon Stoudamire",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/757.png",
+          "position": "G",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 948,
+          "name": "Marcus Camby",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/948.png",
+          "position": "F-C",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 1073,
+          "name": "Reggie Slater",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1073.png",
+          "position": "F",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 1381,
+          "name": "John Long",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1381.png",
+          "position": "G",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 704,
+          "name": "Shawn Respert",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/704.png",
+          "position": "G",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 729,
+          "name": "Martin Lewis",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/729.png",
+          "position": "F",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 435,
+          "name": "Carlos Rogers",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/435.png",
+          "position": "F",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 1005,
+          "name": "Walt Williams",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1005.png",
+          "position": "F-G",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        },
+        {
+          "id": 461,
+          "name": "Popeye Jones",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/461.png",
+          "position": "F",
+          "team_id": 1610612761,
+          "team_name": "Toronto Raptors",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+        }
+      ]
+    },
+    "1610612762": {
+      "id": 1610612762,
+      "name": "Utah Jazz",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png",
+      "country": "",
+      "players": [
+        {
+          "id": 731,
+          "name": "Greg Ostertag",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/731.png",
+          "position": "C",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 935,
+          "name": "Bryon Russell",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/935.png",
+          "position": "F",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 458,
+          "name": "Howard Eisley",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/458.png",
+          "position": "G",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 304,
+          "name": "John Stockton",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/304.png",
+          "position": "G",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 204,
+          "name": "Jeff Hornacek",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/204.png",
+          "position": "G",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 228,
+          "name": "Adam Keefe",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/228.png",
+          "position": "F",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 252,
+          "name": "Karl Malone",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/252.png",
+          "position": "F",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 356,
+          "name": "Chris Morris",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/356.png",
+          "position": "F",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 1000,
+          "name": "Shandon Anderson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1000.png",
+          "position": "F-G",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 1128,
+          "name": "Stephen Howard",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1128.png",
+          "position": "F",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 323,
+          "name": "Greg Foster",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/323.png",
+          "position": "C",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        },
+        {
+          "id": 156,
+          "name": "Antoine Carr",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/156.png",
+          "position": "C-F",
+          "team_id": 1610612762,
+          "team_name": "Utah Jazz",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png"
+        }
+      ]
+    },
+    "1610612763": {
+      "id": 1610612763,
+      "name": "Memphis Grizzlies",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+      "country": "",
+      "players": [
+        {
+          "id": 21,
+          "name": "Greg Anthony",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/21.png",
+          "position": "G",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 949,
+          "name": "Shareef Abdur-Rahim",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/949.png",
+          "position": "F",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 997,
+          "name": "Chris Robinson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/997.png",
+          "position": "G",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 324,
+          "name": "Anthony Peeler",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/324.png",
+          "position": "G",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 195,
+          "name": "Lee Mayberry",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/195.png",
+          "position": "G",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 1425,
+          "name": "Aaron Williams",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1425.png",
+          "position": "F",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 734,
+          "name": "Lawrence Moten",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/734.png",
+          "position": "G",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 898,
+          "name": "Blue Edwards",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/898.png",
+          "position": "F-G",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 432,
+          "name": "Pete Chilcutt",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/432.png",
+          "position": "F-C",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 964,
+          "name": "Roy Rogers",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/964.png",
+          "position": "F",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 78009,
+          "name": "Roy Rogers",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/78009.png",
+          "position": "F",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 735,
+          "name": "Bryant Reeves",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/735.png",
+          "position": "C",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        },
+        {
+          "id": 287,
+          "name": "Eric Leckner",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/287.png",
+          "position": "C",
+          "team_id": 1610612763,
+          "team_name": "Memphis Grizzlies",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+        }
+      ]
+    },
+    "1610612764": {
+      "id": 1610612764,
+      "name": "Washington Wizards",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png",
+      "country": "",
+      "players": [
+        {
+          "id": 393,
+          "name": "Rod Strickland",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/393.png",
+          "position": "G",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 185,
+          "name": "Chris Webber",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/185.png",
+          "position": "F-C",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 436,
+          "name": "Juwan Howard",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/436.png",
+          "position": "F-C",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 43,
+          "name": "Chris Whitney",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/43.png",
+          "position": "G",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 100,
+          "name": "Tim Legler",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/100.png",
+          "position": "G",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 1112,
+          "name": "Ben Wallace",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1112.png",
+          "position": "F",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 1114,
+          "name": "Jaren Jackson",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/1114.png",
+          "position": "G",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 145,
+          "name": "Tracy Murray",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/145.png",
+          "position": "F",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 384,
+          "name": "Calbert Cheaney",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/384.png",
+          "position": "G-F",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 31,
+          "name": "Lorenzo Williams",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/31.png",
+          "position": "C-F",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 265,
+          "name": "Harvey Grant",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/265.png",
+          "position": "F",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        },
+        {
+          "id": 49,
+          "name": "Gheorghe Muresan",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/49.png",
+          "position": "C",
+          "team_id": 1610612764,
+          "team_name": "Washington Wizards",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/was.png"
+        }
+      ]
+    },
+    "1610612765": {
+      "id": 1610612765,
+      "name": "Detroit Pistons",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+      "country": "",
+      "players": [
+        {
+          "id": 283,
+          "name": "Lindsey Hunter",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/283.png",
+          "position": "G",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 247,
+          "name": "Joe Dumars",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/247.png",
+          "position": "G",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 371,
+          "name": "Terry Mills",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/371.png",
+          "position": "C-F",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 688,
+          "name": "Michael Curry",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/688.png",
+          "position": "G-F",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 966,
+          "name": "Jerome Williams",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/966.png",
+          "position": "F",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 243,
+          "name": "Aaron McKie",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/243.png",
+          "position": "G",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 255,
+          "name": "Grant Hill",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/255.png",
+          "position": "F-G",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 689,
+          "name": "Theo Ratliff",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/689.png",
+          "position": "C-F",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 3,
+          "name": "Grant Long",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/3.png",
+          "position": "F",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 328,
+          "name": "Rick Mahorn",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/328.png",
+          "position": "C-F",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 901,
+          "name": "Otis Thorpe",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/901.png",
+          "position": "F-C",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        },
+        {
+          "id": 690,
+          "name": "Don Reid",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/690.png",
+          "position": "C-F",
+          "team_id": 1610612765,
+          "team_name": "Detroit Pistons",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+        }
+      ]
+    },
+    "1610612766": {
+      "id": 1610612766,
+      "name": "Charlotte Hornets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
+      "country": "",
+      "players": [
+        {
+          "id": 960,
+          "name": "Tony Delk",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/960.png",
+          "position": "G",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 177,
+          "name": "Muggsy Bogues",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/177.png",
+          "position": "G",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 140,
+          "name": "Donald Royal",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/140.png",
+          "position": "F",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 912,
+          "name": "Rafael Addison",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/912.png",
+          "position": "F",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 124,
+          "name": "Vlade Divac",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/124.png",
+          "position": "C",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 193,
+          "name": "Anthony Mason",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/193.png",
+          "position": "F",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 894,
+          "name": "Ricky Pierce",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/894.png",
+          "position": "G",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 209,
+          "name": "Dell Curry",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/209.png",
+          "position": "G",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 990,
+          "name": "Malik Rose",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/990.png",
+          "position": "F",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 380,
+          "name": "Tony Smith",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/380.png",
+          "position": "G",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 779,
+          "name": "Glen Rice",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/779.png",
+          "position": "F-G",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        {
+          "id": 761,
+          "name": "Matt Geiger",
+          "photo": "https://cdn.nba.com/headshots/nba/latest/1040x760/761.png",
+          "position": "F-C",
+          "team_id": 1610612766,
+          "team_name": "Charlotte Hornets",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        }
+      ]
+    }
+  }
+}
