@@ -4,7 +4,6 @@
     {
       "id": "football",
       "emoji": "🇪🇺",
-      "access": "free",
       "title": {
         "tr": "Avrupa Ligleri",
         "en": "European Leagues"
@@ -13,14 +12,8 @@
         "tr": "6 lig",
         "en": "6 leagues"
       },
+      "access": "free",
       "comingSoon": false,
-      "rules": {
-        "gridColumns": 0,
-        "easySeconds": 240,
-        "mediumSeconds": 180,
-        "hardSeconds": 120,
-        "wrongPenaltySeconds": 3
-      },
       "theme": {
         "primaryColor": "FF1DB954",
         "backgroundColor": "FF0A0A0A",
@@ -29,7 +22,6 @@
         "cardBackColor": "FF1E1E1E",
         "cardBackEmoji": "⚽",
         "cardBackLabel": "Pairson",
-        "motif": "pitch",
         "entityEmoji": "👤",
         "groupEmoji": "🛡️",
         "entityLabel": {
@@ -39,7 +31,15 @@
         "groupLabel": {
           "tr": "Takım",
           "en": "Team"
-        }
+        },
+        "motif": "pitch"
+      },
+      "rules": {
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3,
+        "gridColumns": 0
       },
       "packs": [
         {
@@ -102,7 +102,8 @@
           "file": "league_203.json",
           "version": 1
         }
-      ]
+      ],
+      "enabled": true
     },
     {
       "id": "movies",
@@ -452,11 +453,11 @@
         "en": "Basketball"
       },
       "subtitle": {
-        "tr": "Yakında",
-        "en": "Coming Soon"
+        "tr": "NBA — Güncel & Retro",
+        "en": "NBA — Current & Retro"
       },
       "access": "trial",
-      "comingSoon": true,
+      "comingSoon": false,
       "theme": {
         "primaryColor": "FFE8742C",
         "backgroundColor": "FF0C0805",
@@ -484,7 +485,38 @@
         "wrongPenaltySeconds": 3,
         "gridColumns": 0
       },
-      "packs": [],
+      "packs": [
+        {
+          "id": "nba",
+          "emoji": "🏀",
+          "name": {
+            "tr": "NBA Güncel",
+            "en": "NBA Current"
+          },
+          "file": "league_nba.json",
+          "version": 1
+        },
+        {
+          "id": "nba_90s",
+          "emoji": "📼",
+          "name": {
+            "tr": "NBA 90'lar",
+            "en": "NBA 90s"
+          },
+          "file": "league_nba_90s.json",
+          "version": 1
+        },
+        {
+          "id": "nba_2000s",
+          "emoji": "💿",
+          "name": {
+            "tr": "NBA 2000'ler",
+            "en": "NBA 2000s"
+          },
+          "file": "league_nba_2000s.json",
+          "version": 1
+        }
+      ],
       "enabled": true
     },
     {
@@ -529,48 +561,6 @@
       },
       "packs": [],
       "enabled": true
-    },
-    {
-      "id": "picture_maker",
-      "emoji": "🎨",
-      "access": "trial",
-      "title": {
-        "tr": "Sanat",
-        "en": "Art"
-      },
-      "subtitle": {
-        "tr": "Resim-Ressam",
-        "en": "Pictures - Artists "
-      },
-      "comingSoon": true,
-      "rules": {
-        "gridColumns": 2,
-        "easySeconds": 240,
-        "mediumSeconds": 180,
-        "hardSeconds": 120,
-        "wrongPenaltySeconds": 3
-      },
-      "theme": {
-        "primaryColor": "00FF145",
-        "backgroundColor": "FF0A0A0A",
-        "surfaceColor": "FF161616",
-        "cardFrontColor": "FF242424",
-        "cardBackColor": "EAEBE7",
-        "cardBackEmoji": "🎴",
-        "cardBackLabel": "Pairson",
-        "motif": "film",
-        "entityEmoji": "👤",
-        "groupEmoji": "🏷️",
-        "entityLabel": {
-          "tr": "Kişi",
-          "en": "Person"
-        },
-        "groupLabel": {
-          "tr": "Grup",
-          "en": "Group"
-        }
-      },
-      "packs": []
     }
   ]
 }
