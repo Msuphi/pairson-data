@@ -4,6 +4,7 @@
     {
       "id": "football",
       "emoji": "🇪🇺",
+      "access": "free",
       "title": {
         "tr": "Avrupa Ligleri",
         "en": "European Leagues"
@@ -12,8 +13,14 @@
         "tr": "6 lig",
         "en": "6 leagues"
       },
-      "access": "free",
       "comingSoon": false,
+      "rules": {
+        "gridColumns": 0,
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3
+      },
       "theme": {
         "primaryColor": "FF1DB954",
         "backgroundColor": "FF0A0A0A",
@@ -22,6 +29,7 @@
         "cardBackColor": "FF1E1E1E",
         "cardBackEmoji": "⚽",
         "cardBackLabel": "Pairson",
+        "motif": "pitch",
         "entityEmoji": "👤",
         "groupEmoji": "🛡️",
         "entityLabel": {
@@ -31,15 +39,7 @@
         "groupLabel": {
           "tr": "Takım",
           "en": "Team"
-        },
-        "motif": "pitch"
-      },
-      "rules": {
-        "easySeconds": 240,
-        "mediumSeconds": 180,
-        "hardSeconds": 120,
-        "wrongPenaltySeconds": 3,
-        "gridColumns": 0
+        }
       },
       "packs": [
         {
@@ -102,8 +102,7 @@
           "file": "league_203.json",
           "version": 1
         }
-      ],
-      "enabled": true
+      ]
     },
     {
       "id": "movies",
