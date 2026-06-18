@@ -39,7 +39,11 @@
         "mediumSeconds": 180,
         "hardSeconds": 120,
         "wrongPenaltySeconds": 3,
-        "gridColumns": 0
+        "gridColumns": 0,
+        "correctBonusSeconds": 5,
+        "easyFlipBackMs": 1200,
+        "mediumFlipBackMs": 1000,
+        "hardFlipBackMs": 800
       },
       "packs": [
         {
@@ -143,7 +147,11 @@
         "mediumSeconds": 180,
         "hardSeconds": 120,
         "wrongPenaltySeconds": 3,
-        "gridColumns": 0
+        "gridColumns": 0,
+        "correctBonusSeconds": 5,
+        "easyFlipBackMs": 1200,
+        "mediumFlipBackMs": 1000,
+        "hardFlipBackMs": 800
       },
       "packs": [
         {
@@ -217,7 +225,11 @@
         "mediumSeconds": 180,
         "hardSeconds": 120,
         "wrongPenaltySeconds": 3,
-        "gridColumns": 0
+        "gridColumns": 0,
+        "correctBonusSeconds": 5,
+        "easyFlipBackMs": 1200,
+        "mediumFlipBackMs": 1000,
+        "hardFlipBackMs": 800
       },
       "packs": [
         {
@@ -291,7 +303,11 @@
         "mediumSeconds": 180,
         "hardSeconds": 120,
         "wrongPenaltySeconds": 3,
-        "gridColumns": 0
+        "gridColumns": 0,
+        "correctBonusSeconds": 5,
+        "easyFlipBackMs": 1200,
+        "mediumFlipBackMs": 1000,
+        "hardFlipBackMs": 800
       },
       "packs": [
         {
@@ -345,7 +361,11 @@
         "mediumSeconds": 240,
         "hardSeconds": 180,
         "wrongPenaltySeconds": 3,
-        "gridColumns": 3
+        "gridColumns": 3,
+        "correctBonusSeconds": 5,
+        "easyFlipBackMs": 1200,
+        "mediumFlipBackMs": 1000,
+        "hardFlipBackMs": 800
       },
       "packs": [
         {
@@ -399,7 +419,11 @@
         "mediumSeconds": 180,
         "hardSeconds": 120,
         "wrongPenaltySeconds": 3,
-        "gridColumns": 0
+        "gridColumns": 0,
+        "correctBonusSeconds": 5,
+        "easyFlipBackMs": 1200,
+        "mediumFlipBackMs": 1000,
+        "hardFlipBackMs": 800
       },
       "packs": [
         {
@@ -483,15 +507,19 @@
         "mediumSeconds": 180,
         "hardSeconds": 120,
         "wrongPenaltySeconds": 3,
-        "gridColumns": 0
+        "gridColumns": 0,
+        "correctBonusSeconds": 5,
+        "easyFlipBackMs": 1200,
+        "mediumFlipBackMs": 1000,
+        "hardFlipBackMs": 800
       },
       "packs": [
         {
           "id": "nba",
           "emoji": "🏀",
           "name": {
-            "tr": "NBA Güncel",
-            "en": "NBA Current"
+            "tr": "Güncel Kadro",
+            "en": "Current Roster"
           },
           "file": "league_nba.json",
           "version": 1
@@ -500,8 +528,8 @@
           "id": "nba_90s",
           "emoji": "📼",
           "name": {
-            "tr": "NBA 90'lar",
-            "en": "NBA 90s"
+            "tr": "90'lar",
+            "en": "90s"
           },
           "file": "league_nba_90s.json",
           "version": 1
@@ -510,8 +538,8 @@
           "id": "nba_2000s",
           "emoji": "💿",
           "name": {
-            "tr": "NBA 2000'ler",
-            "en": "NBA 2000s"
+            "tr": "2000'ler",
+            "en": "2000s"
           },
           "file": "league_nba_2000s.json",
           "version": 1
@@ -557,7 +585,11 @@
         "mediumSeconds": 180,
         "hardSeconds": 120,
         "wrongPenaltySeconds": 3,
-        "gridColumns": 0
+        "gridColumns": 0,
+        "correctBonusSeconds": 5,
+        "easyFlipBackMs": 1200,
+        "mediumFlipBackMs": 1000,
+        "hardFlipBackMs": 800
       },
       "packs": [],
       "enabled": true
