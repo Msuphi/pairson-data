@@ -472,16 +472,27 @@
     {
       "id": "basketball",
       "emoji": "🏀",
+      "access": "trial",
       "title": {
         "tr": "Basketbol",
         "en": "Basketball"
       },
       "subtitle": {
-        "tr": "NBA — Güncel & Retro",
-        "en": "NBA — Current & Retro"
+        "tr": "Basketbol — Güncel & Retro",
+        "en": "Basketball — Current & Retro"
       },
-      "access": "trial",
       "comingSoon": false,
+      "rules": {
+        "gridColumns": 0,
+        "easySeconds": 240,
+        "mediumSeconds": 180,
+        "hardSeconds": 120,
+        "wrongPenaltySeconds": 3,
+        "correctBonusSeconds": 5,
+        "easyFlipBackMs": 1200,
+        "mediumFlipBackMs": 1000,
+        "hardFlipBackMs": 800
+      },
       "theme": {
         "primaryColor": "FFE8742C",
         "backgroundColor": "FF0C0805",
@@ -490,6 +501,7 @@
         "cardBackColor": "FF1E1610",
         "cardBackEmoji": "🏀",
         "cardBackLabel": "Pairson",
+        "motif": "court",
         "entityEmoji": "👤",
         "groupEmoji": "🏀",
         "entityLabel": {
@@ -499,19 +511,7 @@
         "groupLabel": {
           "tr": "Takım",
           "en": "Team"
-        },
-        "motif": "court"
-      },
-      "rules": {
-        "easySeconds": 240,
-        "mediumSeconds": 180,
-        "hardSeconds": 120,
-        "wrongPenaltySeconds": 3,
-        "gridColumns": 0,
-        "correctBonusSeconds": 5,
-        "easyFlipBackMs": 1200,
-        "mediumFlipBackMs": 1000,
-        "hardFlipBackMs": 800
+        }
       },
       "packs": [
         {
@@ -544,8 +544,7 @@
           "file": "league_nba_2000s.json",
           "version": 1
         }
-      ],
-      "enabled": true
+      ]
     },
     {
       "id": "national",
